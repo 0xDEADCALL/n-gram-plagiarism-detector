@@ -2,6 +2,8 @@
 from pathlib import Path
 from errno import ENOENT
 from os import strerror
+from nltk.tokenize import word_tokenize
+from nltk.util import ngrams
 
 import xml.etree.ElementTree as ET
 
@@ -53,6 +55,7 @@ class DataHandler:
         features = xmlroot.findall("feature[@name = 'plagiarism']")
 
         return [feature.attrib for feature in features]
+
 
 
 
