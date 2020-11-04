@@ -3,12 +3,9 @@ from NGram import *
 from DependencyRelations import *
 
 data = DataHandler("data/corpus/source-document", "data/corpus/suspicious-document")
-SS = list(data.get_suspicious_fnames()[0])[6]
-SO = list(data.get_source_fnames()[0])[0]
+txt_source, xml_source = list(data.get_source_fnames())
+txt_susp, xml_susp = list(data.get_suspicious_fnames())
 
-
-DSS = DependencyRelations(file_path=SS)
-DSO = DependencyRelations(file_path=SO)
-
-print(DSS.similarity(DSO))
-
+f = list(xml_susp)[6]
+print(f)
+print(data.get_plagiarism_refs(f))
