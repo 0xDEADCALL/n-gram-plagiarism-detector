@@ -7,6 +7,7 @@ from errors import *
 from errno import ENOENT
 from os import strerror
 
+
 # TODO:
 #   - Add proper documentation to methods
 class NGram:
