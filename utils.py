@@ -13,8 +13,8 @@ def launch_corenlp_server(corenlp_folder: PurePath):
     if not (corenlp_folder.exists()):
         raise FileNotFoundError(ENOENT, strerror(ENOENT), corenlp_folder)
 
-    command = '''java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer \\ 
-             -preload tokenize,ssplit,pos,depparse \\ 
+    command = '''java -mx2g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer \\ 
+             -preload tokenize, ssplit, pos, depparse  -annotators depparse\\ 
              -status_port 9000 -port 9000 -timeout 15000 -quiet True & '''
 
     try:

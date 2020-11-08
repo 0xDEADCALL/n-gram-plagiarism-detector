@@ -1,38 +1,18 @@
 import pathlib
 
 from collections import Counter
-from nltk.parse.corenlp import CoreNLPDependencyParser
-from nltk.tokenize import sent_tokenize
 from errors import *
 from errno import ENOENT
 from os import strerror
-
+import stanza
 
 # TODO:
 #   - Add proper documentation to methods
 
-def _dep_rel_as_list(text):
-    try:
-        parser = CoreNLPDependencyParser(url="http://localhost:9000")
-    except:  # Need to add de correct exceptions
-        print("Is CoreNLP running???")
-        return
-
-    sentences = sent_tokenize(text)
-    dependencies = []
-
-    for sentence in sentences:
-        parsed = parser.raw_parse(sentence)
-        for y in [list(x.triples()) for x in parsed]:
-            for gov, dep, dependent in y:
-                dependencies.append((dep, gov[0], dependent[0]))
-
-    return dependencies
-
-
 class DependencyRelations:
-    def __init__(self, dep_list: list):
+    def __init__(self, dep_list: list, nlp):
         self.__list = dep_list
+        self._nlp = nlp
 
     def __repr__(self):
         head = "\n".join(str(x) for x in self.__list[:5])
@@ -43,6 +23,17 @@ class DependencyRelations:
 
     def __iter__(self):
         return iter(self.__list)
+
+    def _dep_rel_as_list(self, text):
+        dependencies = []
+        doc = self._nlp(text)
+
+        for s in doc.sentences:
+            for w in s.words:
+                dependencies.append((w.text,
+                                     s.words[w.head - 1].text if w.head > 0 else "root",
+                                     w.deprel))
+        return dependencies
 
     @classmethod
     def from_txt_file(cls, file_path: pathlib.PurePath):
@@ -73,6 +64,7 @@ class DependencyRelations:
     @classmethod
     def from_str(cls, text_str: str):
         return cls(_dep_rel_as_list(text_str))
+
 
     def save(self, file_path: pathlib.PurePath):
         # Check if we have a PurePath object
