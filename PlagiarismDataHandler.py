@@ -6,11 +6,13 @@ from os import strerror
 from errors import *
 from NGram import *
 from DependencyRelations import *
+from random import sample
 
 from istarmap import *
 import xml.etree.ElementTree as ET
 import tqdm
 import shutil
+import stanza
 
 
 # TODO:
@@ -25,12 +27,12 @@ def save_ngram_protected(path: pathlib.PurePath, output: pathlib.PurePath, order
         NGram.from_txt_file(path, order).save(output / (path.stem + ".NGram"))
 
 
-def save_dep_protected(path: pathlib.PurePath, output: pathlib.PurePath, force_rewrite=True):
+def save_dep_protected(path: pathlib.PurePath, output: pathlib.PurePath, nlp, force_rewrite=True):
     if path.exists():
         if force_rewrite:
-            DependencyRelations.from_txt_file(path).save(output / (path.stem + ".dep"))
+            DependencyRelations.from_txt_file(path, nlp).save(output / (path.stem + ".dep"))
     else:
-        DependencyRelations.from_txt_file(path).save(output / (path.stem + ".dep"))
+        DependencyRelations.from_txt_file(path, nlp).save(output / (path.stem + ".dep"))
 
 
 class PlagiarismFile:
@@ -85,6 +87,8 @@ class PlagiarismDataHandler:
         self.txt_source_paths, self.xml_source_paths = map(list, self.__get_source_paths())
         self.txt_suspicious_paths, self.xml_suspicious_paths = map(list, self.__get_suspicious_paths())
 
+        self.plagiarized, self.non_plagiarized = self.rebuild_plagiarized()
+
     def __get_source_paths(self):
         txtfiles = self.root_source.glob("*.txt")
         xmlfiles = self.root_source.glob("*.xml")
@@ -97,27 +101,55 @@ class PlagiarismDataHandler:
 
         return txtfiles, xmlfiles
 
-    def rebuild(self):
+    def rebuild_files(self):
         self.txt_source_paths, self.xml_source_paths = map(list, self.__get_source_paths())
         self.txt_suspicious_paths, self.xml_suspicious_paths = map(list, self.__get_suspicious_paths())
 
-    def build_subset(self, total: int, max_plagiarized: int):
-        # Let's classify first the docs
+    def rebuild_plagiarized(self):
         plagiarized = []
-        nonplagiarized = []
-        source = []
+        non_plagiarized = []
 
         for sus_file in self.xml_suspicious_paths:
             ref = PlagiarismFile(sus_file)
 
             if ref.has_plagiarized_refs():
-                plagiarized.append((sus_file, ref))
+                plagiarized.append((sus_file.with_suffix(".txt"), ref))
             else:
-                nonplagiarized.append(sus_file)
+                non_plagiarized.append(sus_file.with_suffix(".txt"))
 
+        return plagiarized, non_plagiarized
 
+    def build_subset(self, total: int, plagiarized_percent: float):
+        # Let's classify first the docs
+        source = []
+        plagiarized = []
+        n = round(total * plagiarized_percent)
 
+        for file in sample(self.plagiarized, n):
+            plagiarized.append(file[0])
+            for ref in file[1].plagiarized_refs:
+                sp = self.root_source / ref["source_file"]
+                if sp not in source:
+                    source.append(sp.with_suffix(".txt"))
 
+        plagiarized += sample(self.non_plagiarized, total - n)
+        if len(source) < total:
+            source += sample(self.txt_source_paths, total - len(source))
+
+        # Make zip file
+        Path("subset").mkdir(parents=True)
+        Path("subset/source-document").mkdir(parents=True)
+        Path("subset/suspicious-document").mkdir(parents=True)
+
+        for f in tqdm.tqdm(source, desc="Copying suspicious files..."):
+            shutil.copy(f, Path("subset/source-document") / f.name)
+
+        for f in tqdm.tqdm(plagiarized, desc="Copying source files..."):
+            shutil.copy(f, Path("subset/suspicious-document") / f.name)
+
+        print("Compresing files...")
+        shutil.make_archive("subset", "zip", "subset")
+        shutil.rmtree(Path("subset"))
 
     def gen_ngram_files(self, order: int, output: pathlib.PurePath, threads: int = 1, force_rewrite=True,
                         verbose=True, max_source=None, max_suspicious=None):
@@ -159,8 +191,8 @@ class PlagiarismDataHandler:
                                total=len(args_suspicious),
                                disable=not verbose,
                                desc="Writing suspicious .NGram files"))
-    """
-    def gen_dep_files(self, output: pathlib.PurePath, threads: int = 1, force_rewrite=True,
+
+    def gen_dep_files(self, output: pathlib.PurePath, force_rewrite=True,
                       verbose=True, max_source=None, max_suspicious=None):
 
         if not isinstance(output, PurePath):
@@ -179,9 +211,12 @@ class PlagiarismDataHandler:
         source_files = self.txt_source_paths[:max_source]
         suspicious_files = self.txt_suspicious_paths[:max_suspicious]
 
-        args_source = list(zip(source_files,
-                               [out_source] * len(source_files),
-                               [force_rewrite] * len(source_files)))
+        nlp = stanza.Pipeline(lang='en', processors='tokenize,pos,lemma,depparse',
+                              batch_size=32, dep_batch_size=32,
+                              lem_batch_size=32, token_batch_size=32,
+                              use_gpu=False)
 
         # Complete with stanza
-        """
+        for file in tqdm.tqdm(suspicious_files):
+            save_dep_protected(file, out_suspicious, nlp)
+

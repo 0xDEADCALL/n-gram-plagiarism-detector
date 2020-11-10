@@ -1,4 +1,6 @@
 data
+subset
+.zip
 stanford-corenlp-4.1.0
 __pycache__
 .idea
