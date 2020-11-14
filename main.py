@@ -8,6 +8,7 @@ if __name__ == '__main__':
     # data.build_subset(500, 0.5)
 
     subdata = PlagiarismDataHandler("subset/source-document", "subset/suspicious-document")
-    subdata.gen_dep_files(Path("subset"))
+    subdata.gen_ngram_files(3, Path("subset"),)
+    #subdata.gen_dep_files(Path("subset"))
 
 

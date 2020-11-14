@@ -36,19 +36,17 @@ def save_dep_protected(path: pathlib.PurePath, output: pathlib.PurePath, nlp, fo
 
 
 class PlagiarismFile:
-    def __init__(self, xml_path: PurePath = None):
+    def __init__(self, xml_path: PurePath):
         self.xml_path = xml_path
         self.plagiarized_refs = None
 
-        if xml_path is not None:
-            if not isinstance(xml_path, PurePath):
-                raise NotPurePathError("xml arg is not PurePath object")
+        if not isinstance(xml_path, PurePath):
+            raise NotPurePathError("xml arg is not PurePath object")
 
-            if not (xml_path.exists()):
-                raise FileNotFoundError(ENOENT, strerror(ENOENT), xml_path)
+        if not xml_path.exists():
+            raise FileNotFoundError(ENOENT, strerror(ENOENT), xml_path)
 
-            self.xml_path = xml_path
-            self.plagiarized_refs = self.__process_xml()
+        self.plagiarized_refs = self.__process_xml()
 
     def __process_xml(self):
         xmlroot = ET.parse(self.xml_path).getroot()
@@ -119,7 +117,7 @@ class PlagiarismDataHandler:
 
         return plagiarized, non_plagiarized
 
-    def build_subset(self, total: int, plagiarized_percent: float):
+    def build_subset(self, output: Path, total: int, plagiarized_percent: float, make_zip: False):
         # Let's classify first the docs
         source = []
         plagiarized = []
@@ -136,20 +134,25 @@ class PlagiarismDataHandler:
         if len(source) < total:
             source += sample(self.txt_source_paths, total - len(source))
 
-        # Make zip file
-        Path("subset").mkdir(parents=True)
-        Path("subset/source-document").mkdir(parents=True)
-        Path("subset/suspicious-document").mkdir(parents=True)
+        # Make subset folder
+        output.mkdir(parents=True)
+        source_path = (output / "source-document")
+        source_path.mkdir(parents=True)
+        suspicious_path = (output / "suspicious-document")
+        suspicious_path.mkdir(parents=True)
 
-        for f in tqdm.tqdm(source, desc="Copying suspicious files..."):
-            shutil.copy(f, Path("subset/source-document") / f.name)
+        for f in tqdm.tqdm(source, desc="Copying source files..."):
+            shutil.copy(f, source_path / f.name)
+            shutil.copy(f.with_suffix(".xml"), source_path / (f.name + ".xml"))
 
-        for f in tqdm.tqdm(plagiarized, desc="Copying source files..."):
-            shutil.copy(f, Path("subset/suspicious-document") / f.name)
+        for f in tqdm.tqdm(plagiarized, desc="Copying suspicious files..."):
+            shutil.copy(f, suspicious_path / f.name)
+            shutil.copy(f.with_suffix(".xml"), suspicious_path / (f.name + ".xml"))
 
-        print("Compresing files...")
-        shutil.make_archive("subset", "zip", "subset")
-        shutil.rmtree(Path("subset"))
+        if make_zip:
+            print("Compresing files...")
+            shutil.make_archive("subset", "zip", "subset")
+            shutil.rmtree(Path("subset"))
 
     def gen_ngram_files(self, order: int, output: pathlib.PurePath, threads: int = 1, force_rewrite=True,
                         verbose=True, max_source=None, max_suspicious=None):
@@ -211,12 +214,12 @@ class PlagiarismDataHandler:
         source_files = self.txt_source_paths[:max_source]
         suspicious_files = self.txt_suspicious_paths[:max_suspicious]
 
-        nlp = stanza.Pipeline(lang='en', processors='tokenize,pos,lemma,depparse',
-                              batch_size=32, dep_batch_size=32,
-                              lem_batch_size=32, token_batch_size=32,
-                              use_gpu=False)
+        nlp = stanza.Pipeline(lang='en', processors='tokenize,pos,lemma,depparse', use_gpu=False)
 
-        # Complete with stanza
-        for file in tqdm.tqdm(suspicious_files):
+        for file in tqdm.tqdm(source_files,
+                              desc="Generating source .dep files"):
+            save_dep_protected(file, out_source, nlp)
+
+        for file in tqdm.tqdm(suspicious_files,
+                              desc="Generating suspicious .dep files"):
             save_dep_protected(file, out_suspicious, nlp)
-
