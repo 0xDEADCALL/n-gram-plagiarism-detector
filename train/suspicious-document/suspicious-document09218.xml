@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09218.txt">
+  <feature name="about" authors="Allen, Isaac" title="Is Slavery Sanctioned by the Bible?" lang="en" />
+  <feature name="md5Hash" value="70eb0c6a8c0f2652d3bbdb429e80dcc1" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="653" this_length="255" source_reference="source-document10561.txt" source_language="en" source_offset="12881" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10678" this_length="2086" source_reference="source-document10794.txt" source_language="en" source_offset="7244" source_length="3241" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17284" this_length="2729" source_reference="source-document10794.txt" source_language="en" source_offset="78" source_length="2743" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31005" this_length="3559" source_reference="source-document10794.txt" source_language="en" source_offset="11501" source_length="3310" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42326" this_length="1473" source_reference="source-document10561.txt" source_language="en" source_offset="5799" source_length="1718" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45391" this_length="505" source_reference="source-document10561.txt" source_language="en" source_offset="9397" source_length="505" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46038" this_length="448" source_reference="source-document10561.txt" source_language="en" source_offset="4790" source_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47753" this_length="769" source_reference="source-document10561.txt" source_language="en" source_offset="3675" source_length="821" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="50123" this_length="235" source_reference="source-document10561.txt" source_language="en" source_offset="2313" source_length="260" />
+</document>
+

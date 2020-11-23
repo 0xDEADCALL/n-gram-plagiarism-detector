@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00834.txt">
+  <feature name="about" authors="Collingwood, Harry" title="The Congo Rovers A Story of the Slave Squadron" lang="en" />
+  <feature name="md5Hash" value="46c1575331ac8e0b2882fab3b0e5406e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3834" this_length="531" source_reference="source-document04753.txt" source_language="en" source_offset="430787" source_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10073" this_length="1651" source_reference="source-document03309.txt" source_language="en" source_offset="154847" source_length="1490" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43003" this_length="27201" source_reference="source-document04753.txt" source_language="en" source_offset="73512" source_length="24531" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="279756" this_length="2130" source_reference="source-document04753.txt" source_language="en" source_offset="206030" source_length="2504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="359970" this_length="22078" source_reference="source-document09448.txt" source_language="en" source_offset="4858" source_length="25007" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="546736" this_length="736" source_reference="source-document09448.txt" source_language="en" source_offset="32242" source_length="699" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="549778" this_length="267" source_reference="source-document09448.txt" source_language="en" source_offset="30420" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="562553" this_length="1533" source_reference="source-document02278.txt" source_language="en" source_offset="7309" source_length="1585" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="569725" this_length="444" source_reference="source-document06325.txt" source_language="en" source_offset="592" source_length="460" />
+</document>
+

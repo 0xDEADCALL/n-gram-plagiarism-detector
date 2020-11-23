@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03961.txt">
+  <feature name="about" authors="Tremaine, Frederick Orlin" title="Wanted—7 Fearless Engineers!" lang="en" />
+  <feature name="md5Hash" value="e4a7ff6128517ee4eff2fc12bbbcbf5e" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5722" this_length="19485" source_reference="source-document03141.txt" source_language="en" source_offset="120102" source_length="17923" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26037" this_length="1423" source_reference="source-document01371.txt" source_language="en" source_offset="5195" source_length="1428" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27854" this_length="468" source_reference="source-document08137.txt" source_language="en" source_offset="7250" source_length="451" />
+</document>
+

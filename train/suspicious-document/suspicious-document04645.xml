@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04645.txt">
+  <feature name="about" authors="Rhodius, Apollonius" title="The Argonautica" lang="en" />
+  <feature name="md5Hash" value="c019d8225032b086a511269d29d837b2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1824" this_length="4289" source_reference="source-document05674.txt" source_language="en" source_offset="106906" source_length="4202" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24727" this_length="1507" source_reference="source-document05674.txt" source_language="en" source_offset="21011" source_length="1513" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35693" this_length="4015" source_reference="source-document06179.txt" source_language="en" source_offset="2618" source_length="4206" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="50220" this_length="265" source_reference="source-document06179.txt" source_language="en" source_offset="14225" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62222" this_length="11988" source_reference="source-document05674.txt" source_language="en" source_offset="271063" source_length="19013" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="156729" this_length="21086" source_reference="source-document05674.txt" source_language="en" source_offset="61613" source_length="19776" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="239954" this_length="3206" source_reference="source-document05674.txt" source_language="en" source_offset="309152" source_length="3235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="258353" this_length="2941" source_reference="source-document05674.txt" source_language="en" source_offset="241485" source_length="2965" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="277044" this_length="3388" source_reference="source-document06179.txt" source_language="en" source_offset="8890" source_length="3477" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="294617" this_length="4903" source_reference="source-document05674.txt" source_language="en" source_offset="320148" source_length="4789" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="321173" this_length="3366" source_reference="source-document05674.txt" source_language="en" source_offset="138606" source_length="3261" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="327536" this_length="227" source_reference="source-document05674.txt" source_language="en" source_offset="154698" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="329666" this_length="433" source_reference="source-document06179.txt" source_language="en" source_offset="7478" source_length="459" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="332798" this_length="516" source_reference="source-document06179.txt" source_language="en" source_offset="1634" source_length="515" />
+</document>
+

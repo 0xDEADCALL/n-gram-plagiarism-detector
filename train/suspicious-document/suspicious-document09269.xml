@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09269.txt">
+  <feature name="about" authors="Ebers, Georg" title="Arachne — Volume 02" lang="en" />
+  <feature name="md5Hash" value="2d1a78d3957cf539714553f9a294bb6f" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="40666" this_length="3796" source_reference="source-document00738.txt" source_language="en" source_offset="399129" source_length="3839" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78884" this_length="511" source_reference="source-document00738.txt" source_language="en" source_offset="332516" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88028" this_length="234" source_reference="source-document00738.txt" source_language="en" source_offset="998842" source_length="227" />
+</document>
+

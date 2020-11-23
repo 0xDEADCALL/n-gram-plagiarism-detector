@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05101.txt">
+  <feature name="about" authors="Meredith, George" title="The Adventures of Harry Richmond — Volume 1" lang="en" />
+  <feature name="md5Hash" value="9774d4a521bbc4a25efe31b7e4402465" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1406" this_length="20632" source_reference="source-document00513.txt" source_language="en" source_offset="9812" source_length="19699" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25051" this_length="20157" source_reference="source-document00513.txt" source_language="en" source_offset="152889" source_length="21783" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46243" this_length="22553" source_reference="source-document00513.txt" source_language="en" source_offset="36182" source_length="24242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71779" this_length="14280" source_reference="source-document00513.txt" source_language="en" source_offset="326238" source_length="21009" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="87019" this_length="4462" source_reference="source-document10610.txt" source_language="en" source_offset="6029" source_length="4656" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92320" this_length="4119" source_reference="source-document00513.txt" source_language="en" source_offset="113992" source_length="4150" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="97827" this_length="15665" source_reference="source-document00513.txt" source_language="en" source_offset="135392" source_length="16085" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="114452" this_length="4397" source_reference="source-document00513.txt" source_language="en" source_offset="248981" source_length="4988" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="119347" this_length="4691" source_reference="source-document10610.txt" source_language="en" source_offset="0" source_length="5029" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="124205" this_length="2457" source_reference="source-document10610.txt" source_language="en" source_offset="14613" source_length="2508" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="127064" this_length="3923" source_reference="source-document00513.txt" source_language="en" source_offset="176539" source_length="4058" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="131439" this_length="2732" source_reference="source-document00513.txt" source_language="en" source_offset="219161" source_length="2797" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134314" this_length="458" source_reference="source-document00513.txt" source_language="en" source_offset="269206" source_length="460" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="134773" this_length="252" source_reference="source-document10610.txt" source_language="en" source_offset="13132" source_length="251" />
+</document>
+

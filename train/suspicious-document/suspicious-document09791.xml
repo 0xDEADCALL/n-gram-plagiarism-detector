@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09791.txt">
+  <feature name="about" authors="Trollope, Anthony" title="Mr. Scarborough's Family" lang="en" />
+  <feature name="md5Hash" value="39ad02ced91c1099cca6ec0a88627ae2" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="39514" this_length="4535" source_reference="source-document00208.txt" source_language="en" source_offset="43742" source_length="4537" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="93443" this_length="250" source_reference="source-document06104.txt" source_language="en" source_offset="3450" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="101661" this_length="490" source_reference="source-document06104.txt" source_language="en" source_offset="37891" source_length="490" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="132343" this_length="4906" source_reference="source-document06104.txt" source_language="en" source_offset="45832" source_length="5004" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="211452" this_length="2543" source_reference="source-document00208.txt" source_language="en" source_offset="58507" source_length="2542" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="256449" this_length="260" source_reference="source-document00208.txt" source_language="en" source_offset="24783" source_length="261" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="270338" this_length="752" source_reference="source-document06104.txt" source_language="en" source_offset="51470" source_length="745" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="279019" this_length="262" source_reference="source-document00208.txt" source_language="en" source_offset="9743" source_length="262" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="286142" this_length="262" source_reference="source-document00208.txt" source_language="en" source_offset="10507" source_length="264" />
+</document>
+

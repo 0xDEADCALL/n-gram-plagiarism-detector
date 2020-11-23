@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07353.txt">
+  <feature name="about" authors="Thackeray, William Makepeace" title="Little Travels and Roadside Sketches" lang="en" />
+  <feature name="md5Hash" value="83a2919534eb3d72f85b08b2c9525504" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2134" this_length="2233" source_reference="source-document00179.txt" source_language="en" source_offset="1457" source_length="2302" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10284" this_length="1425" source_reference="source-document09521.txt" source_language="en" source_offset="7591" source_length="1462" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13628" this_length="4116" source_reference="source-document09521.txt" source_language="en" source_offset="2307" source_length="4014" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27867" this_length="1558" source_reference="source-document00179.txt" source_language="en" source_offset="21270" source_length="1533" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31596" this_length="469" source_reference="source-document09521.txt" source_language="en" source_offset="0" source_length="464" />
+</document>
+

@@ -1,6 +1,4 @@
 data/corpus
-subset
-subset.zip
-stanford-corenlp-4.1.0
+train
 __pycache__
 .idea

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01290.txt">
+  <feature name="about" authors="Otis, James" title="Ralph Gurney's Oil Speculation" lang="en" />
+  <feature name="md5Hash" value="86e1e631fb865ece795a5dfe90531b5d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="97551" this_length="9916" source_reference="source-document01348.txt" source_language="en" source_offset="1174326" source_length="18629" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="197679" this_length="17186" source_reference="source-document01348.txt" source_language="en" source_offset="1346667" source_length="18206" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="320386" this_length="15844" source_reference="source-document02462.txt" source_language="en" source_offset="235699" source_length="16355" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="348040" this_length="560" source_reference="source-document02462.txt" source_language="en" source_offset="255619" source_length="536" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="351379" this_length="259" source_reference="source-document02462.txt" source_language="en" source_offset="16405" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="354197" this_length="483" source_reference="source-document02462.txt" source_language="en" source_offset="366616" source_length="455" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02260.txt">
+  <feature name="about" authors="Twain, Mark" title="The Adventures of Tom Sawyer, Part 2." lang="en" />
+  <feature name="md5Hash" value="829a9cd22939fe5cb4f9279d58645f86" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="125" this_length="1882" source_reference="source-document08802.txt" source_language="en" source_offset="2591" source_length="3887" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2079" this_length="796" source_reference="source-document08802.txt" source_language="en" source_offset="19279" source_length="795" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2876" this_length="254" source_reference="source-document08802.txt" source_language="en" source_offset="23448" source_length="249" />
+</document>
+

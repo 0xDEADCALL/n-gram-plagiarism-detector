@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10786.txt">
+  <feature name="about" authors="Faudel, Henry" title="Suggestions to the Jews for improvement in reference to their charities, education, and general government" lang="en" />
+  <feature name="md5Hash" value="cdf7ef14376bf3fb8bcd6e0d3ba04645" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1827" this_length="12900" source_reference="source-document07043.txt" source_language="en" source_offset="9802" source_length="16725" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15695" this_length="15383" source_reference="source-document07043.txt" source_language="en" source_offset="40775" source_length="19199" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32115" this_length="3481" source_reference="source-document03275.txt" source_language="en" source_offset="7274" source_length="3459" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35992" this_length="444" source_reference="source-document03275.txt" source_language="en" source_offset="3228" source_length="454" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36437" this_length="3222" source_reference="source-document03275.txt" source_language="en" source_offset="3682" source_length="3288" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="40246" this_length="3585" source_reference="source-document01588.txt" source_language="en" source_offset="8225" source_length="3547" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44225" this_length="523" source_reference="source-document07043.txt" source_language="en" source_offset="34481" source_length="521" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44749" this_length="516" source_reference="source-document07043.txt" source_language="en" source_offset="64579" source_length="464" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45266" this_length="242" source_reference="source-document07043.txt" source_language="en" source_offset="28848" source_length="240" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45509" this_length="240" source_reference="source-document07043.txt" source_language="en" source_offset="38940" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45750" this_length="543" source_reference="source-document07043.txt" source_language="en" source_offset="8977" source_length="501" />
+</document>
+

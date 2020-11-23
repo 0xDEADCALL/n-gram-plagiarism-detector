@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07805.txt">
+  <feature name="about" authors="Archer, Thomas" title="Miss Grantley's Girls And the Stories She Told Them" lang="en" />
+  <feature name="md5Hash" value="9865863b01d9ba04160e88ed3167ad60" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6112" this_length="15581" source_reference="source-document02571.txt" source_language="en" source_offset="70712" source_length="24036" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="28765" this_length="21951" source_reference="source-document02571.txt" source_language="en" source_offset="214687" source_length="24065" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="56016" this_length="16090" source_reference="source-document06229.txt" source_language="en" source_offset="5032" source_length="17440" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="81032" this_length="18225" source_reference="source-document02571.txt" source_language="en" source_offset="35573" source_length="18837" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105473" this_length="15356" source_reference="source-document02224.txt" source_language="en" source_offset="4064" source_length="22674" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="125611" this_length="12777" source_reference="source-document02571.txt" source_language="en" source_offset="159047" source_length="24738" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="144122" this_length="3466" source_reference="source-document02571.txt" source_language="en" source_offset="338584" source_length="3480" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="148993" this_length="4684" source_reference="source-document02571.txt" source_language="en" source_offset="135526" source_length="4922" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="155155" this_length="1489" source_reference="source-document02571.txt" source_language="en" source_offset="315196" source_length="1672" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="157575" this_length="4566" source_reference="source-document02571.txt" source_language="en" source_offset="120690" source_length="4744" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="163338" this_length="3888" source_reference="source-document06229.txt" source_language="en" source_offset="24862" source_length="3940" />
+</document>
+

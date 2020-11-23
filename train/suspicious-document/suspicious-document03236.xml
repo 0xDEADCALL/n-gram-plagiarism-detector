@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03236.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="The Talisman" lang="en" />
+  <feature name="md5Hash" value="695a807c8e3c09ad7392fe5037b3e3c9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1138" this_length="543" source_reference="source-document10723.txt" source_language="en" source_offset="1070" source_length="545" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6417" this_length="513" source_reference="source-document10723.txt" source_language="en" source_offset="2731" source_length="494" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14184" this_length="227" source_reference="source-document10723.txt" source_language="en" source_offset="13579" source_length="243" />
+</document>
+

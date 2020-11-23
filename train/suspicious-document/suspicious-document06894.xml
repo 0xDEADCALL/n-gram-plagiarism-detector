@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06894.txt">
+  <feature name="about" authors="Lytton, Edward Bulwer Lytton, Baron" title="Tomlinsoniana" lang="en" />
+  <feature name="md5Hash" value="9124b039a9ce726222c03003d035df08" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3614" this_length="313" source_reference="source-document04915.txt" source_language="en" source_offset="116587" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6796" this_length="250" source_reference="source-document04915.txt" source_language="en" source_offset="1670" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14310" this_length="279" source_reference="source-document04915.txt" source_language="en" source_offset="92096" source_length="249" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21100" this_length="781" source_reference="source-document04915.txt" source_language="en" source_offset="83067" source_length="721" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="38613" this_length="470" source_reference="source-document04915.txt" source_language="en" source_offset="12599" source_length="472" />
+</document>
+

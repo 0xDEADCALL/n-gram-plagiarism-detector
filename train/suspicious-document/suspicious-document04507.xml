@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04507.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="Modern Broods" lang="en" />
+  <feature name="md5Hash" value="28ba5628d39d4fef9f53693642987a4a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1059" this_length="4962" source_reference="source-document02887.txt" source_language="en" source_offset="98998" source_length="5026" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7792" this_length="3672" source_reference="source-document02887.txt" source_language="en" source_offset="182340" source_length="3785" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12043" this_length="537" source_reference="source-document02887.txt" source_language="en" source_offset="19880" source_length="547" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12581" this_length="1530" source_reference="source-document02887.txt" source_language="en" source_offset="134255" source_length="1482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="14636" this_length="225" source_reference="source-document02887.txt" source_language="en" source_offset="16920" source_length="246" />
+</document>
+

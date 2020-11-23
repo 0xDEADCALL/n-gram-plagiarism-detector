@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02063.txt">
+  <feature name="about" authors="Byrum, Isabel Coston" title="The value of a praying mother" lang="en" />
+  <feature name="md5Hash" value="bb6bf874941f283d0a85692c166fcfc9" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="4817" this_length="4948" source_reference="source-document01167.txt" source_language="en" source_offset="172922" source_length="4946" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="65283" this_length="4152" source_reference="source-document05737.txt" source_language="en" source_offset="7709" source_length="4256" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="99637" this_length="2237" source_reference="source-document01516.txt" source_language="en" source_offset="26064" source_length="2240" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="130050" this_length="1913" source_reference="source-document07332.txt" source_language="en" source_offset="8057" source_length="1912" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="138593" this_length="538" source_reference="source-document01516.txt" source_language="en" source_offset="184559" source_length="539" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="141654" this_length="255" source_reference="source-document01516.txt" source_language="en" source_offset="224438" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="144635" this_length="291" source_reference="source-document01516.txt" source_language="en" source_offset="120055" source_length="250" />
+</document>
+

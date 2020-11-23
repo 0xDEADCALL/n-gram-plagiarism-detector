@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05708.txt">
+  <feature name="about" authors="Wilson, John" title="Recreations of Christopher North, Volume 2" lang="en" />
+  <feature name="md5Hash" value="a3aae14c8759fe134ffdd36fb4647865" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3487" this_length="18339" source_reference="source-document09838.txt" source_language="en" source_offset="55578" source_length="21282" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="219817" this_length="2650" source_reference="source-document03793.txt" source_language="en" source_offset="1107" source_length="2707" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="242687" this_length="3518" source_reference="source-document06901.txt" source_language="en" source_offset="54191" source_length="3549" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="279375" this_length="1904" source_reference="source-document06901.txt" source_language="en" source_offset="67562" source_length="2009" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="310021" this_length="2771" source_reference="source-document06901.txt" source_language="en" source_offset="16220" source_length="2744" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="321869" this_length="3112" source_reference="source-document09838.txt" source_language="en" source_offset="50813" source_length="3309" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="354933" this_length="802" source_reference="source-document06901.txt" source_language="en" source_offset="19176" source_length="816" />
+</document>
+

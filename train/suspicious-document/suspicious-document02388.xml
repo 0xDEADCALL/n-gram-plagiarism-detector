@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02388.txt">
+  <feature name="about" authors="La Fayette, Marie-Madeleine Pioche de La Vergne" title="The Princess of Cleves" lang="en" />
+  <feature name="md5Hash" value="c097c7a316e1428f7d5cd3fd55085279" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="527" source_reference="source-document00796.txt" source_language="en" source_offset="417840" source_length="535" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8872" this_length="23007" source_reference="source-document00796.txt" source_language="en" source_offset="207525" source_length="23937" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="38359" this_length="10796" source_reference="source-document00796.txt" source_language="en" source_offset="71448" source_length="16952" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59792" this_length="14132" source_reference="source-document00796.txt" source_language="en" source_offset="254923" source_length="19277" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="75220" this_length="2212" source_reference="source-document00796.txt" source_language="en" source_offset="110231" source_length="2258" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="86709" this_length="10046" source_reference="source-document00796.txt" source_language="en" source_offset="532436" source_length="23211" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="98120" this_length="539" source_reference="source-document00796.txt" source_language="en" source_offset="170302" source_length="542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="102092" this_length="23869" source_reference="source-document00796.txt" source_language="en" source_offset="429046" source_length="23538" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="135353" this_length="14079" source_reference="source-document00796.txt" source_language="en" source_offset="235299" source_length="18634" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="155574" this_length="20281" source_reference="source-document00796.txt" source_language="en" source_offset="351743" source_length="22194" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="184708" this_length="3428" source_reference="source-document00796.txt" source_language="en" source_offset="585028" source_length="3530" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="189036" this_length="1536" source_reference="source-document00796.txt" source_language="en" source_offset="304013" source_length="1676" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="196304" this_length="23733" source_reference="source-document00796.txt" source_language="en" source_offset="173088" source_length="24954" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="229859" this_length="18616" source_reference="source-document00796.txt" source_language="en" source_offset="387413" source_length="18166" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="257793" this_length="10828" source_reference="source-document00796.txt" source_language="en" source_offset="144334" source_length="16387" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="270675" this_length="3241" source_reference="source-document00796.txt" source_language="en" source_offset="95370" source_length="3423" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="275362" this_length="4040" source_reference="source-document00796.txt" source_language="en" source_offset="9481" source_length="4423" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="282070" this_length="4716" source_reference="source-document00796.txt" source_language="en" source_offset="313137" source_length="4803" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="286787" this_length="2178" source_reference="source-document00796.txt" source_language="en" source_offset="166161" source_length="2315" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="289385" this_length="1627" source_reference="source-document00796.txt" source_language="en" source_offset="488833" source_length="1585" />
+</document>
+

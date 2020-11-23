@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00075.txt">
+  <feature name="about" authors="Schreiner, Olive" title="Trooper Peter Halket of Mashonaland" lang="en" />
+  <feature name="md5Hash" value="a9e6692ae397b808eada19490cec5b86" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3698" this_length="14951" source_reference="source-document04718.txt" source_language="en" source_offset="1901" source_length="15095" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27970" this_length="741" source_reference="source-document04718.txt" source_language="en" source_offset="215" source_length="738" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29021" this_length="3125" source_reference="source-document08279.txt" source_language="en" source_offset="34158" source_length="3170" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35638" this_length="1552" source_reference="source-document04117.txt" source_language="en" source_offset="313658" source_length="1601" />
+</document>
+

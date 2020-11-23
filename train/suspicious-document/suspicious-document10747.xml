@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10747.txt">
+  <feature name="about" authors="Müller, George" title="A Narrative of Some of the Lord's Dealings with George Müller Written by Himself, Fourth Part" lang="en" />
+  <feature name="md5Hash" value="c68b203f9ca2276a33e6685a23e47667" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="172217" this_length="22931" source_reference="source-document00175.txt" source_language="en" source_offset="54415" source_length="24100" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="243163" this_length="710" source_reference="source-document01780.txt" source_language="en" source_offset="23471" source_length="748" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="259489" this_length="2349" source_reference="source-document01780.txt" source_language="en" source_offset="14283" source_length="2341" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="291881" this_length="14357" source_reference="source-document06083.txt" source_language="en" source_offset="18080" source_length="15250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="500305" this_length="18773" source_reference="source-document06233.txt" source_language="en" source_offset="187586" source_length="22214" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="659316" this_length="15218" source_reference="source-document06233.txt" source_language="en" source_offset="63197" source_length="15002" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="796080" this_length="813" source_reference="source-document06083.txt" source_language="en" source_offset="3352" source_length="824" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="798925" this_length="261" source_reference="source-document06083.txt" source_language="en" source_offset="14002" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="800894" this_length="227" source_reference="source-document06233.txt" source_language="en" source_offset="182251" source_length="229" />
+</document>
+

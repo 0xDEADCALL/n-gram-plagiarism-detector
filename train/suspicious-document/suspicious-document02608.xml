@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02608.txt">
+  <feature name="about" authors="Black, Helen C." title="Mrs. Hungerford Notable Women Authors of the Day" lang="en" />
+  <feature name="md5Hash" value="f95fce56b75762046bbf0964ba094049" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2083" this_length="3990" source_reference="source-document09603.txt" source_language="en" source_offset="320336" source_length="3744" />
+</document>
+

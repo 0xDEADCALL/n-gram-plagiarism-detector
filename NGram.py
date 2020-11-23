@@ -6,6 +6,7 @@ from nltk.util import ngrams
 from errors import *
 from errno import ENOENT
 from os import strerror
+from PreprocessText import preprocess
 
 
 # TODO:
@@ -26,7 +27,7 @@ class NGram:
         return iter(self.__list)
 
     @classmethod
-    def from_txt_file(cls, file_path: pathlib.PurePath, order: int):
+    def from_txt_file(cls, file_path: pathlib.PurePath, order: int, transformations: list = ["tok"]):
         # Check if we have a PurePath object
         if not isinstance(file_path, pathlib.PurePath):
             raise NotPurePathError
@@ -36,7 +37,12 @@ class NGram:
             raise FileNotFoundError(ENOENT, strerror(ENOENT), file_path)
 
         with open(file_path, "r", encoding="utf-8-sig") as f:
-            return cls(list(ngrams(word_tokenize(f.read()), order)), order)
+            # Force tokenization, required for ngrams
+            if "tok" not in transformations:
+                transformations.append("tok")
+
+            text = preprocess(f.read(), transformations)
+            return cls(list(ngrams(text, order)), order)
 
     @classmethod
     def from_ngram_file(cls, file_path: pathlib.PurePath):
@@ -53,7 +59,11 @@ class NGram:
             return cls([tuple(line.rstrip().split("~")) for line in lines[1:]], int(lines[0]))
 
     @classmethod
-    def from_str(cls, text_str: str, order: int):
+    def from_str(cls, text_str: str, order: int, transformations: list = ["tok"]):
+        # Force tokenization, required for ngrams
+        if "tok" not in transformations:
+            transformations.append("tok")
+
         return cls(list(ngrams(word_tokenize(text_str), order)), order)
 
     def similarity(self, ngram, coef_type: str = "jaccard"):

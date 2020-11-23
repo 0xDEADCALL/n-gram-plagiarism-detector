@@ -1,0 +1,2936 @@
+﻿SHAKESPEARE STUDY PROGRAMS: THE COMEDIES
+
+by
+
+CHARLOTTE PORTER & HELEN A. CLARKE
+
+Authors of The Tragedies Editors of the Pembroke Shakespeare, the First Folio Shakespeare,
+Poet Lore, etc.
+
+Boston: Richard G. Badger Toronto: The Copp Clark Co., Limited The Gorham Press, Boston, U.S.A.
+
+INTRODUCTORY NOTE
+
+The Shakespeare Study Programs appeared originally in Poet Lore. They have met with marked
+favor, and have been reprinted as the back numbers went out of print. The steady demand for
+these programs prompts the present issue in book-form. Several new programs have been added,
+and those reprinted have been revised.
+
+The references in this volume are to the "First Folio Edition" of Shakespeare, edited by Charlotte
+Porter.
+
+"Criticism is the endeavour to find, to know, to love, to recommend not only the best, but
+all the good that has been known and thought and written in the world. ... It shows how to
+grasp and how to enjoy;... it helps the ear to listen when the horns of England blow."
+
+--GEORGE SAINTSBURY, "History of Criticism."
+
+CONTENTS
+
+The Comedie of Errors
+
+The Two Gentlemen of Verona
+
+The Taming of the Shrew
+
+Love's Labour's Lost
+
+Much Adoe About Nothing
+
+A Midsommer Nights Dreame
+
+The Merchant of Venice
+
+The Merry Wives of Windsor
+
+As You Like It
+
+Twelfe Night
+
+The Tempest
+
+The Winter's Tale
+
+THE COMEDIE OF ERRORS
+
+In the Summer of 1594 a translation of a Latin Farce by the Roman Dramatist, Plautus, was made
+ready for publication in London. It may even have been published then, for, although the title
+page date is 1595, then, as often now, the issue was made in advance of date. Circulation in
+MS., moreover, now unusual, was then common.
+
+This translation was registered, at any rate, for publication, June 16, 1594, as "A Booke entitled
+Menæchmi, being a pleasant and fine conceited comedy taken out of the most wittie poet Plautus,
+chosen purposely from out the rest as being the least harmful and most delightful."
+
+Six months later, Shakespeare had made an English Farce out of this Latin one. He invented
+several new characters, arranged many new situations, and put a good deal more life-likeness
+in the relations of the characters, while yet it may be seen that, his new play, "The Comedie
+of Errors," was directly drawn from the old one by Plautus.
+
+The first record we have of Shakespeare as an actor before Queen Elizabeth relates to the performance
+in Christmas week of this same year of "twoe severall comedies." This record in the Accounts
+of the Treasurer who paid out the money for the Plays acted before the Queen, runs as follows:
+
+"To William Kempe, William Shakespeare, and Richard Burbage, servaunts to the Lord Chamberleyn
+upon the Councelles warrant dated at Whitehall xv. die. Marcij 1594 [1595], for twoe severall
+comedies or enterludes, shewed by them before her Majestie in Christmas tyme laste paste, viz.,
+upon St. Stephen daye, [Dec. 26,] and Innocente's day, [Dec. 28,] xiii^{li} vi^{s} viij^{d}
+and by way of her Majesties rewarde vi^{li} xiij^{s} iv^{d} in all xx^{li}."
+
+It is fair to infer that the "Comedie of Errors" was one of these two comedies, for on the
+evening of the 28th of December, 1594, there arose a sudden necessity to hire an entertainment
+to take the place at Gray's Inn, one of the great Law Schools of London, of a Play by the students
+which had gone to pieces. In lieu of this amateur play, for which a great stage had been built
+in their Hall, it is recorded that the great throng assembled were forced, first, to "content
+themselves with ordinary dancing and revelling, and when that was over, with a Comedy of Errors
+like to Plautus his Menoechmus, which was played by the players." That these "players" were
+public players is shown in the Gray's Inn account of these Christmas festivities by another
+reference to this "company of base and common fellows" who were "foisted" in "to make up our
+disorders with a play of Errors and Confusions."
+
+Since this substitution of the "players" Play for the Play by the young gentlemen students
+was unexpected, we can be sure it was not made for this occasion. It seems obvious that whatever
+comedy was specially designed by Shakespeare and his fellow actors for their Christmas performances
+before the Queen at Greenwich, would be apt to be chosen for a sudden repetition at Gray's
+Inn the same evening. And of course for such an institution of scholarly gentlemen as Gray's
+Inn, a farce based on Plautus would be likely to be thought appropriate.
+
+So Mrs. Charlotte Stopes argues, who brought into association these facts and dates. She brings
+out also, another curious incident or two concerning what we may take to be the earliest performances
+of "The Comedie of Errors." One is that the mother of the Earl of Southampton,--the young nobleman
+who was Shakespeare's patron and to whom the Poet dedicated "Venus and Adonis" and "Lucrece,"--was
+then acting officially for her late husband. Thus it fell to her care to make up his accounts
+as Treasurer of the Chamber, and she it was who wrote this particular notice of the acting
+of Shakespeare before Queen Elizabeth. Others acting as Treasurer did not find it worth their
+while to include the Actors' names in their accounts. This notice of hers is the first and
+last to mention names in this way. Her son, being a Gray's Inn man, would have been in a position
+to suggest the substitution of Shakespeare's Play and as a friend of Shakespeare's would desire
+to do so.
+
+The other incident of biographical interest is that the Gray's Inn students were much mortified
+by the uproar which caused the failure of the program of their chief of Revels called "The
+Prince of Purpoole," and made it necessary for them to call in common players. The result of
+their desire "to recover their lost honor with some graver conceipt" was to give Jan. 3d, a
+learned Dialogue called "Divers Plots and Devices." Bacon aided largely in this stately affair.
+In its course six Councillors one after the other deliver speeches on enrollment of Knights
+and Chivalry, the glory of War, the study of Philosophy, etc. The scorn felt for Shakespeare's
+"Comedie" and the contrast with this rival specimen of academic dramatics is significant.
+
+Out of the comparatively simple plot of Plautus, Shakespeare developed an amusing complexity
+of situations. These appear upon studying the progress of the story, Act by Act, as follows:
+
+ACT I
+
+THE ARRIVAL OF CERTAIN STRANGERS IN EPHESUS
+
+What has the arrest of the "Marchant" Egean to do with the rest of the Story? How soon does
+any connection appear?
+
+The reference in scene ii, to the occurrence taking place in scene i, suggests a somewhat odd
+chance coincidence in the arrival from Syracuse on the same day of both of these strangers.
+By this casual reference the seemingly unrelated scenes are so innocently linked together that
+it rather blinds than opens the eyes of the audience to the deeper links of connection. It
+also acts at once as a warning to Antipholus, and explains why he also is not arrested under
+the same law from which Egean suffered.
+
+The merchant who gives Antipholus this warning does not appear to be at all an intimate friend.
+Yet he seems to have met the stranger upon his arrival. Is this accounted for? What office
+does the scene show that he bears toward him? How recent an institution is the Bank and Letter
+of Credit for travellers? Was the lack of such facilities long filled in the way here exemplified?
+
+Do these two men keep the appointment they made to meet at five o'clock? Why is it made? Does
+it serve any need of the Play?
+
+The reference to Ephesus as a town given over to sorcery and witchcraft assists in giving the
+impression that the time of the Play falls within the Christian era, when the ancient customs
+of the Pagan inhabitants gave the City a bad repute of this particular kind. Was it derived
+from Plautus? Note whether sorcery and witchcraft are included in his account of the discreditableness
+of Ephesus. What conclusions may be gathered as to Shakespeare's account of it from a comparison
+with the corresponding passage in Plautus (This extract is given in Note on I, ii, 102-107
+in the "First Folio" Edition of Shakespeare's Play). Show how this statement is useful in throwing
+light upon the character of Antipholus as well as on events.
+
+The first complication in scene ii arises from mistaking Dromio of Ephesus for Dromio of Syracuse;
+but notice that this error is accounted for by the second source of the errors of the play--belief
+in witchcraft.
+
+QUERIES FOR DISCUSSION
+
+Is the audience as much in the dark over the first mystification as Antipholus is? Should it
+be? Is the play the better or worse for not being clear? If both Dromios are made to look exactly
+alike how can the audience know?
+
+ACT II
+
+ANTIPHOLUS THE STRANGER DINES AT HOME
+
+Notice how the last scene of the preceding Act is cleared up by the first scene of the present Act.
+
+Are the errors of Act II the results of those of Act I? The errors of Act I affect but a very
+few characters, but in Act II how many? A new source of complication is brought forward in
+this Act, also. Show what it is, and how it both adds to the interest of the Play as a story
+and to the confusion begun by the mistaken identity and the witchcraft elements of the Plot.
+
+The fooling dialogue of Scene ii gives the action pause. Is it therefore useless, or a dramatic
+mistake? The ease with which the right master and man fall into this talk after the earlier
+cross-purposes with the wrong man, seems to betray the fact that they do belong together. They
+are so readily familiar that the cross-purposes making up the plot seem to be no longer troublesome
+either to themselves or the audience. The interval of reassurance makes the return of strangeness
+more unaccountable. Antipholus is also now reassured about his gold, and the earlier cross-purpose
+seems only a jest.
+
+Why does the mention of Dromio's name (II, ii, 156) cause both master and man to exclaim? Why
+should it not have led them to guess the truth?
+
+Would this scene with Adriana and Luciana have been equally mystifying and skilful if the right
+master and man had not been together?
+
+QUERIES FOR DISCUSSION
+
+In the debate between the sisters upon patience in marriage is Adriana or Luciana the more
+justifiable? Has their argument anything to do with the plot? Is character interest or plot
+interest of the first importance, and how are they apportioned in this play?
+
+Is Adriana's argument that she is bound to share morally herself in the infidelity of her husband
+sophistical? Or has it a core of sound ethical value?
+
+ACT III
+
+ANTIPHOLUS THE NATIVE INVITES FRIENDS TO DINE WITH HIM
+
+How far are the errors of Act III new? From which element of the plot, mistaken identity, or
+the domestic difficulties of the native-born Antipholus do they arise?
+
+What effects are gained by bringing together in this Act the right pairs of master and man?
+
+The closed door between the two groups, one within the house, the other without, is the only
+barrier to such an exhibition of the double resemblances as would clear up all difficulties
+immediately. Is the humor of the situation the better for this slightness of the barrier, or
+is it rendered altogether too unlikely by it? Notice also the narrow escapes from meeting and
+being seen together which masters and men are constantly making and the skill of the stage
+movements so that, for example, while one pair of twins is in the house, the other pair is
+absolutely unable to come there, and make clear the main cause of the errors.
+
+What relation to the subordinate cause of the errors, i.e., the domestic difficulties of Antipholus
+the Native--has the new source of difficulty and bepuzzlement--the gold chain? Bring out the
+relation of the dialogue (III, i, 23-35), between Antipholus and the friends he invites, to
+the welcome they find and discuss later. The irony of his confidence in welcome, at least,
+which is precisely what is lacking, is peculiarly true to such disappointments in life. For
+the fun and naturalness gained by it, therefore, the carefully planned arrangement of the dialogue
+to lead up to it, does not seem to be artificial. What would have happened to the plot if the
+plan proposed to force the door with a crow-bar had been carried out? Since the dramatist was
+so daring as to cause it to be suggested, it was incumbent upon him at once to devise something
+to prevent it from being done. The way in which he has accomplished this through Balthazar,
+puts both Antipholus and his guest in an estimable light. Show its effect upon the present
+scene and upon both the character-interest and the scenes to come in which the Courtisan figures.
+What expense does Antipholus refer to (III, i, 169)?
+
+Is Luciana's advice so good that it accounts for the attraction she has for Antipholus the
+Stranger? Or do you think she is attractive in spite of it?
+
+Is the dialogue in this Act between the right master and man as good as that in Act II? Has
+it other excuse for being besides punning and fooling? Examine its value as compared with the
+other in introducing a new and amusing error, and educing puns that are suggested by this,
+and therefore not independent of the plot.
+
+This Act closes with two new incidents of use in the sequel: What are they?
+
+QUERIES FOR DISCUSSION
+
+Why has Shakespeare chosen to make Antipholus the Stranger abhor Adriana, and be attracted
+to her sister instead? What is the result for the plot? Is it a mistake that the promised match
+between Luciana and the Stranger is not consummated at the close of the play? Is the reference
+then made to it the best imaginable? How, if so, is it reconcilable with the more rapid matches
+at the close of other plays, e.g. Oliver and Celia in "As You Like It?"
+
+ACT IV
+
+COMPLICATIONS GROW
+
+The errors of the early Acts begin simply and proceed by begetting other errors and beginning,
+also, with but one of the twin masters and one of the twin men-servants proceed by involving
+every one in each of the two Antipholus groups. In this Act others outside the main groups
+are continually being interwoven in the net of complications. In which Act did these larger
+social complications arise, and how are they carried on in the present Act. Show how by means
+of these larger circles of complication, e.g., the arrests, the visits of the Courtisan to
+Adriana in the attempt to get back her ring, the conjurring scenes, etc., the confusion becomes
+extreme. And then show, also, how by the very means of these larger circles of complication
+the clearing up process is brought forward. To whom is the suggestion due that Antipholus the
+Native has gone mad? What fitness is there in that, especially in its being broached by a minor
+character? Trace the relation of the Goldsmith, his delays and his debts to the Plot. How does
+it come about effectively that in this Act the wrong master and man are together, the opposite
+of what has prevailed, earlier? Show how in the eagerness of Adriana to send the gold and the
+grief over what she jealously suspects to be the cause of it, a tragic situation is reached.
+In which scene is the most complex confusion reached.
+
+QUERIES FOR DISCUSSION
+
+Is the confusion of identity, the domestic discord or the bewitchment and supposed lunacy the
+most powerful factor in the plot of error. Which is the most comical and which the most tragic
+moment in this Act?
+
+ACT V
+
+SOLUTIONS MAKE ALL THE STRANGERS FEEL AT HOME
+
+The climax of bewilderment being reached in the evidence that the same man is both out of the
+Priory and in it, solutions follow. Trace the steps by which this is accomplished.
+
+Why is the attack upon Antipholus the Stranger assigned to the Merchant who is the Goldsmith's
+creditor instead of to the Goldsmith? Is it by chance or is there some reason for it? Why did
+not Antipholus explain that he had the chain through no option of his own? By means of the
+Merchant drawing his sword and detaining him, the scene with Adriana at the close of the preceding
+Act when his flight prevented her from having him bound as a mad man is carried on again, and
+refuge in the Priory forced upon him.
+
+Why does the Abbess blame Adriana first because she did not find fault with her husband and
+then because she did? Is her sudden harsh turn against her explicable not as personal inconsistency
+or womanly prejudice, but as due to a gleam of insight? What clew to the case does Adriana's
+meekness afford? Or else of the relationship of the Abbess to the twins? Why does she so peremptorily
+keep the man from his wife? Is not this conduct devised to mystify the audience rather than
+the characters?
+
+Notice that the Abbess is more of a surprise in her relation to the plot than the condemned
+Egean is. The Abbess episode balances at the close of the Play the Egean episode at the opening
+of the story. Trace the links of connection with the main action of each and their relation
+to each other, showing how they bind into an absolute unity a peculiarly symmetrical plot.
+Why do the two Dromios end the Play instead of the main characters?
+
+QUERIES FOR DISCUSSION
+
+Is this Play the better or worse farce for the serious domestic situation and the pathos of
+the long separation of the shipwrecked family?
+
+VI
+
+CHARACTER DEVELOPMENT
+
+In what sense can there be said to be a development of character in "The Comedie of Errors?"
+If no progress can be traced in the standpoint of any one character of the Play, save possibly
+in that of Adriana, is there yet not to be seen a gradual bringing forward of the traits inwardly
+differentiating the two pairs of twins, and stamping the personality of Adriana and Luciana
+and even in a slighter degree of the Goldsmith, the Creditor Merchant, Egean, and the Abbess?
+
+Show what you deem this to be in each character, and by what means the result in each is effected.
+
+Is Antipholus the Stranger of a gentler and more pious spirit than Antipholus the Native? What
+signs of this impression can you cite? Was Antipholus the Native popular in Ephesus? What calling
+had he followed? Why do we learn more of Antipholus the Stranger at once than of his brother?
+In what respects does this suit the plot and the circumstances?
+
+Which Dromio do you think the wittier? Is one more a house servant and less of a personal attendant
+and professional fool than the other? Why, do you think, is Antipholus the Stranger made to
+beat his man so often? Is his quick temper, or a sort of horse-play fun at the bottom of it?
+Or is the ancient custom as to body servants exemplified?
+
+Which Antipholus has been the more independently reared and is this signified in their characters?
+It has been supposed that Antipholus the Native married at the Duke's bidding for money and
+not for love. What reason does the Play give for this supposition? Is Adriana's jealousy a
+reason, or is he fonder of her than she realizes? Which of the Sisters do you like best, and why?
+
+Why would Antipholus the Native be better mated with one than the other? In what respects of
+character would Luciana be apt to attract Antipholus the Stranger more than Adriana would?
+Are there signs to show that Adriana and her husband are the more stalwart pair? Show how admirably
+the riper characters of the father and mother set off the qualities and relationships of the
+younger group.
+
+QUERIES FOR DISCUSSION
+
+The resemblances of the twins externally are counter-balanced by diversities that are internal,
+so that the possibilities of confusion may be said to be only skin deep. Does this add to the
+improbableness of the plot sufficiently to make it a questionable quality of the plot that
+the characters are so much differentiated, or does it serve rather to enrich the Play and make
+it far more interesting? Are there signs of character in Adriana and her husband going to show
+that they are destined to be happier in their relation to each other than ever before?
+
+VII
+
+SHAKESPEARE'S DEPARTURES FROM PLAUTUS
+
+The omissions and changes Shakespeare made from Plautus's plot are almost as important in lending
+his Play a new effect as the additions and entirely original inventions.
+
+Notice the entire omission of the borrowed cloak taken from his wife, Mulier, by Menaechmus
+and given to the Courtisan, Erotium; also, of the character of the parasite, Peniculus, by
+means of whom as a spiteful informer the wife is told of her husband's relations with Erotium
+and the dinner he proposes to take with her. Instead of Mulier's father, Senex, Shakespeare
+creates the noble Egean, the father of the Twins. Introducing his plot with the incident of
+his arrest, he closes it with the still more notable character of the mother whom he gives
+an important part to play in the happy solution of the difficulties and the re-union. The part
+of the Duke and the trade relations of the two cities, the city in Sicily as in Plautus, the
+other Ephesus, instead of Epidamnum, as in Plautus, are ingenious changes of an external sort.
+What is effected by them? The different treatment of the dinner incident which causes the husband
+to mean to dine at home, until he finds he cannot, when with others he invites the courtisan
+to dine with them at an Inn, lends a different color to the story. What do you think it effects
+as to character, amusingness, and unity with the plot of mistaken identity? The courtisan's
+open visit to the wife and direct effect upon the plot is in strong contrast to the intrigue
+of which the wife is informed by a third person. Bring this out, and show what the influence is.
+
+Compare the argument of Plautus (For this see "First Folio Edition" of "Comedie of Errors,"
+p. 76) with the opening scene wherein Shakespeare causes Egean to tell the story out of which
+the Play grows. In what respects is this an improvement? (See Extract from Ten Brink, p. 183).
+
+What is accomplished by the addition of the twin servants?--the two Dromios? (for special assistance
+in a comparative appreciation of Shakespeare's farce and that of Plautus see Introduction also
+Sources in the "First Folio Edition" of this Play).
+
+QUERIES FOR DISCUSSION
+
+Is the complexity of Shakespeare's plot over that of Plautus a disadvantage? If not, how does
+this fact agree with the common saying that simplicity in Art is the highest Art?
+
+Are the farcical interest and the character interest carried on too far not to be seen to be
+inconsistent interests? Or is the secret of the Art of the Play the reconciliation and harmony
+of the farcical and the serious?
+
+THE TWO GENTLEMEN OF VERONA
+
+The unusual in this Comedy is due to its reflection of the ideals and manners of Chivalry in
+Love and Friendship as loyally professed by Valentine and Silvia and outraged by Protheus.
+
+The plot is extremely simple and is carried on by means of causing its main characters successively
+to dominate in their influence upon the action.
+
+ACT I
+
+VALENTINE VERSUS PROTHEUS AND JULIA
+
+Valentine's reasons for travel and those of Protheus for staying at home separate the two friends.
+Compare Valentine's preference of Honor, and that of Protheus for Love, with the opening of
+"Love's Labour's Lost" and "Much Adoe."
+
+Show how the rest of the action, after the separation of the friends to suit this double thesis
+of life, depends upon illustrating the effect of Protheus's love upon Julia's fortunes, and
+of Valentine's quest of honor upon the fortunes of Protheus. Notice how it happens that his
+own deception has a direct influence upon his father, so that his departure to join Valentine
+is as much due to his own lack of firmness in his desire to stay on Julia's account, as to
+Valentine's initiative in going.
+
+QUERIES FOR DISCUSSION
+
+Is Valentine's or Protheus's the more influential character upon the course of events thus far?
+
+ACT II
+
+VALENTINE AND SILVIA
+
+Tell the story of this Act.
+
+Explain the courtship scene with which this Act opens as illustrating the service of love in
+systems of Chivalry. (For hints on this see Introduction to the Play in "First Folio Edition"
+also Note on II, i, 97).
+
+Contrast the earnestness of Valentine's nature in this devotion to Silvia with the fickleness
+of Protheus.
+
+The two servants, Speed and Launce, may be compared, their contrasts to each other shown, and
+their general resemblance to a similarly contrasted pair--the two Dromios in the "Comedie of
+Errors."
+
+QUERIES FOR DISCUSSION
+
+Is the love of Protheus for Silvia a reflex influence from Valentine's extreme enthusiasm?
+
+Why does Lucetta distrust Protheus?
+
+ACT III
+
+THE FALSE FRIEND
+
+What effect has the arrival of Protheus at the Milanese Court? How does the new-comer manage
+to dominate this Act? Point out the skill of Protheus in making his disclosure to the Duke
+seem to be reluctantly wrung from him against the friendship he feels for Valentine and only
+because of a sense of duty toward the Duke.
+
+What does this delicacy accomplish toward his own courtship of Silvia? If he had seemed eager
+to tell his friend's secrets would not the Duke distrust him and suspect some self-interest
+on his part? What did his mention of Thurio's suit do for himself?
+
+Compare the nature of the two friends' talk; how that of Protheus gives a better impression
+of himself than is true, that of Valentine, a worse. Show the consistency in wile of Protheus
+in his conduct toward the Duke, Thurio, Silvia, and Julia. Why does it succeed? Wherein is
+it likely to fail?
+
+QUERIES FOR DISCUSSION
+
+Is Protheus impossibly false as a character? Or is his duplicity an exemplification of the
+facility toward evil of this kind that is natural to an extremely impressionable nature which
+lacks stability?
+
+In what does Valentine's superiority consist? Are the maxims for the treatment of women which
+he gives the Duke due to artificial system learned from others or a part of his own experience?
+
+ACT IV
+
+SILVIA AND JULIA
+
+Tell the story of the Act. All the main characters and one new one have their parts in the
+next steps in the plot? What are those parts?
+
+Valentine's fate and its result.
+
+Silvia's determination and its effect. Notice how her call upon Eglamoure for knightly service
+brings the action into the province of Chivalry again.
+
+Julia's office in the schemes of Protheus.
+
+Is this Act dominated in its drift by the two women? How do they put their impress upon events?
+
+Show how the villain Protheus is instrumental in bringing these two women together, and how
+this is equivalent to uniting against his evil policy, the good forces of the Play. The loyalty
+of Silvia to Julia considered as offsetting the falsity of Protheus to Valentine.
+
+QUERIES FOR DISCUSSION
+
+Is the most actively beneficial episode in this Act also the most charming.
+
+ACT V
+
+VALENTINE, SILVIA AND JULIA VERSUS PROTHEUS
+
+What are the results of Silvia's flight?
+
+Why does outlawry bring out the superiority of Valentine?
+
+Does it serve also to bring out the inferiority of Protheus?
+
+How does outlawry serve to defeat the purposes of the Duke and Thurio and bring about the conquest
+over them of Valentine?
+
+How does Thurio's nature inure to the credit of Valentine's with the Duke?
+
+Does outlawry here represent the injustices of civic life? To what degree? Or the natural life
+beneficent and innocent of Arden Forest in "As You Like It?" To what degree is this true?
+
+QUERIES FOR DISCUSSION
+
+Why did Julia swoon? Was the repentance of Protheus genuine?--and natural? What does Valentine
+mean by his forgiveness of Protheus and his proof of it--"All that was mine, in Silvia, I give
+thee?" could he give her, personally, against her will, in Chivalry? Or in true love? How could
+he mean anything then, but proving by this entrusting of her to his friend his belief in his
+loyalty and purity?
+
+Why is Silvia silent? (See Introduction to the Play in "First Folio Edition," also Selected
+Criticism and Notes on V, iv, 91, for hints on these latter queries).
+
+THE TAMING OF THE SHREW
+
+A Play or mask within the Play is not uncommon in Shakespeare. A Play outside the Play especially
+distinguishes the arrangement of this Comedy.
+
+Perhaps it serves to indicate that the theme of the taming of a wife is crude and primitive
+folk-farce, particularly suited to the taste of the drunken tinker before whom it is played.
+
+Shakespeare's handling of the tinker's subject, however, like other rude and homely matters
+taken up by an acute mind is such as to fasten deeper attention and to overgo a tinker's appreciation.
+
+I
+
+THE PLAY OUTSIDE THE PLAY
+
+The effect of the Induction in dramatic presentation is not easy to estimate. Since there is
+no direct connection between it and the Play itself what do you see that it could be made to
+do for the action? Is it like a frame for a picture adapted to give the theme remoteness? Is
+this appropriate? Is it otherwise a mere cause for confusion? Or is it intended to add one
+more thread of amusement? Why does Shakespeare in "The Shrew" drop the tinker interregnum dialogue
+recurring regularly in "A Shrew?" May Shakespeare, therefore, be cited as finding only a limited
+use for "the Play outside the Play," deeming it in the way later? How has he arranged for its
+gradual disappearance from attention? Is there a stage reason alone enough to account for it?
+(See suggestions in Notes on I, i, 266, and IV, iii, i, "First Folio Edition"). Compare the
+Tinker scenes in the version of 1594. (For these see Extracts in Sources, pp. 105-110, in "First
+Folio Edition"). Do the Slie of "A Shrew" and Christophero Sly of "The Shrew" differ as characters?
+As to their opinion of the Play: Are their between-the-act dialogues materially different?
+
+What is the relation to the source and what has been altered from the old tale.
+
+The local Warwickshire touches in the Induction and their explanation. (For these see "Story
+of the Induction" in the Play).
+
+QUERIES FOR DISCUSSION
+
+Ought the Induction play to be left out? How might it be made more effective by special treatment
+on the stage? Should the additional scenes be interpolated as was the stage custom, or should
+Shakespeare's diminishing notice of them be adopted to produce the most artistic effect?
+
+II
+
+THE DOUBLE PLOT OF THE MAIN PLAY
+
+In "A Shrew" and "The Shrew": Show how the story, with respect to the Taming scenes, is the
+same substantially, with comparatively minor differences, except for the characterization.
+But with respect to the Bianca scenes it has been expanded and altered. This suggests, most
+naturally, that the part Shakespeare did not write or answer for in "A Shrew" was merely the
+Bianca scenes, and that his task in "The Shrew" was to cut out and rewrite the scenes that
+were not his so as to be unhampered with the disharmony of the two parts of the plot as it
+appears in the Quarto of 1594.
+
+The story of the Play as it now stands consists of an interweaving of the Taming story and
+the story of Bianca's Courtship in such a way that while they keep their separateness of necessity,
+they balance better in interest and are more continually brought to bear upon each other from
+time to time. What are their points of contact in each Act? The sisters with relation to their
+father and their suitors in Act I: How does this initiate the action?
+
+With relation to each other and the Music Master in Act II: How does this separate the action
+into two lines of Courtship.
+
+After Katherine's marriage in Act III the interest divides between the Taming of Katherine
+and the Courtship of Bianca.
+
+In Act IV two or three points of contact are arranged by means of the journey and what two
+characters?
+
+In Act V how is contact both objective and moral obtained?
+
+Alternative interest in the Bianca Courtship after Kate's marriage and taming is attained by
+the elaborate scheme to make Lucentio the most successful suitor and the droll surprises and
+difficulties met with in the process.
+
+QUERIES FOR DISCUSSION
+
+Is the lack of unity in the Play sufficiently remedied by enriching the Bianca counterplot
+and arranging for alternate interest first in the plot and then in the counterplot, or is the
+original difficulty irremediable?
+
+In which story is plot or else character the supreme interest?
+
+Is the Bianca story or the Katherine story the more entertaining? Why?
+
+III
+
+BIANCA AND HER SUITORS
+
+Lucentio's errand in Padua, his breeding and relations to his servant qualify him as quite
+the conventional hero of a romantic love-story. How does he compare with the young noblemen
+of "Love's Labour's Lost?" What part of the study of Philosophy does he specially desire to
+take up and how does his temper toward learning fall in with theirs?
+
+What light does Bianca on her appearance throw upon herself? Through the testimony of her sister
+and her father and the two suitors what else is to be gathered?
+
+Her effect upon Lucentio: The parallelism with "A Midsommer Nights Dreame" (I, i, 156, and
+see p. 134 in the First Folio Edition of "The Shrew") not appearing in "A Shrew," considered
+as indicative of the favorite method of Shakespearian lovers in falling in love at first sight.
+
+Katherine's effect upon Tranio, lost upon Lucentio, in his daze over Bianca, leads to what
+plan of action? How does the part Hortensio and Gremio play in this reinforce the plot, and
+combine them all to instigate Petruchio to woo Katherine? How does the contest for the best
+sale of Bianca when Katherine is out of the way lead to a new plot? The money-contest of the
+suitors, judged by the father is supplemented by the mock teaching-contest of the lovers of
+which Bianca herself is the judge. Show how this constitutes the second step in the action
+and what complications and simplifications it prepares. Lucentio's studies in the hedonistic
+Philosophy he professes and its victory over Music and Hortensio.
+
+What is Bianca's contribution to the gossip excited by Katherine's wedding, and what impression
+does Act III give you altogether of Bianca's character? Is the bad report of it in Act IV,
+made by Hortensio, as the Musician, Lisio, with Tranio, quite fair to her?
+
+The abusive opinion and jealousy of Hortensio assisted by the supposed Lucentio narrow down
+the uncertainties of the courtship so as to concentrate interest on the new scheme of the supposed
+father. How is this worked out? Explain the conflict with the arrival of the true father, and
+the amusing counter-play.
+
+QUERIES FOR DISCUSSION
+
+Why does Lucentio's suit excel that of any other in interest?
+
+Is Bianca wrong in acting independently of her father?
+
+IV
+
+THE SHREW AND HER TAMER
+
+Does the Shrew justify her reputation on her first appearance? What is said of her compared
+with what she does then and in Act II? Why is Petruchio's first approach with a combat of wit
+and a great bluff of compliment effective? Is Kate really impressed by it, or only fearful
+that she is being fooled? How do you account for her denial of him and his suit to her father
+in Act II and her mortification when he does not arrive till late in Act III? Does Petruchio's
+speech to the others and before them (II, i, 328-350) account for the change? His arrival at
+the wedding in such shabby attire and with so wretched an appearance as to retinue, with his
+sorry horse and man-servant contrasts strongly with the promises held out in this speech. What
+is the effect on Kate and why does it serve his purpose?
+
+Is Kate's entreaty to stay, or her action in showing her bridegroom the door the climax of
+the wedding scene? What is the point in the stage business of Petruchio's speech warning others
+not to touch his chattel? Is she really being befriended by the bystanders when she declares
+they must go "forward to the bridall dinner" or is she so entirely alone in her opposition
+to Petruchio's command to go, that his speech is the keenest satire upon her defencelessness
+in every direction but through him?
+
+Is Petruchio's conduct at home and the servants' comment upon it such as to make Kate's two
+entreaties explicable?
+
+What light does Petruchio's own account (IV, i, 183-207) of his method throw upon it?
+
+In the eating and haberdasher scene (IV, iii) what is it Kate learns--merely that she cannot
+command by force and can have what she wants by another method? What is the secret of her tractableness
+in Scene v?
+
+QUERIES FOR DISCUSSION
+
+Are Katherine and Petruchio the most interesting characters in the Play? Why?
+
+Is their prominence due to their personal attractiveness or to the Dramatist's skill?
+
+V
+
+THE TRIPLE MARRIAGE AND THE MORAL
+
+Why should the Play not end with Act IV?
+
+What does Act V add?
+
+Is the quality of the table-talk in keeping with the plot and characters?
+
+The husbands' talk and wager turns on what point, obedience to the husband, or agreement of
+husband and wife as mutually to their interest?
+
+Show the drift of Kate's expression of the moral of the Play, and state your own way of looking
+at it.
+
+QUERIES FOR DISCUSSION
+
+Did Petruchio and Kate give an impromptu performance of conjugal felicity, or one decided upon
+beforehand?
+
+Was Kate quick-witted enough to guess there was money in it, or was she really, once of a different
+mind and reformed.
+
+VI
+
+THE FOLK ORIGIN OF THE TAMING
+
+Trace the antiquity of this schooling of a wife, and the resemblances and contrasts in the
+chief variants of the story (for help in this see Sources in "First Folio Edition").
+
+Is there any progress to be discerned in the degree of bodily force deemed expedient?
+
+Is any such scheme of the marriage-relation compatible with advanced civilization, or is it
+peculiar to crude notions of life in a taming age?
+
+QUERIES FOR DISCUSSION
+
+Is the folk-legend indicative of an inherent relation in marriage of the male and female natures,
+or is it merely an expression of established custom and legalized institution upon gaining
+for each the aims and line of conduct desired? If so, is the result of the process to gain
+a ground of mutual compromise and accommodation and a division of labor in joint life which
+will enable the process itself to fall into disuse.
+
+Is coercion of others consistent with a high grade of individuality?
+
+Did Petruchio play the Tamer in a "Pickwickian sense" and the whole thing being a bit of acting,
+did Kate see through it, finally, and play her part too?
+
+The use of finesse in the Play (see Introduction to the Play "First Folio Edition").
+
+Does Shakespeare's way of handling the characters and the process of taming materially differ
+from the way prevailing both in the crude folk tales and in "A Shrew?"
+
+Does he suggest that in both Petruchio's and Kate's case they are merely bent upon their own
+individual emotions until closer relation makes them join forces?
+
+What is the modern bearing of Shakespeare's way of putting the story?
+
+Partnership and co-operation versus autocratic rule: Are the administrative advantages of the
+latter consonant with the good will and continual psychical development furthered by the former?
+
+Does the intellectual advantage rest with the user of force or with the mind that accommodates
+itself to force by gaining its ends by stratagem and other indirect policies?
+
+Is coercion as wise as persuasion which has no such penalties to pay?
+
+LOVE'S LABOUR'S LOST
+
+Shakespeare makes us laugh in "Love's Labour's Lost" at the futility of the attempt of ascetic
+and academic men to shut out love and women from their schemes of life and study.
+
+His early work in putting the past history of England into dramatic form may possibly have
+suggested to him to put more recent history on the stage by means of this Comedy. Light as
+it is, the point of it is to satirize the monastic and exclusive element in current educational
+schemes. Fictitious as the story is, it touches upon names and incidents belonging to actual
+history. So familiar were these actual happenings of the day to his audience that it could
+especially enjoy these veiled allusions to them.
+
+The main idea of the plot of the Comedy--the "Academe," was one that had a bearing upon various
+similarly named educational projects of that time in England.
+
+One such scheme was drawn up about 1570, by Sir Humphrey Gilbert, Sir Walter Raleigh's half-brother,
+for the "education of her Majeste's Wardes and others the youths of nobility and gentlemen."
+This plan was, like Shakespeare's arranged for a "three yeeres terme" (I, i, 20) and at the
+end of "every three years" some book was to be published which would represent the fruit of
+the Academy's study during that period. Merely the title of this scheme--"Queen Elizabethes
+Achademy" may have suggested Shakespeare's "Achademe" (I, i, 17). Of course, however, both
+Gilbert's and Shakespeare's adoption of the name are examples of the appropriation by educational
+groups of the classic academes of the Philosophers of Athens and their student followers. Another
+educational plan "for the bringing up in vertue and learning of the Queenes Majestis Wardes,"
+was devised by Sir Nicholas Bacon, in 1561. Later, in the reign of James I, the establishment
+of the "Academe Royal" by Bolton, is an example of the early vogue of the name, which has since
+become familiar everywhere, for educational and learned institutions.
+
+A less important element in the formation of the plot is the allusion to current French politics
+which the situation of the characters of the Play suggests.
+
+A King of Navarre and a Princess of France conferring in treaty over a disputed province and
+a claim of allowance for services rendered is an incident constituting a reference to a state
+of things in France then closely concerning England. The succession to the throne of France
+of Henry of Navarre, the champion of the Huguenots of France, was long contested. England was
+friendly to Navarre, the object of her foreign policy being to counterpoise the power of Spain
+and the Catholics of France, with whom Queen Elizabeth's most formidable rival, Mary Stuart,
+was allied in interest.
+
+No king of Navarre was ever named Ferdinand. Yet by making an entirely fictitious hero a king
+of Navarre and the suitor of a princess of France, the relationship of Henry of Navarre to
+dominance in France was suggested in an unobjectionable and amusing way. And the death of the
+King of France introduced at the close of the Play, involving the prospect as a probability
+that the hero might then succeed to the throne of France, could scarcely fail to remind Shakespeare's
+audience of the actual struggle of the King of Navarre for the French crown, and also of the
+fact that on the death of the French King in August, 1589, Navarre then became heir presumptive,
+and after the battle of Ivry in 1590 Spain delayed but could not long obstruct his complete
+success.
+
+In 1593 the most important cities of the Kingdom yielded him allegiance and in the Spring of
+1594 Paris herself opened her gates to him. These dates 1589-1594 indicate the time, also,
+when "Love's Labour's Lost" is likely to have been timely in these references, and yield a
+clew to its date of composition.
+
+The effect of these allusions to French political affairs, made more piquant by the downfall
+of Spain in her political opposition both to England and the party of Henry of Navarre, was
+intensified in Shakespeare's Play by the names given to Navarre's lords. Berowne, as the name
+appears in the Folio, is an English spelling of the French name Biron, to which it is changed
+in modernized editions of Shakespeare. Longavill is an English equivalent of Longueville, and
+Dumaine or Dumane of De Mayenne, names which also are changed in the modernized editions, although
+not consistently. All these names are associated with Navarre's struggles in France. The Maréchal
+de Biron and the Duc de Longueville fought prominently on Navarre's side. The Duc de Mayenne,
+brother of Henry of Guise, fought on the opposite side. The Duc d'Alençon long a suitor for
+the hand of Queen Elizabeth, is mentioned as the father of Rosaline.
+
+Another veiled reference to a Russian suitor of the Queen's seems to be made in the incident
+introduced in the last Act. This scene of the wooing of the King and his lords when disguised
+as Russians makes fun, perhaps, of an actual embassy of Russians to the Court of Elizabeth,
+in 1583, when the Queen had arranged to put upon Lady Mary Hastings the suit which the Czar
+Ivan had originally hoped to proffer to the Queen herself. (For information upon these and
+other incidents of the period that may be used in the plot see Sources, pp. 106-116 also Notes
+in the "First Folio Edition" of this Play).
+
+ACT I
+
+THE VOW AND ITS FIRST ANTAGONISTS
+
+The theme of the Comedy--the exclusion of love for the sake of winning fame for learning, is
+made clear by the first speaker. The opposition Love will make to this is next expressed through
+another speaker, and then embodied in a practical example. Bring out the argument, in full,
+on both sides, as expressed by the King and his lords, on the one side, and by one lord who
+is less subservient on the other side. What does Berowne object to in the King's idea about
+study and fame? He says, practically, that fame is a mere expression of opinion, and that as
+anybody can give anyone the name of being learned or the name of being anything, fame may be
+given by those who have very little notion of any real knowledge. Superficial knowledge is
+knowledge of names but real knowledge is that which names mean. In a word, we but dull our
+minds and blind our eyes in poring over the outsides of things, unless we study to understand
+life and act a beneficent part in it.
+
+As children we are rightly put to task work in order to get the means to go on independently
+using life and all the products of life including books, in order to minister toward independent
+thought and life. But to start in with rules and restrictions when we are older and life itself
+is opening before us, is like climbing over a house to unlock the gate before it. Their artificial
+arrangements are not fitted to meet actual experience. Actual experience is bound to laugh
+at their exclusion of life. How does the message brought by Costard and Clowne bear on the
+argument? The fooling seems to be the dominant interest in Scene ii. Is it, nevertheless, only
+the vehicle by which the theme is developed? Show how also not alone by the confession Armado
+makes but also by the words in which he expressed it, the theme of the conflict of Love against
+the vow foreswearing it is made clear. Notice, too, that the symptom, so to speak, of the labour
+of Love or Cupid as opposed to the Herculean labor of "warre against your owne affections"
+is at once made evident in Armando. This symptom is the desire to write a Sonnet. In what way,
+then, does it appear from the Story of Act I, that witness will be borne to the success of
+love's labor over the vow of the Achademe?
+
+Does the sprightliness of the second scene obscure the scheme of the play advantageously or
+disadvantageously?
+
+ACT II
+
+THE EMBASSY versus THE VOW
+
+How is it made apparent that the effect of the Embassy of France to Navarre will be on the
+side of Love against the Vow? The ladies' remarks upon the students of the Achademe throw light
+upon themselves and the drift of the story as well as upon their subjects. Show what may be
+gathered from their speeches? What does the Princess gather from them?
+
+The King does not invite the Princess to his Court, and declares he will not violate his vow.
+Nevertheless he does do so. In what respect? Boyet's observation of him goes still farther.
+What is this? And how does it seem to be justified? Is Boyet's conclusion that "Navar is affected,"
+more a means of telling the Audience what is about to happen, than comment on what is to be
+seen? Or is it of use to show the Actor of the King's part how he must bear himself? How does
+it fit with the name and scheme of the Play that Boyet who thinks the King has already fallen
+in love should be called Cupid's grandfather?
+
+QUERIES FOR DISCUSSION
+
+Why does the Princess discount Boyet's remarks and accuse him of joking? Does she give any
+clew to her own feelings?
+
+ACT III
+
+THE CLOWN AS A LETTER-CARRIER
+
+Why is it in keeping with the Play that Berowne should be the first of the Lords to be foresworn?
+
+In making Armado the keeper of Costard, the Clown's breaking of the vow has already been satirized
+by the King's own act. Armado now takes his next turn at making Costard's sentence a hollow
+mockery by sending him as a messenger to Jacquenetta. How is this first letter-carrying made
+to lead to a second, doubling the mockery and promising new confusions?
+
+Has Moth anything to do with the scheme of the Play?
+
+Who is the "Boy" of whom Berowne speaks repeatedly in his speech concluding this Act? What
+is the bearing of the reference to him upon the Play?
+
+How is the joke of the rhyme in which the Boy got the better of his Master by selling him the
+"Goose" to be explained? It is commonly supposed that the interpolation from the Quarto, i.e.,
+the lines put between brackets in the "First Folio Edition" (p. 31) are necessary. It is better
+however, to leave them out, as they are left out in the Folio text, if it is understood that
+the Boy Moth, repeats ll. 91-92, after Armado has said them. Then Armado begins the "lenvoy"
+with the intention that the Boy will also repeat that and that being the end, turn the laugh
+on himself by calling himself the Goose. But the Boy is too clever. He says it ends where it
+should. Costard declares the Boy has sold him, and both laugh to the bewilderment of Armado.
+If the Page added the "lenvoy" as the Quarto puts it the joke would already have been turned
+against him. The explanation has to be very elaborate and the poor little joke is too thin
+to stand it, if both texts be followed. It is easy to see that the repetition by the Page of
+ll. 91 and 92, on the stage, confused the hearer who set it down for the publisher of the Quarto,
+and also that the repetition would be a part of the stage business and the lines might not
+appear twice therefore in the MS. of the Play itself. The question growing out of this is--Ought
+not the bracketed part of the text to be left out?
+
+QUERIES FOR DISCUSSION
+
+Why does Berowne say that he loves "the worst of all" (III, i, 193)? Is this true? Does he
+think it true? Does it refer to her looks, or her disposition, or her brain? Is it said of
+her because she is the cleverest, and does Berowne really share the common prejudice of the
+male against a superior woman or only pretend to?
+
+ACT IV
+
+BEROWNE HEARS SOME SONNETS AND THE KING RECEIVES A LETTER
+
+Does the Princess guess the truth of the matter when Costard delivers the wrong letter for
+Rosaline?
+
+What relation has the second scene of Act IV to the Play? Of what use to the preceding action,
+and to the present? Of what use are all these new characters to the Plot? One has been before
+heard from, but is he of the most or least use here? Are they of use to the story in any other
+way, later? In what respects do their tricks of speech and affectation of learning suit the
+aim of the Comedy? Show how the Sonnet-writing is made the means of unmasking the lovers to
+each other and all of them to Berowne. Are the sonnets suited to the characters of the writers?
+Contrast the King's and Berowne's in this respect. Does the King suspect Berowne before Jaquenetta
+brings her letter? Why does Jaquenetta say it was treason? Would Berowne have confessed if
+he were not forced to? After having so unmercifully followed the example of the others in condemning
+them for doing what each was equally involved in, the climax of forced confession from him
+is more amusing than if any one of them had unmasked him, as Longaville did Dumain, the King
+Longaville, and Berowne the King. What special fitness was there in making Dumane find out
+that the torn letter was in Berowne's hand and bore his signature?
+
+QUERIES FOR DISCUSSION
+
+Is Berowne's speech to "salve" their "perjury" (IV, iii, 309-383) the moral of the piece? If
+so why should not the Play end here? How does Berowne's final speech in this Act foreshadow
+the conclusion of the Play?
+
+ACT V
+
+SPORT IS BY SPORT OVERTHROWN
+
+What were the main events of the last Act and of this one, and how do they bear upon one another?
+Why is the revenge planned by the Princess both fair and prudent? Are the men more in earnest
+than they seem? Do the women seem less in earnest than they are? Which man first draws a lesson
+from being outwitted, and how is it justified? Show how this lesson suits the trend of the
+Play, and advances upon the outcome of the preceding Act. To whom is Berowne's line (V, ii,
+477)--"Speake for yourselves, my wit is at an end"--addressed? How is the King brought to confusion?
+Is the Princess too hard upon him? Why does Berowne scoff so fiercely at Boyet?
+
+Is the presentation of the Nine Worthies too absurd in itself to mix well with the courtliness,
+learning, and elaborate wit of the rest of the Play? Note Berowne's defence of it (V, ii, 569-571)
+and his rebuke to the King for despising it? The Princess's defence of it and its correspondence
+with that of Theseus for the show of the "base mechanicals" in the "Midsommer Nights Dreame."
+How does Berowne's humility in accepting the parallel with their own wit-overthrown mask agree
+with his boisterous jeering at the mask of the Nine Worthies later? How does the attitude of
+the ladies toward it compare with that of the men and what comment upon it does it constitute
+in your opinion? How does it all prepare the way for the sudden sad message, and also for the
+decision of the Ladies to rebuff love that is not serious? What special point is there in the
+kind of trial Rosaline and her mistress each specially propose for Berowne and the King? Has
+it any relation to what has just been shown of each of them in their attitude towards others
+with respect to the humble performers of the Mask of the Nine Worthies? What makes wit an unalloyed
+pleasure?
+
+QUERIES FOR DISCUSSION
+
+Is the serious ending of this Comedy a disappointment? Is seriousness an ending artistically
+called for by this plot, or only morally called for? Compare with the serious strain in the
+"Comedie of Errors." What does the contradictory little final dialogue between Winter and Spring
+add to the significance of the Play?
+
+VI
+
+THE WIT OF THE PLAY
+
+This has been called by Armitage Brown, "A Comedy of Conversation"; and the quibbles in which
+the Play abounds have been supposed by Dr. Johnson to give the Author "such delight, that he
+was content to sacrifice reason propriety and truth" for their sake. How far do these observations
+justly apply to the Play?
+
+In what degree is the extravagant banter of the Play itself an imitation of current fashions
+of speech and itself an object of ridicule?
+
+Its relations to Lyly and Euphuism. (See Extracts from Ward and from Landmann in "Selected
+Criticism," in First Folio Edition of the Play).
+
+Make a study of the lesser and larger wit of the play, showing how the former is merely incidental
+to the latter.
+
+In what respects is the whimsical talk of the Play suited to certain groups and to special
+characters, so that there is more variety in it than appears at first.
+
+QUERIES FOR DISCUSSION
+
+Does the master wit of the Play consist in any one class of fun, as verbal conceits in the
+punning line; practical jokes; Euphuism, so-called; banter in speech and retort, versemaking
+and sonneteering, learned quips, or in the use of all these combined in a way to bring out
+the point of the Play--the clash of natural with artificial methods.
+
+Is wit or purpose dominant in the Play?
+
+Which is the wittiest scene? Is it also the most morally significant?
+
+VII
+
+THE CHARACTERS
+
+Three groups of characters appear in the play--the main group belonging to the Court; the learned
+group, Armado, the, schoolmaster, and the Curate; and the native group, Costard, Jaquenetta,
+Dull, and Moth. The two latter subordinate groups add much to the Play. Show in what respects:
+as to Plot interest what do they add? As to merriment and significance? Is the morality and
+wit of the Play contributed to by them? Are they of interest in themselves, apart from their
+relation to the other characters? Are Costard and Jaquenetta the only happy lovers in the Play?
+Why?
+
+Is the King, kingly? In what respects, do you think, does he evince youth and inexperience?
+When does he begin seriously to be in love? Is the Princess justified in disciplining him?
+How much of her discipline is due to the event that cuts short the Play? Judging from his character,
+do you think he will stand the "twelvemonth" test?
+
+Is Berowne the oldest as well as the deepest and wisest of the men? How does he show all this?
+
+Why does Rosaline discipline him? Is she in insight superior to him as the Princess is to the
+King? Are the other court ladies equally wise in the probation period they allot?
+
+Are all the men--Costard included--so much a prey to a sort of foppery of expression and love
+of animal spirits as to be properly subject to the satire the play provides for them? Are the
+women more sane in this respect, despite their wit, or not?
+
+Is Shakespeare apparently on the women's side?
+
+QUERIES FOR DISCUSSION
+
+Is Costard the bumpkin the best actor in the Mask of the Worthies? Why? Why is Jaquenetta the
+least and Moth the most discomfitted of the third group of characters?
+
+Dowden says the women of the Play "have not the entire advantage on their side." What do they
+lack? He also says, to bear this out, that "Berowne is yet a larger nature than the Princess
+or Rosaline." What has this to do with their relative advantage in the Play itself, as Shakespeare
+shows it?
+
+Who are the critics of the falseness of artifice in the Play? Is Berowne on the women's side
+in the criticism which gives them their advantage?
+
+VIII
+
+THE MORAL OF THE PLAY
+
+Is there a moral against the current educational methods and the affectations social and literary
+of Shakespeare's time? The monastic and aristocratic elements in education considered as opposed
+to the progress of Women and the People. Show the general conditions of education prevailing
+after the Middle Ages, and the new spirit of the Renascence making itself felt, also the degree
+in which this appears in this plot. If Shakespeare's spirit, as manifested in this Play, had
+been more influential practically, do you think a different road would have been taken? (For
+hints upon this line of thought see Introduction in the "First Folio Edition"). How far is
+Berowne to be taken as the spokesman of Shakespeare? Note what Pater says of him as "a reflex
+of Shakespeare himself," and trace the truth of this as concerns the fact that he is never
+"quite in touch" with the level of the understanding shown by others of the Play, and state
+the bearing this has upon the Moral of the Play. (See Pater's "Appreciations" or extract from
+same in "Selected Criticism," pp. 242-248, "First Folio Edition").
+
+Why does so frolicsome a Comedy end so seriously? Does that make it funnier?
+
+QUERIES FOR DISCUSSION
+
+Is there really a moral in the Play in favor of nature and sincerity or is it merely read into it?
+
+Is Dowden right, who says "there is a serious intention in the play," or Barrett Wendell who
+says: "like modern comic opera, such essentially lyric work as this has no profound meaning;
+its object is just to delight, to amuse; whoever searches for significance in such literature
+misunderstands it."
+
+In comparison with other comedies of Shakespeare, is a serious undercurrent discernible in
+all of them, but none in this?
+
+IX
+
+SHAKESPEARE'S PLAY AND TENNYSON'S POEM ("THE PRINCESS") UPON EDUCATION OF MEN AND WOMEN
+
+Summarize story and outcome of Play and Poem in comparison and in contrast. Does Shakespeare's
+exposition of the contemporary view of education account for the condition Tennyson criticises?
+If so, are women to blame for it? If not, how much does this modify Tennyson's criticism of
+the educational exclusion that is the scheme of the College in "The Princess?" Shakespeare
+seems to point his moral against his male characters for their exclusiveness, Tennyson against
+his women characters? Which one goes the deeper? Wherein do they agree and disagree? How may
+they be made to supplement each other? Has Tennyson's poem presented any phase of the question
+touching upon popular interest in exclusive educational schemes? Is Shakespeare, considering
+his time, the more democratic in his views of life, as shown by this Play, in comparison with
+those brought out in Tennyson's Poem. Why does Shakespeare leave the women in moral and actual
+command of the situation?
+
+QUERIES FOR DISCUSSION
+
+Is co-education the right conclusion to draw from the exposition by the Poets of educational
+restraints and the relation of men and women to life?
+
+What ideals of life as to Nature and Education must be included in educational schemes? Why
+does the Play not end with as many marriages as there are lovers? Is it possibly because Shakespeare
+did not mean to bring forward love between man and woman as if it were the only thing in life
+but as the typical experience of life that should open up the depths of knowledge not of love
+alone but of death and suffering in relation to it.
+
+MUCH ADOE ABOUT NOTHING
+
+The title of this Comedy broadly describes its character, and is based upon the double meaning
+of "Nothing." The events that constitute the plot are the result of "note-ing" or overhearing
+and so taking note of events which are deceptive in some way. Hence, in all the "note-ing"
+that takes place, there is, after all "nothing," and the whole amusing plot constitutes much
+ado about nothing. The letter "h" in Nothing was often silent in Elizabethan pronunciation.
+The "h" in "Moth" in "Love's Labour's Lost" is another example.
+
+Noting or overhearing as a factor of the plot is introduced also in "Love's Labour's Lost."
+It is one of several links in workmanship with that Play and its use there may have suggested
+the production of a Play almost altogether built, as this is, on overhearing or taking critical
+notice such as Benedicke and Beatrice take of each other.
+
+The part of the plot that is based on an already existent story does not develop this noteing
+element particularly. For that reason it is the likelier that it is a device of Shakespeare's
+to make up his Comedy.
+
+ACT I
+
+CLAUDIO NOTES HERO WITH FAVOR AND IS NOTED WITH DISFAVOR
+
+The Story of Act I results, on the arrival of the Prince and his suite, in making it known
+that Claudio has noted Hero as "the sweetest Ladie" that ever he "lookt on." Show how it also
+comes out in Scene i that a noting of a severer kind has passed between Benedicke and Beatrice.
+The two kinds of special interest--the openly admiring noting of Claudio, and the captious
+notice of each other shown by Beatrice and Benedicke, initiate the two channels of action in
+which the plot will run. The normal sex-agreement of the one pair of characters is varied by
+contrast with the more unusual sex-warfare that asserts itself humorously both in Beatrice
+and Benedicke. Bring out pertinent examples of their defiance of love and marriage.  What is
+to be gathered of Hero and her point of view from this Act? How much from others, from little
+from herself? And how much from her of others? Contrast with hers the witness given of herself
+by Beatrice. Is Claudio taciturn, too, when compared with Benedicke?
+
+What noting goes on in scene ii? Is it in accordance with what has already taken place between
+Claudio and the Prince? What additional noting comes out in Sc. iii. Is this in accordance
+with Scene i or Scene ii? Act I closes with a sense of some confusion which Act II is required
+to clear up. In addition to the inconsistency, notice Don John's enmity to Claudio, and its
+menace of disaster.
+
+QUERIES FOR DISCUSSION
+
+Is the inconsistency of the last three scenes misleading and puzzling rather than alluring
+to the curiosity of the reader?
+
+Could it be made more interesting on the stage by the way of enacting the part of Brother Anthony?
+
+ACT II
+
+THE PRINCE PLOTS FOR TRUE NOTING AND HIS BROTHER FOR FALSE
+
+Tell the story of the masked ball. What new light is thrown, first, on the characters and,
+then, on the plot by means of these fragmentary bits of dialogue heard as the revellers pass
+on and off stage together.
+
+Is Don John really misled as to his Brother's intentions toward Hero?
+
+What does Hero herself think?
+
+Does Don Pedro himself show that he is acting for another--that the god, Love, dwells beneath
+his visor? The modernized edition spoils one of the references to this office in which the
+Prince labors for Love and does a labor of love in whose disinterestedness some doubt is expressed.
+By changing Love to Jove (in II, i, 92) a literal correction is made in accord with the legend
+referred to, but in entire destruction of the point made by the Prince, if Shakespeare means
+to adapt the allusion to his special purpose. Note also Benedicke's name for Claudio (II, iii,
+34). What is your opinion of this? (See Note on II, i, 91, in "First Folio Edition"). Compare
+another instance where the Prince shows that he is acting for Cupid (II, i, 358-367). Is Don
+Pedro the most active spirit in the plot? Show how in Acts I and II, it is made clear that
+the plot will consist in the prevalence of either a favorable or unfavorable influence upon
+the happiness of the characters. Who represents each influence?
+
+Notice that the favorable influence in its first action in favor of Claudio's happiness is
+misunderstood, discounted and disbelieved in several directions. Is Claudio led to distrust
+of the Prince by others or by his own jealousy?
+
+In the second action of the favorable influence initiated by the Prince, which of the characters
+share? Does the unfavorable influence work against Benedicke's happiness?
+
+What is Borachio's place in the action of the unfavorable influence?
+
+QUERIES FOR DISCUSSION
+
+Noteing or overhearing is itself nothing or has a large element of the deceptive in it. How
+is it made to work well in Benedicke's case? Is the element of truth the only one that is effective?
+
+ACT III
+
+THE NOTE-ING IS NOTED
+
+Show that the action taking the Story on consists in the "note-ing" already planned being enacted
+and being noted as true. How does this work with Beatrice in Scene i?
+
+In Scene ii the unfavorable influence makes its preparation to carry on the plot disastrously
+by the same method. How is this made clear?
+
+In Scene iii the "note-ing" is as effective for evil as that in scene i, is for good. But a
+counter influence is brought to bear upon it which consists in "noteing" the falsity of the
+first "noteing." Show how this is arranged and promises to solve all difficulty. But the marriage
+is shown next to be in active preparation, and then the promise of intervention in time to
+frustrate Hero's disgrace is in scene v itself frustrated by the bestowal of all Dogberry's
+"tediousness" upon Leonato and by his own impatience. Show the place in the action of the hurrying
+on of scene iv, and the tediousness of scene v, and of both on the humor of the Play.
+
+QUERIES FOR DISCUSSION
+
+Are the Prince and Claudio justified in the action they propose?
+
+Is the element of chance, which both destroys the falseness of the evidence by means of Borachio's
+talk, and prevents it from being known by Dogberry's, especially fitting? Why?
+
+ACT IV
+
+HERO IS REPUDIATED AND BEFRIENDED
+
+Does Claudio's demeanor in the repudiation scene betray the violence of love?
+
+What is to be inferred from the Prince's words and those of his bastard brother Don John?
+
+Is it natural for Leonato to be convinced and to know his daughter no better?
+
+Why is the Friar on her side? Notice how the Friar represents the Church as Dogberry does the
+Law. As institutional forces of civic life, outside the circle of the central group of characters,
+they intervene in the action of the drama when it is properly amenable to outside influences
+and civic instrumentalities. And both are brought into the sphere of the Play by a means in
+sympathy with the artistic method belonging to it. Observe how Dogberry is made humorously
+to desire to have everything noted down, and how the Friar has come to the conclusion that
+Hero is innocent "by noting of the Ladie." With the Friar on her side, Hero and her one staunch
+friend--Beatrice are enabled to follow a policy of resistance to her disgrace and of re-establishment,
+first, of her good fame and, then, of her happiness. How is this brought about? The share of
+the Friar in rallying her friends to be loyal, and the share of Beatrice in instituting a counter-movement
+to the accusation combine to what effect? How does it suit with the scheme of the action that
+the love of Benedicke and Beatrice here attains its climax?
+
+What does scene ii accomplish for the plot?
+
+QUERIES FOR DISCUSSION
+
+Is the injection of tragedy at this Fourth Act into the Comedy effective? Does it change the
+character of the Comedy or merely intensify it?
+
+Does Beatrice ask an unreasonable deed of Benedicke when she says "Kill Claudio"? Suppose it
+were to prove true, instead of to be prevented as may be already guessed, by the defeat of
+Don John's false witness and evil influence: Is Beatrice justified in refusing Benedicke if
+he will not kill his friend because it shows "there is no love" in him?
+
+ACT V
+
+THE DOUBLE WEDDING
+
+The valor and humor of the two old men against the two young ones has especial value in restoring
+the comic vein. How does this somewhat belated loyalty of Leonato act upon our sympathy with
+him? Does the forbearance of Claudio and the Prince toward the two men raise our esteem of
+them or lead to further dislike?
+
+What effect has the mock heroics of their ineffective challenge on Benedicke's earnest championship
+of Hero? Is the Prince's satiric speech (V, i, 208-209) to be interpreted as complimentary
+to Benedicke? Notice Claudio's next speech in comment upon it, and explain the implications
+intended.
+
+What does Leonato mean by blaming Borachio less than the three nobles? How far do you think
+him justified--the relations of master to man at the time being considered?
+
+Was Margaret to blame? Why did she not make the cheat known? (Cf. V, iv, 5-7 with V, i, 311-314).
+Is it worth while to spend much time on making all minor details clear?
+
+Is Claudio's consent to a second marriage creditable, natural, or a clumsy expedient which
+only the entire hollowness of the whole plot of false noting as to Hero renders endurable?
+Can you imagine any way of acting the part of Claudio that would make it seem attractive?
+
+Do you find it in character at the wedding that one couple says so little, the other so much?
+
+QUERIES FOR DISCUSSION
+
+Is the ending of the Plot happily contrived in too forced and unreal a way?
+
+Which is the most stirring scheme in the Play and why?
+
+Which is the funniest, and is it possible to say why?
+
+THE CHARACTERS
+
+Does this Play succeed in giving so extremely definite and varied an impression of the characters
+that it is chiefly notable for that? To bring out this idea of the plot as successful less
+in itself than because it illuminates the quality and humor of the characters, compare with
+the "Comedie of Errors" or any of the Plays where events figure more prominently. Show how
+the events of this Play may be said to be created by the Characters. The Prince and his Brother
+(and their tools on each side who lend themselves to their plans with Dogberry, the highly
+unconscious, and the Friar, the highly conscious character) by being what they are constitute
+the diverse means of influencing the whole turn of events. These persons may all be considered
+with reference to what they are themselves, in character, and through that, in relation to
+the other characters of the Comedy.
+
+BENEDICKE AND BEATRICE, CLAUDIO AND HERO
+
+These two loving couples reveal their special characters most vividly by means of their contrasting
+and supplementary relations to each other. Show how Benedicke and Beatrice do not throw Claudio
+and Hero too much in the shade by their superior brilliancy, because through the love of the
+minor couple their own love is enabled to ripen. Is their character heightened or lessened
+in wit and individual interest by love?
+
+The minor characters: Show how the adversity of the family brings out the heroic element lying
+unobserved in Brother Anthony of the "dry hand," and kindles his philosophy into something martial.
+
+The merry maids, Ursula and Margaret and their light-hearted parts in the plot.
+
+QUERIES FOR DISCUSSION
+
+Beatrice "is a tarter,--and, if a natural woman, is not a pleasing representative of her sex."
+She "will provoke her Benedicke to give her much and just conjugal castigation," says Campbell.
+
+Is the superficial Claudio worthy of Hero?
+
+Are the faults in the plot of the Play, such as are necessitated by the design of using the
+characters themselves and their "noting" of one another as the source of events, and, therefore,
+in the last analysis not faults, a study of their relation to the design leading us, as Hartley
+Coleridge puts it, never to censure Shakespeare without finding reason to eat our words?
+
+A MIDSOMMER NIGHTS DREAME
+
+Having read "A Midsommer Nights Dreame" as a whole, if it be not already fresh in the mind,
+or, if possible, having seen it acted, then consider more carefully the characteristics of
+its dramatic structure, studying the plot and progress of the story as it is unfolded act by
+act, also the sources, the characters, and so forth, as suggested in the following study.
+
+ACT I
+
+THE CROSSED LOVERS
+
+Sum up the incidents and characters introduced in the first Act and ascertain which are most
+important in influencing the rest of the story.
+
+It may be noticed that Theseus and Hippolyta and their marriage festivities are personages
+and events which make up a decorative external sort of frame for the whole play, but that the
+centre of the action takes its start, primarily, from the conflict of Hermia's love for Lysander
+with her father's choice of Demetrius, and, secondarily, from the clash of Helena's love for
+Demetrius with his suit for Hermia. Show how the brisk bit of dialogue between Hermia and Lysander
+(I. i. 141-166) implies the forthcoming plot. For example, it may be shown that 'to be enthrall'd
+to love' (the first folio reading is love instead of low, which was an emendation of Theobald's,)
+[Footnote: See foot note in First Folio edition.] and to have 'sympathy in choice' made as
+'momentary as a sound, swift as a shadow, short as any dream,' is to be the fate of all the
+lovers in the play, except Theseus and Hippolyta, and to constitute the substance of the action.
+
+Consider what relation the second scene has to the story. Is it more extraneous to the movement
+than the scene presenting the Duke and his bride? It is linked to the crossed lovers group,
+on the one side, by the part the chief of the 'rude mechanicals,' Bottom, is to assume with
+Titania, although this does not appear in the first Act, and Shakespeare's intention to do
+something special with this character is only shadowed forth here by its prominence. On the
+other side it is linked to the ducal group still more superficially, merely by the rehearsal
+of a piece to be played at the wedding. It may be contrasted with the preparation in 'Hamlet'
+for a piece similarly played before the Court, but which had a vital connection with the action
+and characters which is lacking here. Can there be said to be an artistic design, however,
+though of a more external sort, in the contrast between the Court scene and the rehearsal scene,
+and the realistic offset the latter scene supplies to the fairy fantasies that are to follow
+in the next acts? For instance, it may be shown that the merriment the clownish scene provides
+balances the dignity of the ducal scene. His audience, having put a yoke upon the dramatists
+by requiring a clown, his genius is betokened here by his making it an artistic advantage.
+
+POINTS  1. 'The ancient privilege of Athens,' I. i. 49. What was the position of the father
+toward the family in Attica? 2. 'On Dian's altar to protest,' i. 98. Did the service of Diana
+offer women a respite from masculine dictation? Compare the myth of Iphigenia's salvation by
+Diana. 3. 'To that place the sharp Athenian law cannot pursue,' i. 172. What Grecian states
+had laws more lenient to women? 4. What traces can be found in history or legend of the victory
+of Theseus over the Amazons, and the rise of a new civic order on the ruins of a matriarchate?
+5. The story of Pyramus and Thisbe (see Chaucer's 'Legend of Good Women' for an early English
+use of the story). 6. Explanation of allusions to Phoebe, Cupid, Ercles, etc.
+
+ACT I
+
+QUERIES FOR DISCUSSION
+
+Upon what does the interest centre in Act I? In the marriage of Hippolyta and Theseus, or the
+love affairs of the four lovers?
+
+Is Hermia, whose determination not to be forced to marry starts the plot, the best-drawn character
+in the first Act?
+
+ACT II
+
+THE FAIRIES' QUARREL
+
+Show how in this Act a new agency of a fairies' quarrel is devised and set forth.
+
+Point out how this is made to crystallize in Oberon's scheme for revenge on Titania, and also
+how, in the course of disentangling their own love-snarl, it is made to develop the conflict
+between the crossed lovers. This, it may be emphasized, is the second step in the movement,
+as Hermia's and Helena's love was the first, and these two main factors of the action are taken
+up together in this act.
+
+Are the other two groups which were introduced in the first act, the Duke's party and Bottom's
+set, interwoven with the new fairy group in any way in this Act? See if the new fairy element
+now shows any disposition in the person of Oberon to smooth out the difficulties of the mortals.
+
+Oberon's intentions, however, were one thing, and his deeds another. Through Puck as his instrument,
+his jealousy at once begins to make matters worse instead of better for the lovers. Notice
+the delicate appropriateness of Oberon's means of influence, namely Puck and the two flowers,
+the first being 'Cupid's flower,'--Love in idleness--the second 'Dian's bud,' introduced later
+to correct the influence of the first. The first flower assists in the development of a plot
+which is to enact the 'momentariness' of 'sympathy in choice.' The cross-purpose, fostered
+by Puck's mistake, seems to provide the comparatively grosser sort of merriment for this Act
+which Bottom and his friends supplied for the first; and the dainty humor and sprightly novelty
+attending the introduction of the fairies on the scene, the description of their quarrel, and
+the foreshadowing of the influence they are to have on the next stages of the story, may be
+shown to occupy the chief place in the plot at this period, the crossed lovers, who predominated
+in the first Act, now falling into a relatively subordinate position.
+
+POINTS 1. Robin Goodfellow and the traditions about him. 2. Fairies and changelings. 3. The
+stories of Theseus's loves. 4. Explanation of allusions to nine men's morris, old Hiems, etc.
+5. Account of theories as to meaning of references to the imperiall votresse, a little westerne
+flower, a mearemaide on a dolphins backe, etc. Warburton says the mermaid was meant for Mary
+Queen of Scots. N.H. Halpin thinks that by Cynthia is meant Queen Elizabeth; by Tellus, Lady
+Douglas; by the little 'western flower,' Lettice, wife of Walter, Earl of Essex, while Cupid
+is Leicester. (See "First Folio Edition" for particulars). 6. Explain use of 'Lob,' II. i.
+15; 'wodde,' 200. 7. 'The starres shot madly from their Spheares,' i. 159. Look up Ptolemaic
+system of astronomy for explanation of the idea. Compare "Merchant of Venice," V. i. 71-75,
+and notes on same in "First Folio Edition" of that play. 8. What is "Love in idleness"? (See
+Introduction to "First Folio Edition" of "A Midsommer Nights Dreame" for references to this
+flower in Chaucer's poem of "The Flower and the Leaf.") Compare "The Taming of the Shrew,"
+I. i. 156. 9. What are "Cankers" in the musk rosebuds? II. ii. 4.
+
+QUERIES FOR DISCUSSION
+
+Is it probable that the various passages in this act said to allude to current incidents were
+so intended? In that case what effect do they have upon the beauty of a Play set in Athens?
+
+Is the interest of this Act a divided one?
+
+ACT III
+
+CROSS-EFFECTS OF OBERON'S SPELL
+
+Analyze the scenes constituting this Act. Observe that scene i. takes up Bottom and his fellows,
+the group not as yet brought into relation with the fairy group, and initiates them in the
+magic of fairy land by means of the new but appropriate head Puck bestows upon Bottom. Why
+is Bottom picked out for this favor? The 'ass-head' as a symbolic piece of stage furniture.
+Show how this transformation makes the mismating of Titania with Bottom more gross and obvious
+to the audience; also how this is the next direct effect of Oberon's revenge.
+
+Notice that scene ii. takes up the cross-effect already worked upon Lysander by Puck's mistake,
+instead of on Demetrius, as Oberon intended, and sets forth its further effects upon Helena
+and Hermia. The dialogues between the two pairs of lovers now overheard by Oberon makes the
+error clear, and so enables him to take the first step in clearing up the tangle. Meantime,
+the poet and his audience agree with Puck that they are so far 'glad it so did sort, As this
+their jangling' is esteemed 'a sport.'
+
+POINTS 1. Explain 'It shall be written in eight and sixe,' III. i. 23-4. 2. The custom in Shakespeare's
+day as to the women's parts. Would it have been as amusing to the audience then as it would
+be to us when Quince says 'Robin Starveling, you play Thisbies mother'? 3. Pyramus and Thisbe.
+This may have been derived from Ovid, or from Chaucer's "Legend of Good Women," or C. Robinson's
+"Handful of Pleasant Delights." (1504.) 4. Explain 'Two of the first like coats in heraldry,'
+III. ii. 220. 5. Describe the personal appearance of the heroines from the references made.
+
+QUERIES FOR DISCUSSION
+
+Is Puck or Bottom the presiding genius of this act?
+
+Does the jangling between the two women belittle them as heroines, and is it, therefore, a
+blot upon the beauty of the play?
+
+ACT IV
+
+HARMONIZING EFFECTS OF OBERON'S SPELL
+
+Trace throughout this act the smoothing-out process.
+
+Why does Oberon himself release Titania while Puck is made to minister to the other victims
+of the charm? Is Oberon's explanation of the Fairy Queen's sudden change of heart about the
+changeling quite satisfactory, or does it simply appear so by a sort of artistic sleight-of-hand
+characteristic of Shakespeare in small touches at the close of a plot?
+
+Show how poetically suitable as a stage effect the entry of Theseus and his huntsmen is,--shedding
+the first rays of morning on the night-enchanted lovers.
+
+Why is Bottom made to waken last? Perhaps because he helps to denote the prose of broad daylight.
+Show what relation scene ii. has to the completion of the smoothing-out process.
+
+POINTS. 1. 'I was with Hercules and Cadmus once,' IV. i. 126. What relation had Hippolyta to
+these Greek heroes? 2. Account of May-day rites. 3. Traditions of St. Valentine. 4. Rites of
+Midsummer Eve.
+
+QUERIES FOR DISCUSSION
+
+Why is the choice of Hermia's father for her no longer supported by the Duke? Does this imply
+a criticism on the inconsistency of allowing men their choice, and their brides none, with
+which Shakespeare was in sympathy, or is this only apparent to some modern minds?
+
+ACT V
+
+THE THREEFOLD MASK
+
+If the central action of the play be considered as virtually concluded with the fourth Act,
+what office is performed by the fifth Act?
+
+Notice that in it the three groups of characters constituting the play--the court group with
+the lovers; the 'rude mechanicals' and their 'tedious brief scene,' and the fairy train--are
+in this Act all brought upon the stage, the whole spectacle being set in the palace at Athens,
+in celebration of the wedding festivities of the ducal pair, which, as before noticed, is used
+as a sort of decorative frame for the play as a whole.
+
+Examine the working-out of this unified presentation of all the personages. How are we to account
+for the silence of the women who were made to do so much towards the institution of the action?
+Show the poetic reasons for the entrance of Puck and the fairies last of all, and when the
+stage is empty.
+
+POINTS. 1. Explanation of all mythical allusions. 2. Account of theories as to meaning of 'The
+thrice three muses,' etc., V. i. 59. 3. What is a 'Bergomask dance'? 4. The date and occasion
+of the play: This play appears in Meres's list of 1598 and in the Quartos of 1600. Titania's
+description of the unseasonable weather (II. i. 92, foll.) may refer to the year 1594. Note
+that Chaucer in the 'Knight's Tale' speaks of the tempest at Hippolyta's home-coming. Many
+critics have believed that the play was written on the occasion of some marriage in high life,
+but they do not agree as to whose it was.
+
+QUERIES FOR DISCUSSION
+
+Upon what does the interest of the last Act centre? How does the ending suit the various threads
+of the Play?
+
+Is Theseus or Hippolyta the wiser critic of 'the story of the night'; and which of them is
+the wiser critic of the play of Pyramus and Thisbe?
+
+SOURCES OF THE PLAY
+
+1. WHERE SHAKESPEARE FOUND SUGGESTIONS FOR HIS MORTALS
+
+In Plutarch's 'Life of Theseus' will be found passages which furnished Shakespeare with some
+points for his drama. Chaucer's 'Knight's Tale' is also said to have given him material. The
+editor of the "First Folio Edition" suggests in the introduction that a reading by Shakespeare
+of a poem in his day supposed to be Chaucer's, 'The Flower and the Leaf,' gave him an important
+hint for his plot. Examine for yourself, and state what indebtedness you find in any of these
+sources. In I. i. 20, Theseus says to Hippolyta, 'I woo'd thee with my sword.' Compare this
+with the account given in Chaucer. According to another version of the story Hercules gave
+Hippolyta to his kinsman Theseus in marriage. Compare 'The Two Noble Kinsmen' and the 'Knight's
+Tale' with Shakespeare's 'Dreame.'
+
+2. WHERE SHAKESPEARE FOUND SUGGESTIONS FOR HIS FAIRIES
+
+The models in literature from which Shakespeare drew may have been 'Huon of Bordeaux,' where
+he got little, however, but the name Oberon. The name Titania may have been derived from Ovid's
+'Metamorphoses.' The Fairy Queen in Shakespeare's day usually went by the name of Queen Mab.
+Puck's characteristics seem to have been derived from the little tract of 'Robin Goodfellow,
+His Mad Pranks and Merry Jests.' Rolfe, in the notes to his edition of the play, says that
+White argues that this was probably written after "A Midsommer Nights Dreame." Ward thinks
+that the entire machinery of Oberon and his court may have been derived from Greene's 'Scottish
+History of James IV,' and that Titania may have been suggested by Chaucer's 'Wife of Bath's
+Tale.' He probably owed his fairies in great measure to tradition or folk-lore. The folk-lore
+of England was originally made up of Teutonic elements, which have been modified by Danish
+and Norman invasions, by remnants of old Keltic belief, and by the introduction of Christianity,
+which last degraded the good fairies into mischievous elves. (See Hazlitt, 'Fairy Mythology
+of Shakespeare,' Halliwell's 'Illustrations of the Fairy Mythology of Midsummer Night's Dream,'
+also Poet-Lore, April, 1891, 'Fairy-lore in Midsummer Night's Dream.')
+
+3. SOLAR ORIGIN OF THE FAIRIES
+
+According to some authorities the Teutonic mythology was of cosmic origin. In the fairies may
+be seen many reflections of cosmic characteristics. Oberon and Titania are fairies of the night,
+and the old battle between light and darkness shows itself in the mad pranks which they play
+on unsuspecting mortals. But as the daylight comes they are obliged to flee. Puck reflects
+the characteristics of a wind god. (See Cox, 'Myths of the Aryan Nations;' also Korner, 'Solar
+Myths in Midsummer Night's Dream,' Poet-Lore, Jan., 1891). Compare his character with that
+of Hermes in the Homeric Hymn to Hermes (Shelley's Translation).
+
+SYMPOSIUM OF OPINION ON THE CHARACTERS
+
+1. THE LOVERS
+
+QUERIES FOR DISCUSSION
+
+1. Hermia and Helena are hardly worth considering, but if anything Helena is to be preferred
+to Hermia because she is so humble, and shows no sign of jealousy of Hermia. 2. If Hermia had
+been more dignified when she found that both the lovers had turned their attention to Helena,
+she would better have carried out the promise of her character in the first Act when she declared
+she would rather die than wed the man chosen by her father.
+
+2. HIPPOLYTA AND THESEUS
+
+QUERIES FOR DISCUSSION
+
+1. The only indication we have of the character of Hippolyta is in the last act, where she
+is so bored by the play of 'Pyramus and Thisbe.' Does this show stupidity on her part or exceptional
+development? 2. Do you agree with Dowden that there is no figure in the early drama of Shakespeare
+so magnificent as Theseus? His insistence in Act I. that Hermia should obey her father against
+her own inclinations is certainly not very praiseworthy, but might be excused on the score
+of the times in which he lived. 3. His complaisance toward Quince and his companions has been
+considered an indication that he was a most perfect gentleman; does he not rather conceitedly
+patronize them?
+
+3. THE FAIRIES
+
+QUERIES FOR DISCUSSION
+
+1. Have the Fairies any idea of morality? 2. Oberon was perfectly justified in wishing to get
+the changeling from his wife, and shows himself worthy of becoming a mortal for insisting on
+his rights as a husband. 3. Titania is the most developed woman character in the play, because
+she insists on her individual right to the changeling. 4. Is Puck a more developed fairy than
+Ariel in 'The Tempest'?
+
+4. THE PLAYERS
+
+QUERIES FOR DISCUSSION
+
+1. Is Shakespeare making fun of the stupidity of Quince and his companions, or is he gently
+satirizing the stage and the exaggerated style of writing for the stage which prevailed at
+this time? 2. If the last is true, is not Shakespeare in the last act making fun of the audience,
+as well as of the players, who with a superior air pass judgment upon the play and indulge
+in very lame wit, while the real meaning of it quite escapes them.
+
+SYMPOSIUM OF OPINION ON FAVORITE PASSAGES
+
+Every member of the class or club should bring in a short paper giving his favorite passage
+in the play and why he likes it, including his criticism of the metre, of the metaphors and
+similes, and the thought contained.
+
+QUERIES FOR DISCUSSION
+
+1. Which characters in the play are original with Shakespeare? 2. What is to be thought of
+Shakespeare for bringing together in one play Greek mythology, English folk-lore, and English
+workmen of his own age? Does this commixture of elements make the Play seem unnatural or incongruous?
+Has he skilfully harmonised these diverse elements by giving the Play its dream-like character?
+3. That this play is charming cannot be disputed. Is its chief charm its humor, its fancy,
+its dramatic construction, or subtle developments of character?
+
+THE MERCHANT OF VENICE
+
+Sufficiently indirect use of contemporary political events in a Play was a cause of popularity
+without seeming dangerous to the State.
+
+As "Love's Labour's Lost" is an early example of a plot woven out of masked allusions to current
+topics, so even as definitely plotted a comedy as "The Merchant of Venice" here and there worked
+in an animating shred of contemporary reference.
+
+After Dr. Roderigo Lopez, the Queen's physician, was accused by Don Antonio of Portugal, and
+executed June 7, 1594, on the charge of being bribed by the King of Spain to poison Queen Elizabeth,
+the story of a Shylock's defeat and the rescue from his clutches of an Anthonio had just enough
+relevance to be popular without definiteness enough to be obtrusive.
+
+ACT I
+
+SHYLOCK'S "MERRIE BOND"
+
+Why is Anthonio sad? Is it presentiment? Is it, despite his unselfish willingness to furnish
+forth Bassanio to sue at Belmont for Portia, some sense of loss in friendship through this
+love? Anthonio and Bassanio may be considered as examples of that devoted friendship illustrated
+by Valentine's feelings towards Protheus in "The Two Gentlemen of Verona."
+
+The group of young and gay courtiers circling about the two friends bring them into brighter
+relief.
+
+Unlike Protheus, though perhaps younger and less wrapped up in the sense of friendship than
+Anthonio is, Bassanio is worthy of such regard. Do the "faire speechless messages" he has received
+from Portia's eyes and his praise of her as "nothing undervalued to Brutus's Portia" tell the
+cause of his quest better than what is said of her wealth? Notice that even what he says of
+that is as a mere grace of her person: "her sunny locks Hang on her temples," etc. (I. i. 177-181).
+
+What reasons had Shylock for hating Anthonio?
+
+Does Anthonio's demand that he lend the money to him as an enemy justify the terms of the bond?
+
+Is Bassanio right in distrusting, and wrong in accepting such a bond?
+
+The long pedigree of Jewish and Christian antipathy and its illustration in this bond by the
+characters that are its exemplars.
+
+What is to be gathered of Portia in this Act before she meets again with Bassanio?
+
+QUERIES FOR DISCUSSION
+
+Are Anthonio and Shylock more individual than typical?
+
+Does the Act close with assurance of good luck or foreboding of bad?
+
+Is Bassanio a fortune hunter?
+
+Is he to blame for what follows?
+
+ACT II
+
+PORTIA'S CASKETS
+
+Why is Jessica's story intertwined with Portia's? What dramatic purposes does it serve? Are
+Jessica and Launce alike justified in leaving Shylock? Why? (See Introduction to the Play in
+First Folio Edition for suggestion). Is the Jew's lament for his daughter although piteous,
+inadequate.
+
+Is the choice of the gold and the silver by the Moor and Spaniard significant of their natures?
+
+What reason is there to find in the symbolism and the persuasion to choice each suitor employs
+that Portia's father has used the wisdom of a seer in prescribing the choice from the three
+caskets?
+
+QUERIES FOR DISCUSSION
+
+Do you like Jessica? Why? In what ways are Portia and Jessica alike in the generousness of
+love though opposite in circumstances?
+
+Is Jessica's elopement to blame for her father's joy in the wreckage of Anthonio's ships and
+his final exaction of the bond? Was it introduced in the Plot for this purpose?
+
+ACT III
+
+BASSANIO'S LUCK AND ANTHONIO'S LOSS
+
+Shakespeare's creed of love as engendered in the eyes may be illustrated by passages in many
+other plays as well as this. What is meant by it?
+
+Is Bassanio's daring in venturing so much for his chance with Portia itself a sign of his fitness,
+or the reverse? How is his casket significant of this test-stone--i.e., adventurousness?
+
+Is the match of Nerissa and Gratiano an irrelevance to Portia's and Bassanio's courtship or
+an enhancement of their happiness? Show how the two points of climax in event and feeling balance
+absolutely but do not sacrifice each other? Are Shakespeare's experiments in bold juxtaposition
+of extreme fortune and happiness and utterly irretrievable devastation anywhere so poignant
+as the arrival of Anthonio's letter at the betrothal of Bassanio and Portia?
+
+QUERIES FOR DISCUSSION
+
+Is the secret of Bassanio's adventurousness the supreme honor in which he holds love? Nothing
+else being of so much consequence, he yields everything to love. Does Jessica, also?
+
+The "manners" of Portia, according to Gildon, "are not always agreeable or convenient to her
+Sex and Quality; particularly where she scarce preserves her modesty in the expression." What
+is to be thought of this?
+
+Is Anthonio's letter characteristic of his nobleness as a friend, or is it too insistent upon
+bringing Bassanio to him, since to send such a letter was equivalent to fetching him?
+
+Is it Portia's best warrant as a noble bride and wife that she appreciates Anthonio's message
+and friendship?
+
+ACT IV
+
+THE LUCK REDEEMS THE LOSS
+
+By means of Bassanio's luck in winning Portia's love and hand Shylock is finally defeated of
+his malicious purpose. Portia considered as the embodiment of Bassanio's luck and the instrument
+bringing Shylock to confusion.
+
+Does it matter whether the law-point is disputable or not since the traditional stories on
+which the Play is built up afford the opportunity for its use?
+
+Does Shylock get Justice, since he had refused mercy?
+
+Illustrate the legal knowledge and studies of Italian women of the Renaissance affording a
+parallel for Portia's sagacity and leadership. (For hints see pp. 256-260 in "First Folio Edition.")
+
+QUERIES FOR DISCUSSION
+
+Do you think Shylock is wronged?
+
+Does Shylock so preponderate the Play as to destroy its balance, and outweighing all other
+characters make them insignificant?
+
+Are Actors justified in acting the Play so as to dwarf the Love plot and cut out Act V as needless?
+
+Is Portia the proper counterpart in consummate character creation to Shylock? To whom does,
+if properly played, the ultimate interest of the Play belong?
+
+Why does this position belong to no other character's part?
+
+ACT V
+
+THE RINGS
+
+What is the business of Act V?
+
+How is it linked to the preceding Act? Since reunion and rejoicing are not alone the business
+of the plot; since recognition and declaration to the two husbands, and to Anthonio, especially,
+are needed, as well as to the others, of the part played by the wives in solving the difficulties
+of the plot, the Ring scenes constitute the due dramatic conclusion of the Play. Note that
+the threat of quarrel over the reluctant but requisite giving away of the rings in the preceding
+Act makes a deceptively serious difficulty. It is happily to be solved as a result of the wives'
+preceding action. This difficulty and this solution at this final stage of the plot constitute
+a little character play that is an epitome of the action. The whole is the more happily and
+amusingly solved that the Audience is wise and the characters still in the dark are really
+perplexed.
+
+Point out the value of the exchange of Rings as made clear in these two ways, by bringing out
+the characters of Gratiano, Bassanio, and especially of Anthonio as peace-maker; and by bringing
+out to them the fact that to the wives' love and skill the victory over the difficulties they
+suffered is due.
+
+Are the rings the sole test of this?
+
+What other news adds to the general denouement of all difficulties?
+
+Is the summing up of the Play a victory of love and intelligence over hate and narrow-mindedness?
+
+Show how the rings symbolize this, and music and moonlight provide the proper atmosphere for
+its operation. The appropriateness of the moonlight for a calm out of strife, brought about
+by women, is matched by the fitness of music and the reference to the harmony of the spheres
+to suggest that earth-harmony to which Portia was presiding Angel.
+
+QUERIES FOR DISCUSSION
+
+Is any incident of Act V without relevance to the plot?
+
+Is the Play the nobler or the weaker dramatically for the poetic and symbolic influence shed
+upon it by Act V?
+
+THE MERRY WIVES OF WINDSOR
+
+If this Comedy was written, as tradition reports at the bidding of Queen Elizabeth in order
+to show Falstaffe in love, it is interesting to see that Shakespeare confines his love-making
+to mercenary motives, and by causing him to make love to two at once renders him as a lover
+merely a cheat.
+
+So keeping the word of promise to the ear, he obeys by breaking it to the sense. To show Falstaffe
+as a lover amounts to showing him as no lover at all.
+
+In this sense, the Play might be called a courteous satire upon the Queen's request.
+
+THE STORY OF ACT I
+
+FALSTAFFE IS FORCED TO "CONICATCH"
+
+How Falstaffe falls into trouble, turns away his followers and begins a new enterprise: How
+do his followers take revenge? What light upon this opening of the story do scenes i. and iii.
+show?
+
+What is the underplot as shown in scenes ii. and iv and a part of scene i?
+
+Do they appear to have anything to do with each other?
+
+QUERIES FOR DISCUSSION
+
+Which of her suitors does Anne prefer? Which is to be preferred?
+
+Is the grievance of Shallow against Falstaffe a necessity of the plot to show the fat knight
+in love, or an episode introduced out of Shakespeare's grudge towards Sir Thomas Lucy? (See
+pp. 117-119, 138-141, etc., "First Folio Edition.")
+
+THE STORY OF ACT II
+
+THE MERRY WIVES AND FORD LAY PLOTS
+
+In Act II a third under-intrigue that of Ford with Falstaffe is added to the two before introduced.
+
+Show how the Merry Wives reveal their separate personalities in their reception of the duplicate
+letters, and their plot to dupe Falstaffe.
+
+Contrast their two husbands as their natures and marital relations are shown by their different
+manner of taking the information given them by Nym and Pistol. Ford, considered as Shakespeare's
+first study of jealousy. How does he compare with Leontes?
+
+How does Ford assist in the plot of the Play?
+
+What pertinence to Ford's jealousy is there in the allusion to Queen Elizabeth's Sonnet? (II,
+ii, 199-200).
+
+The Sources of the Merry Wives' intrigue and what Shakespeare has done with them. (See "Sources,"
+First Folio Edition). How is the Duel scene related to the underplot?
+
+What characters belong in common to plot and counterplot?
+
+QUERIES FOR DISCUSSION
+
+Does Falstaffe show any material differences in character as he appears in this Play, in comparison
+with the way he appears in "Henry IV?"
+
+THE STORY OF ACT III
+
+THE DOUBLE DUPERY
+
+Contrast the feelings of Falstaffe before and after the Buckbasket episode?
+
+In which scene is Ford the worst duped?
+
+Give an account of Dame Quickly's relations to the intrigues, and show how her multitudinous
+offices as go-between interfere with each other so that she is "slacke" in one of her errands.
+What is the effect of her slackness on the contradictions in the time of the action. (See Duration
+of the Action, in "First Folio Edition"). Are they only seeming contradictions? The Sources
+of the Ford intrigue and what Shakespeare has done with them.
+
+Anne and her father and mother as characterized in this act, with relation to the suitors.
+
+QUERIES FOR DISCUSSION
+
+Is Anne the only character one can thoroughly sympathize with?
+
+Are the situations such as owe their fun largely to coincidence, like those in the "Comedie
+of Errors," or to a teeming variousness in the human naturalness of all the characters?
+
+THE STORY OF ACT IV
+
+FORD'S ENLIGHTENMENT
+
+Why is the Old Woman of Brentford trick a climax upon that of the Buckbasket?
+
+Falstaffe's wish that all the world might be cheated is true to the method of the Play. Show
+in exemplification of this, how a fourth intrigue grows out of the third, and is introduced
+as late as this fourth Act. How is the joke of the Host against Dr. Caius and Sir Hugh Evans
+avenged? Is this reference to the "three Cozen Jermans" that are said to run away with the
+Host's horses, liklier to be an allusion seriously made to a real event or to make use of it
+as an entirely fictitious intrigue and practical joke in the Play? Is this mock happening such
+as could be clear by the method of enacting it and one entirely consonant with this Comedy
+as a farce-mosaic of laughable tricks? (See pp. 120-121, 179-180, also Note on IV. iii. 6).
+Discuss probabilities. The turn taken in the plot: Show how all combine against Falstaffe;
+also the place of this intrigue in making material for Act V.
+
+QUERIES FOR DISCUSSION
+
+Has the "Merry Wives" any serious or tragic moments such as belong usually to Shakespeare's
+Comedies?
+
+Compare the jealousy of Ford with the jealousy of Adriana in the "Comedie of Errors." Which
+exemplifies the riper treatment and why?
+
+THE STORY OF ACT V
+
+THE DEFEAT OF MERCENARY LOVEMAKING
+
+Make clear the ins and outs of the Fairy trap, first for its actors, then for the dupes? Can
+the apparent inconsistencies in the wearing of green or white and the mention of "Quickly"
+for "Queene" be accounted for on the supposition that everybody is deceived except Nan and
+Fenton? (See Notes on V. v. 421, 205-209).
+
+The compliments to Queen Elizabeth in the Play: What are they and how is their appropriateness
+to the Plot made good?
+
+Consider the "humors" of the Welsh and French speeches and episodes as exploitations and developments
+of the similar humors of Fluellen and the Frenchmen of "Henry V."
+
+The fairy scenes and effects of this Play compared with those of the wedding night feast at
+the end of "A Midsommer Nights Dreame."
+
+What indications are there in the Falstaffe of "Henry IV." that he is superficially affected
+by the Puritanism about him? Is he any more deeply affected by it in the present Play? What
+is the difference in his appearance in this Play with respect to Puritanic morals: Is he more
+affected by them, at the last, when he is so grossly their victim, or have they grown, and
+put him out of date in England except as an atavism?
+
+Have Page and his Wife any loftier standpoint as to mercenary love than Falstaffe himself?
+Is Fenton's speech (V. v. 225-235) the moral of the last Act or is Ford's (237-238)?
+
+QUERIES FOR DISCUSSION
+
+Is the main design of the Play to "cure Ford of his unreasonable jealousy," as Rowe says, or
+to dupe and reform Falstaffe? Is the total aim sport to laugh over "by a Countrie fire?" Is
+it a Comedy of irony turned against all mercenary motives in love?
+
+AS YOU LIKE IT
+
+I
+
+THE DRAMATIC CONDUCT OF THE PLAY: THE WRESTLING MATCH
+
+How much of the situation existing in the play comes out in Act I. i.? And what action takes place?
+
+The strained relation existing between the brothers Orlando and Oliver is revealed through
+Orlando's conversation with Adam and with his brother Oliver. The situation at court is also
+revealed through the conversation of Oliver with the wrestler Charles, and also the loving
+relation existing between Celia and Rosalind; thus we are at once put into the possession of
+three emotional or passional causes for action--Oliver's hatred of his younger brother, the
+younger Duke's hatred of his older brother, and the love of Celia for Rosalind. Of these causes
+for action only one bears any fruit in this scene, namely, Oliver arranges with the wrestler
+to kill Orlando. What are the connections existing between sc. ii. and sc. i.? First there
+is a picture of the loving relationship existing between Rosalind and Celia (already mentioned
+by Oliver in sc. i.) which reveals very subtly differences in their natures. The action set
+going by Oliver in sc. i. is consummated in the wrestling match, but with a result different
+from that hoped for by Oliver, thus leaving Oliver's hatred still present as a cause of action.
+Out of the wrestling match what further passional and emotional causes of action are set up?
+Duke Frederick's hatred for Orlando is aroused because he learns he is the son of a man he
+had considered his enemy, and action against him is the immediate result. Orlando is warned
+by Le Beau that he is not safe at the court. The Duke's hatred of his brother bears further
+fruit in its extension to Rosalind. The meeting of Rosalind and Orlando brought about by the
+wrestling match gives rise to a fresh emotional force in their budding love for each other.
+In Sc. iii., the state of Rosalind's heart as to Orlando, hinted at in sc. ii., is fully revealed;
+the Duke's hatred takes shape in his sentence of banishment or death, giving rise to a new
+direction for action, and the emotion of Celia's love for Rosalind bears fruit in her determination
+to go with Rosalind into banishment.
+
+II
+
+LIFE IN THE FOREST OF ARDEN
+
+In Act II. how are the elements of action, character delineation and emotion intermingled?
+
+Sc. i. gives us a picture of the banished Duke and his followers in the Forest of Arden, already
+prepared for in Act I., introduces us to the personality of the Duke, and in the conversation
+with the lords prepares us for coming delights in the personality of Jaques. It does not advance
+the action, at all. In sc. ii., the result of Celia's act in going with Rosalind is shown in
+the bad Duke's consternation, who determines that they shall be found, thus starting another
+thread of action to be developed later. Sc. iii. the passional cause of action in Oliver's
+hatred of Orlando reaches a crisis; Orlando is obliged to flee to save himself from death.
+Sc. iv. shows Celia and Rosalind arrived at their journey's end in the Forest of Arden, and
+making arrangements with a shepherd for a comfortable little house to rusticate in; thus is
+closed the thread of action started by the Duke in banishing Rosalind. In the conversation
+of their new companions, Corin and Silvius, we learn of the love of Silvius for the scornful
+Phebe, which is another emotional impulse to action, later blending itself with the plot. In
+sc. v. we meet Jaques, already mentioned, and get another glimpse of the pleasant company in
+the forest, but they are still quite detached from the active elements of the play. Sc. vi.
+shows us how far Orlando and Adam have gone in their flight, and sc. vii. presents again the
+good Duke's court, develops further the personality of Jaques, and prepares us, through his
+conversation about the fool whom he had met in the forest, for the contact of one of the threads
+of action with the element of inaction represented by this good Duke's forest court, while
+in the sudden breaking in upon them of Orlando it is brought into contact with another of the
+threads of action.
+
+III
+
+LOVE IN THE FOREST OF ARDEN
+
+At the opening of Act III. what results have been brought about by the action so far? Everybody
+in the play except Oliver and the bad Duke has arrived in the Forest of Arden. In sc. i. of
+Act III. the hatred of the Duke is still active as a force, and Oliver through this means is
+also sent off to finally bring up in the Forest of Arden. The Duke's attitude as a motive force
+having worked itself out in its relation to Orlando and Rosalind, the emotional cause of action
+in the love of Rosalind and Orlando is free to develop, and the remainder of Act III. is devoted
+chiefly to the presentation of the situation between the lovers, which, owing to the disguise
+assumed by Rosalind, gives rise to the charming inconsistencies attending the wooing of a proxy
+Rosalind who is in reality Rosalind herself. Around these central lovers, whose characters
+Shakespeare unfolds, revolve other interesting personalities. Touchstone meets his fate in
+Audrey. Phebe still scorns Corin and perversely falls in love with Ganymede. The action is
+only advanced to the extent that Rosalind learns the state of Orlando's mind while he still
+remains in ignorance as to hers.
+
+IV
+
+HATRED BECOMES LOVE IN ARDEN
+
+Are there any fresh elements or developments in Act IV.?
+
+Sc. i. merely continues the love-making of Act III. Sc. ii. gives another glimpse of the good
+Duke's court; in sc. iii. the love of Phebe bears fruit in a letter to Ganymede, and Oliver
+finds his way to the forest. The bad Duke's intentions toward Orlando in sending Oliver after
+him are, however, frustrated by the sudden change of heart against a bad Duke is a good Duke.
+Contrast their actions throughout the play. Contrast also the two brothers, Orlando and Oliver.
+What are the resemblances between the characters of Oliver and Duke Frederick?--between Orlando
+and the banished Duke? Is Orlando's rebellion against his brother's injustice or the banished
+Duke's acceptance of his brother's injustice the more to be praised? Compare his attitude with
+that of Prospero under similar circumstances. Whose repentance is the more sincere, Oliver's
+or Duke Frederick's? Note that Oliver has lost all when he repents, while the Duke gives up
+everything just as he is about to realize his aim. Is the repentance of the usurping Duke merely
+a ruse of Shakespeare's to bring the play to a happy ending? In Lodge's story he does not repent,
+but is proceeded against by his brother. Contrast Jaques and Touchstone. Is Jaques's melancholy
+affected? What is the main difference between Rosalind and Celia? Which is the more the friend
+of the other? (For valuable suggestions on these points see 'Characters in "As You Like It,"'
+Poet-lore, Vol. IV. pp. 31 and 81, Jan. and Feb., 1892.)
+
+QUERIES FOR DISCUSSION
+
+Which is the better philosopher, Jaques or Touchstone, and which is more closely related to
+the philosophy of the play?
+
+The characters of the two Dukes are not developed; they are merely walking gentlemen, whose
+office it is to keep the play in motion.
+
+2. The Lovers of the Play.
+
+The Different Kinds of Love in 'As You Like It.' Examples of love at first sight in Shakespeare.
+Note Orlando's surprise at the suddenness of Oliver's and Celia's love. Was his own less sudden?
+Consider Hymen's song and Jaques's remarks in the last scene as descriptive of the various
+couples. Does the comic element of the play, as represented by Touchstone, discredit sentiment
+in the play? Notice the madrigal in Lodge's novel (given in Poet-lore, Vol. III., in the article
+on Lodge, Dec, 1891), and consider whether Shakespeare has borrowed anything from it in characterizing
+Rosalind's wooing? Contrast Lodge's Montanus as a lover with Shakespeare's Silvius. Is Montanus
+too much of a "tame snake" to be natural? Or does this constancy in love make him a superior
+figure? Is it a sign of Silvius's inferiority that love has its own way with him? Can love
+be true that changes if it is unrequited?
+
+Are those actors right, do you think, who play Oliver as guessing who Ganymede is when she
+swoons? Is Rosalind's conduct unwomanly? Is her disguise unlikely?
+
+QUERIES FOR DISCUSSION
+
+It is best for the man to love the most; and therefore has Silvius and Phebe's unequal love-match
+a better chance for happiness than Rosalind's and Orlando's?
+
+VII
+
+THE PASTORAL ELOPMENT
+
+The Rise of Pastoral Poetry, and Shakespeare's Use of it in 'As You Like It.'
+
+Compare Spenser's 'Shepherd's Calendar,' Fletcher's 'Faithful Shepherdess,' etc. Point out
+any differences you find between Shakespeare's and Spenser's pastoral poetry. Modern literary
+use of the pastoral element, Wordsworth's 'Michael.' Is the pastoral life of literature always
+artificial? Can a progress toward realism be shown? The humor of the play. Discuss in particular
+the humorous comments on contrasts between court and country life. Compare modern instances
+of the refinements and artifices of city life and the crudeness of work and pleasure in the
+country.
+
+Special Points.--1. The Forest of Arden: Is it in England, France, or Shakespeare's imagination?
+2. "Old Robin Hood of England." What are the legends concerning him? 3. The archaic words in
+the play. (See Prof. Sinclair Korner's 'Shakespeare's Inheritance from the Fourteenth Century,'
+in Poet-lore, Vol. II., p. 410, Aug., 1890.)
+
+QUERY FOR DISCUSSION
+
+Is the opposition shown in the play between life at court and in the country truly shown to
+be to the advantage of the country.
+
+VIII
+
+THE MORAL ELEMENT
+
+The moral side of the Play consists, according to the Introduction in the First Folio Edition,
+in its persuasion toward an Arden of the disposition, or a spirit of happy good will toward
+all men. How far does this cover the lesson of the Play?
+
+What is to be thought of the idea in the 'Ethics of "As You Like It"' (Poet-lore, Vol. III.,
+p. 498, Oct., 1891), that Touchstone's opinion of a shepherd's life (III. ii.) is the key-note
+of the play? Are the references to fortune in the play significant? Dr. F.J. Furnivall says:
+"What we most prize is misfortune borne with cheery mind, the sun of man's spirit shining through
+and dispersing the clouds which try to shade it. This is the spirit of the play." Of this Dr.
+Ingleby says: "The moral of the play is much more concrete than this. It is not how to bear
+misfortune with a cheery mind, but how to read the lessons in the vicissitudes of physical
+nature." C.A. Wurtzburg says: "The deep truths that may be gathered from the play are the innate
+dignity of the human spirit, before which every conventionality of birth, rank, education,
+even of natural ties, must give way." Give arguments drawn from the play in favor of or against
+all of these suggestions. Is it an evidence of Shakespeare's intention to be a moral teacher
+that he altered the fate of Duke Frederick?
+
+QUERY FOR DISCUSSION
+
+Has the play any moral that is not gently satirized in it?
+
+IX
+
+THE SOURCE OF THE PLOT
+
+Shakespeare's Variations from Lodge.
+
+Compare Lodge's 'Rosalind' with 'As You Like It.'
+
+(For this story, see "Shakespeare's Library" or Extracts in Notes and Comment in Sources in
+"First Folio Edition").
+
+Is the story better without the parts Shakespeare leaves out (e. g., Adam's proposal to Rosader
+to cut his veins and suck the blood; his nose-bleed; the incident of the robbers accounting
+for Aliena's sudden love, etc.)? Why is the "Green and gilded snake" added? Isn't the "lioness"
+enough? Is Rosader or Orlando the finer character, and why? The new characters introduced--Audrey
+and William--considered as embodying real instead of ideal pastoral life. Do Shakespeare's
+changes affect the plot, the characters, or the moral of the story? (For an examination of
+the plot of the play, see 'An Inductive Study of "As You Like It,"' in Poet-lore, Vol. III.,
+p. 341.)
+
+A Sketch of Lodge's Life and Work. (See 'An Elizabethan Lyrist: Thomas Lodge,' in Poet-lore,
+Vol. III., p. 593, Dec, 1891.)
+
+QUERY FOR DISCUSSION
+
+Is Shakespeare's framing of the plot of 'As You Like It' not to be admired, because it is borrowed?
+
+X
+
+THE MUSIC OF THE PLAY
+
+This may consist of a brief paper on the subject illustrated by a program of the songs with
+the old and more modern settings. (See New Shakespeare Society's Papers, on this subject; 'Shakespeare
+and Music,' by E.W. Naylor.)
+
+TWELFE NIGHT
+
+The winsomeness of this poetic comedy rightly makes the reader or the hearer hesitate to count
+its petals or scrutinize the stages of its growth, which are marked by its acts as symmetrically
+as leaf buds are ranged about a stalk. And yet, one may find that to take note of such beautiful
+orderliness in the delicate structure and sprightly blossoming of the poet's design enhances
+the appreciation of its artistic quality. Regarding it first as a whole, sum up the stages
+of the action, first; then the caprices its allusions denote; then the characters; and finally
+the poetic fancy and wit exhaled by the whole play like a fragrance.
+
+I
+
+THE STORY OF THE PLAY
+
+Act I. scene i. puts us in possession of what facts concerning the Duke and Olivia? What do
+we learn from the conversation of Viola and the Captain in scene ii., and what course does
+Viola decide upon? What do we discover from scene iii. in regard to the state of things in
+Olivia's household? In scene iv., what relation has been established between the Duke and Viola?
+What three new characters are introduced in scene v., and what is the event of the scene? Act
+II. scene i.: What is learned of Sebastian and his intentions? In scene ii., what are shown
+to be the feelings of Olivia? In what previous scene was this prepared for? Does scene iii.
+advance the story at all? What is it taken up with? Does scene iv. advance the story? Of what
+scene is it almost a repetition? If it does not advance the action, what does it do? Of what
+previous scene is scene v. the result? What previous scene leads up to scene i. of Act III?
+and of what scene is it in purpose a repetition? What new turn is given to affairs in scene
+ii., and through whom is it brought about? Whose doings do we get a glimpse of in scene iii?
+Of whose plot do we see further developments in scene iv? What other issues in the progress
+of events come to a climax in this Act? Act IV. scene i.: Describe the complication of affairs
+which arises in this scene. What previous scenes do we see the result of in scene ii? and what
+happens that will bring about a change in the situation? What important event occurs in this
+scene iii? Act V. scene i.: Describe how in this scene all the complications are unravelled,
+and by what means all the characters are brought upon the stage. What do you think of the device
+to call Malvolio upon the stage? Does it not seem rather clumsy, or do you think it a further
+humorous touch that Viola should have to depend on Malvolio to find her 'woman's weeds again'?
+
+What becomes evident after tracing the events of the play through in this way? That the interest
+of the play does not depend so much upon the story itself, as, first, upon the amusing situations
+resultant from the story, and, second, upon the scenes which introduce the characters in Olivia's
+household who are really not at all concerned in the development of the plot, but who are the
+occasion of many added amusing situations.
+
+What constitutes the real interest of the two short scenes between Sebastian and Antonio? Their
+bearing, mainly, on scene iv. of Act III. By means of them we are shown that Antonio has an
+enemy in Orsino, and thus his arrest is prepared for, also how Antonio gives his purse to Sebastian,
+the real purpose of the arrest being to bring about a reason for Antonio's requiring his purse
+again from Cesario, whom he takes for Sebastian, and so to add complication to the situation
+arising from the resemblance between the brother and sister.
+
+What are the situations which the story gives Shakespeare a chance to develop? On the one hand,
+is the Duke pouring out his love for another woman to his supposed page, who is in love with
+him, and thus giving rise to the series of scenes between the Duke and Viola. On the other
+hand, is the supposed page pressing his master's suit to a woman who loves the supposed page,
+and thus giving rise to the series of scenes between Viola and Olivia. Out of this love of
+Olivia for Viola grows the absurd situation of Viola's being obliged to fight a duel, which
+is made still more ridiculous through the circumstance of her challenger being a fool. Out
+of Viola's resemblance to her brother and her disguise grows the absurd situation of Olivia's
+claiming her as a husband, and that of Sir Andrew taking for his unwilling duellist the all-too-willing
+Sebastian.
+
+To these situations which naturally result from the story, Shakespeare has added in Olivia's
+household a set of characters whose personality is such that amusing situations are multiplied.
+Thus we may say that the play is one of situation rather than of action, since whatever of
+action there is in it leads to situation, and whatever of character there is in it leads also
+to situation.
+
+QUERIES FOR DISCUSSION
+
+1. If attention is constantly given to creating humorous situations, will character-development
+necessarily suffer? 2. Do you agree with the Shakespearian critic Verplanck that this play
+bears no indication either of an original groundwork of incident, afterwards enriched by the
+additions of a fuller mind, or of thoughts, situations, and characters accidentally suggested,
+or growing unexpectedly out of the story, as the author proceeded?
+
+II
+
+THE WHIMSICAL AND OTHER ALLUSIONS IN THE PLAY
+
+Pick out and explain the curious allusions in the play, noticing that these may be classed
+as geographical, mythological, astrological, or referable to persons or customs of the time,
+or books of the day. For examples of the latter class, note Sir Toby's 'diluculo surgere' (II.
+iii.), for 'Saluberrimum est dilucolu surgere,' an adage from Lilly's Grammar, doubtless one
+of Shakespeare's text-books at the Edward VI. School in Stratford; and Viola's 'Some Mollification
+for your giant sweet lady' (I. v.),--an allusion to the innumerable romances whose fair ladies
+are guarded by giants; for Maria, being very small, Viola ironically calls her giant, and asks
+Olivia to pacify her because she has opposed her message. (For Shakespeare's education and
+school-books, see Bayne's remarks on this subject in Brit. Encyc. art. Shakespeare.) The whole
+incident of the 'possession' of Malvolio, and the visit of Sir Topas, probably alludes to a
+tract published in 1599 by Dr. Harsnett,--'A Discovery of the Fraudulent Practices of John
+Darrel,'--in which is narrated how the Starkeys' children were possessed by a demon, and how
+the Puritan minister, Mr. Darrel, was concerned in it. For examples of allusions to contemporary
+customs, see Sir Toby's mention of dances no longer known,--'Galliard,' 'Coranto,' etc. As
+an example of allusions to persons of that time, Sir Toby's reference to 'Mistress Mall's picture,'--Mary
+Frith, born in 1584, died in 1659, a notorious woman who used to go about in man's clothing
+and was the target for much abuse. Astrological allusions: 'Were we not born under Taurus?'
+'That's sides and hearts,' which refers to the medical astrology still preserved in patent-medicine
+almanacs, where the figure of a man has his various parts named by the signs of the Zodiac.
+'Diana's lip' (I. iv.), ('Arion on the Dolphin's back' I. ii.), are examples of mythological
+allusions. Of the geographical allusions there are two kinds, the real and the sportive,--Illyria,
+an example of the one, the 'Vapians' and the 'Equinoctial of Queubus,' of the other. Go on
+through the play classifying and commenting on the allusions. What was a 'catch'? Give an example.
+
+QUERIES FOR DISCUSSION
+
+Are the odd allusions in the play a result of the corrupt text, ignorance, ridicule of learning?
+Or are they introduced to give a lively and contemporaneous effect?
+
+III
+
+THE DUKE AND SEBASTIAN
+
+How does the play set off these two lovers against each other? Which has the more constant
+nature? Note the evidences of the Duke's restlessness and changeableness; how soon he tires
+of the music he calls for, of the clown's song (II. iv.). Is his first speech to Viola, on
+woman's constancy before the song, consistent with his second, after it? Is his own report
+of himself true,--'Unstaid and skittish in all motions else Save in the constant image of the
+one beloved'? Is Olivia's unattainableness the main source of her desirableness for him? How
+is it with Sebastian? Does his loyalty in love seem to be of the sort that suffers impairment
+when he can win love easily? The Duke craves excess in music in order that his 'appetite may
+sicken and so die;' Sebastian wishes 'to steep his soul in Lethe.' Do you think Sebastian and
+Viola alike in more than appearance? Which is the quicker-witted? Is the Duke's amicable acceptance
+of the inevitable and transference of his love to Viola in keeping with his character? Do you
+think Viola shows promise of special facility for preventing the moody Duke from tiring of
+her? Note that he calls her his 'fancy's queen.'
+
+QUERY FOR DISCUSSION
+
+Is the Duke important chiefly as the inspirer of Viola's devoted love?
+
+IV
+
+VIOLA AND OLIVIA
+
+In what respects are the situations of Viola and Olivia alike? When the play opens, both are
+mourning the loss of a brother, and while this is made to point out the individuality of Olivia,
+after the first few lines we hear little more of Viola's grief. Can you suggest any reason
+for this? Does Viola's love for the Duke absorb her any more than Olivia's love absorbs her
+when she comes to feel the same? Viola and Olivia are also alike in giving their love without
+solicitation; but Olivia woos directly, Viola, in disguise, implies her love, and though her
+innuendoes are all understood by the audience, they are unappreciated by the Duke. What justification
+can be made for the unblushing love-making of Olivia? It could be justified by her rank, which
+was so much higher than that of the supposed page that advances should come from her. What
+signs are there that Viola's love was superior to Olivia's? Olivia's seems to have been founded
+on external liking, else she would not have been as satisfied with Sebastian as with Cesario;
+while Viola's, though it may have had no deeper foundation, was signalized by unselfishness,
+for she used every eloquent art of which she was capable to urge her master's suit. Notice
+in the first scene between Viola and the Duke how she tries to get out of going to Olivia,
+doubting her own ability, etc. Do you think she really doubted it, or that it was difficult
+for her on account of her own love for the Duke? Notice in the scene with Olivia her woman's
+anxiety to see her rival's face. What do you think instigated her remark, 'Excellently done,
+if God did all.' Was it a sudden touch of jealousy? It was clearly not the proper thing for
+an ambassador pressing his master's suit to say. How is it with the rest of the interview?
+Is her sarcastic tone judicious? Does it pique the nonchalant Olivia? Does her eloquence later,
+when she is assured of Olivia's obstinacy, reflect her own feelings for the Duke? What effect
+does it have on Olivia? Is it well-calculated to arouse her interest? In Act II. scene iv.,
+which do you think had the right conception of woman's love,--the Duke or Cesario? What do
+you think of Olivia's saying that 'Love sought is good, but given unsought is better'? Which
+of the two characters show the more humor? Notice Viola's readiness in parrying questions that
+trench upon her sex. Olivia, on the other hand, can hold her own in a bout of wit with the
+fool, but she is perhaps not so quick-witted as Viola. We can imagine Viola at once seeing
+through Malvolio's attempt at pleasing Olivia, instead of taking him for mad, as Olivia did.
+
+QUERY FOR DISCUSSION
+
+Which is the best lover, the Duke, Sebastian, Olivia, or Viola?
+
+V
+
+SIR TOBY AND MARIA, AND THEIR BUTTS OR DUPES
+
+Show how the droll situations of the play are mainly contrived by some of the characters in
+order to make others their laughing-stocks. Who are Sir Toby's butts? Is Sir Toby attached
+to Sir Andrew, or does he only make use of him for profit as well as fun? (See Sir Toby's reply
+to Fabian (III. iii.)). Other instances to the same effect? Why does Maria join forces with
+Sir Toby? Is she in fact the leader of the scheme, or is Fabian's story of its origin true?
+What part does the fool play in the game, and why? Note his private grudge against Malvolio.
+Is it a dramatic mistake that even the heroine is made the butt of these merry-makers? Trace
+Fabian's part in the duelling plot against Sir Andrew and Viola. Do these plots recoil in any
+way against the plotters? Sir Toby and Sir Andrew both get some home-truths from Malvolio while
+they are eavesdropping, while for Fabian and Maria these thrusts of Malvolio's are just as
+good fun as that which the knights enjoy better. How does some of the later fun recoil against
+Toby and Sir Andrew? Are the Puritans made fun of in Malvolio's person?
+
+QUERY FOR DISCUSSION
+
+Are the characters least scathed by the fun for that reason superior to the others?
+
+VI
+
+MINOR CHARACTERS
+
+The fun of the play is capped by the presence of a particularly clever fool whose function
+of making every one the butt of his wit makes one of the least important of the characters
+represent the special drollery of the whole play. The only grudge he bears is against the man
+who does not appreciate fun--who calls him a 'barren rascal.' Describe the passages in which
+he particularly shines. Of the minor characters the fool is minor only through his station
+and unimportance in the plot; he really occupies much space in the play and in fact pervades
+it. How is Antonio connected with the plot? What traits of his does the play bring out? Is
+his fondness for Sebastian unnatural? How is he concerned in the foolery of the play? Is he
+necessary to the plot? As the fool represents the merry-making spirit of the play, so Malvolio
+stands for the dupes of it. Does any one sympathize with him? Who shows the clearest understanding
+of his faults? (I. v.). What signs are there in the play of Malvolio's being a Puritan? Is
+there any evidence against it? Is Maria right, for example, when she says, 'The Devil a Puritan
+he is or anything constantly but a time-server,' etc.? That the character of Malvolio was generally
+taken on the stage as a portrait of the Puritan, and that Shakespeare must have known it would
+borrow some of its popularity from being so considered, seems not to be denied; on the other
+hand, it may hardly seem to be proven that Shakespeare thought he was drawing a genuine Puritan.
+Show Malvolio's character, his connection with the other characters and with the plot and the
+foolery of the play, and state the argument for and against Shakespeare's meaning to make fun
+of him as a Puritan.
+
+QUERIES FOR DISCUSSION
+
+Is it a defect in the play that the fool, who has less to do with the plot, is more important
+than Antonio, who has somewhat more to do with it? Does it show that the main interest of the
+play is in comic situation rather than in character or dramatic motive?
+
+VII
+
+THE POETIC FIGURES IN THE PLAY
+
+Observe the various figures used throughout the play, as to whether they are drawn from nature
+or from other sources; for example, the first speech of the Duke bristles with metaphor. We
+should expect here some continuation in the language of sound; but the Duke continues as if
+he had said wind instead of sound, and then wind is personified, for it breathes instead of
+blows on the bank of violets, and it steals their odor and gives it to him,--the music is so
+sweet that it seems as if its sounds came laden with the scent of violets to his ear. Here
+sound is personified at first as merely breathing, then it takes on moral attributes and steals
+and gives. Pick out and explain other figures in the same way. Which of the characters use
+the most beautiful imagery? Are there any who use none at all?
+
+QUERIES FOR DISCUSSION
+
+Is there any special fitness in the imagery used to the character using it? Does the imagery
+used help you to form an opinion of the characters?
+
+VIII
+
+THE WIT OF THE PLAY
+
+What are the main causes of amusement in the play? The audience, notice, is not kept in the
+dark one instant about any of the characters. Thus one of the sources of amusement lies in
+the fact that while the audience occupies somewhat the attitude of omnipotence, it has the
+pleasure of observing the characters of the play living their lives in the purblind way usual
+to mortals. Lessing said that a comedy should make us laugh at vices, but the vices must be
+those of characters who have good qualities also. Does 'Twelfe Night' answer to this description?
+Analyze the causes why the fun of the play is funny.
+
+QUERIES FOR DISCUSSION
+
+Which of the characters cause amusement as the result of circumstances over which they have
+no control? How do each of these cause amusement unconsciously? Which of the characters cause
+amusement through a conscious intention of making fun?
+
+THE TEMPEST
+
+Until a few years ago no one had succeeded in finding the Play or Novel on which the European
+part of the plot of "The Tempest" was founded.
+
+An early German Play, "The Fair Sidea" had been brought forward on account of some resemblances
+to "The Tempest." Yet it is obviously not its source but rather an imitation or variant indirectly
+drawn from a similar foundation story.
+
+Edmund Dorer, a special student of Spanish Literature first called attention (Jan. 31, 1885,)
+to the story more closely resembling "The Tempest" than any other, as it occurs in a collection
+of tales by Antonio de Eslava, called Las Noches de Invierno, or "Winter Nights," published
+in Madrid in 1609.
+
+Like other such collections of stories, such as the Italian collection of Bandello, and the
+French of Belleforest, used by Shakespeare, Eslava's collection was translated, and, in default
+of the original from one of the later editions, as translated into German in 1683 (Noches de
+Invierno Winternachte aus dem Spanischen in die Deutsche sprach versetzet) a summary of this
+story was given in English for the first time as a satisfactory source of "The Tempest" in
+the "First Folio Edition" of the Play (see pp. 85-93 and Introduction; also for an extract
+and summary of "The Fair Sidea," pp. 94-95).
+
+What may be called the American half of the plot evidently owes suggestions to pamphlet accounts
+of the storm and wreck and other experiences met with by Sir Thomas Gates, Sir George Sommers
+and others during their voyage of discovery to the Bermudas in 1610 (see pp. 92, 99, and Notes
+pp. 114, 125-127, etc., for extracts.)
+
+Gonzalo's speech, too, follows pretty closely a passage in Florio's Montaigue. (For this passage
+see Note on II. i. 153-160).
+
+ACT I
+
+THE SCHEMES OF PROSPERO.
+
+The first scene shows the storm in progress. Is there any clew given to the reader that it
+is a magic tempest? What is Prospero's main object in having the ship's crew and passengers
+cast upon his island? Is it to wreak vengeance on his enemies, to work the charm of love between
+Ferdinand and Miranda, or by means of that to reinstate himself? In what way would this love
+work to his advantage? Notice the natural way in which the reader is put in possession of the
+necessary information about the past of Prospero and Miranda. Warburton says of this that it
+is the finest example he knows of retrospective narration for the sake of informing the audience
+of the plot. How much of the plot is permitted to come out in this act? Why does Prospero so
+repeatedly urge Miranda's attention? Is she abstracted, is he, or is she already beginning
+to be drowsy? Why was Ferdinand the first to quit the ship? Since Prospero already knows, why
+does he ask Ariel what time it is?
+
+POINTS. 1. Explain the nautical terms. 'Master's whistle.' In Shakespeare's time naval commanders
+wore great whistles of gold. A modern boatswain's badge is a silver whistle suspended to the
+neck by a lanyard. Holt extols the excellence of Shakespeare's sea-terms, but makes an exception
+of Gonzalo's 'cable,' which he says is of no use unless the ship is at anchor, and here it
+is plainly sailing; to which Furness replies, Shakespeare anchors Gonzalo's hopes on the boatswain's
+'gallows complexion,' and the cable of that anchor was the hangman's rope. 2. 'Washing of ten
+tides.' An allusion to the custom of hanging pirates at low-water mark. (See Notes I. i. 67
+First Folio Edition). 3. Compare this storm with that in 'Pericles,'--'Do not assist the storm,'
+etc., with 'Per.' III. i. 51-60. 4. Explain 'To trash for over-topping,' I. ii. 98, which is
+a blending of two metaphors. Trash refers to the habit of hanging a weight round the neck of
+the fleetest of a pack of hounds, to keep him from getting ahead of the rest; and 'overtopping'
+to trees shooting up above the others in a grove, which have to be lopped to keep them even.
+5. What does Prospero mean by saying, 'Now I arise'? Simply, now I get up, and now my fortunes
+change? 6. 'Still vex'd Bermoothes.' Bermudas, spelled in several ways in Shakespeare's time,
+and called 'still vex'd,' from accounts of tempests prevailing there. 7. 'Argier.' The name
+of Algiers till after the Restoration. 8. 'One thing she did.' What? Are we anywhere told what?
+
+QUERIES FOR DISCUSSION
+
+Does the long monologue of Prospero in this act detract from its dramatic force? Did the arrangement
+of Shakespeare's stage make this convenient. (See description of the threefold stage of the
+Globe Theatre in "Anthonie and Cleopatra," pp. 172-173). Is the monologue rightly disused in
+modern plays? Why? Compare Ibsen's plays in this respect.
+
+ACT II
+
+THE COUNTERPLOT
+
+Tell the story of Act II, showing how its main event is the conspiracy of Antonio and Sebastian
+against Alonzo and Gonzalo. Is the issue left undecided long, so that it threatens the result?
+How and why does Ariel prevent the success of it? Might it not have been to Prospero's advantage
+to have the King killed, since Ferdinand would then succeed to the throne of Naples? Did Ariel's
+intervention kill the plot? What light is thrown on the characters by scene i. of this act?
+Do you think it is intended to be shown that Gonzalo is prosy and tiresome, although good,
+or only that the lower and more frivolous characters find him so? Which is the likelier, that
+Shakespeare intended the dialogue about Gonzalo's ideal commonwealth to be a satire upon it,
+or favorable to Utopian schemes? Which comes out the better at last in the wit-combat,--the
+quick Antonio and Sebastian, or the thoughtful Gonzalo? Is Sebastian's solicitude about Claribel
+a sign of a kindlier nature than Antonio's? Are there any indications that Antonio's mind is
+more alert than Sebastian's? What purposes of the action or plot are served by the introduction
+of Claribel? Is the King's grief as great for the daughter as for the son? How does his paternal
+affection compare with Prospero's? Compare Antonio's speech, suggesting the murder to Sebastian,
+with similar speeches in Shakespeare (Macbeth's, King John's, Oliver's in 'As You Like It,'
+Claudius' in 'Hamlet'). In the second scene of this act, how far is a second counter-plot foreshadowed?
+
+POINTS. 1. The jokes of Act II: their explanation (i.e., 'dollar' and 'dolour,' the 'eye of
+green,' etc.). 2. When were watches first used in Europe? 3. Tell the story of Æneas and Dido.
+4. What myth is alluded to in 'his word is more than the miraculous harp'? 5. Gonzalo's Commonwealth--its
+origin from Montaigne. It is commonly supposed that Shakespeare must have borrowed this reference
+from the translation. He may have taken it directly from the French. 6. Show the bearing of
+Sebastian's phrase, 'I am standing water,' with its context. (That is, at the turn of the tide
+between ebb and full.) 7. 'The man i' the moon,' and the folk-lore about it. 8. Natural history
+on the island. (Poet-Lore, April, 1894. Notes and News).
+
+QUERY FOR DISCUSSION
+
+Is it a defect in the action of the play that the danger arising from the most important counter-plot
+is allayed so soon?
+
+ACT III
+
+NEW PLOTS AGAINST PROSPERO
+
+What new turns are given events in Act III? Scene i continues Ferdinand's love-making, and
+shows no hinddrances there to Prospero's plans; but scene ii develops Caliban's plot, and scene
+iii shows Sebastian and Antonio making ready to carry out the purpose which had at first been
+defeated. Give an account of the scene in Act II which leads up to this plot in connection
+with its sequel in this act. Ariel is baffled in his attempts to breed contention between the
+conspirators by Trinculo's good nature, but finally he leads them off with his music. Scene
+iii represents Alonzo and his courtiers bewildered and tired by their fruitless tramps through
+the island, and in just the temper to be confused by the dumb-show and the harpies. Note the
+dependence placed, throughout 'The Tempest,' on the effect of 'solemn and strange music.' Antonio's
+plot, being resumed, is blocked by Ariel's magic show and his accusation. Note how the supernatural
+quality of the scene makes his speech affect their consciences as if they were themselves accusing
+themselves, and how it drives them into mental disorder. Dr. Bucknill, a specialist in brain
+disease, who has commented on Shakespeare's knowledge of such maladies, explains that Alonzo's
+frenzy leads him by an imaginative melancholy to the idea of suicide, while the madness of
+Antonio and Sebastian expresses itself in the idea of desperate fight.
+
+POINTS. 1. What is a 'catch,' a 'tabor'? Give an account  of the music in the play, and show
+the fitness of its different effects on the different characters. 2. Explain the allusions,
+'unicorns,' 'one tree, the Phoenix throne,' 'mountaineers,' with 'wallets of flesh,' etc. 3.
+What is a harpy? Give an account of the mention of harpies in Virgil (Æneid, Book III), and
+'Paradise Regained' (Book II). What appropriateness to the purpose in this 'quaint device'?
+
+QUERY FOR DISCUSSION
+
+Do the counter-plots introduced in this act mainly affect events or character?
+
+ACT IV
+
+THE CONFUSION OF THE PLOTTERS
+
+Show how the story of Act IV consists in the smoothing down of all that disturbs Prospero's
+designs, and foreshadows the complete reconciliation of the last act. The lovers, whose readiness
+to fall in with Prospero's plan has made his task light so far as they are concerned, could
+only imperil his and their future by a premature union; and Ferdinand, having stood the test
+of hard work, is now induced, by an awed and holy mood, produced by art, to keep his good resolutions.
+Describe the mask, and show its meaning and fitness for Prospero's purposes. Why is Prospero
+so disturbed at the reminder of so paltry a plot as that of Caliban and his associates? Is
+it likely that these drunken fellows could frame any plot that would be but as gossamer before
+his art? Is it natural that so low a creature as Caliban should show more intelligence than
+Stephano and Trinculo in disregarding Ariel's 'stale' set to catch them? How do you explain
+his superior caution? Describe the device employed by Prospero and Ariel to rout these plotters.
+Would it be effective on an English stage?
+
+POINTS. 1. Explanation of classical allusions. 'Hymen's lamps,' 'Phoebus' steeds,' Ceres, Iris,
+Juno, etc.; 'dusky Dis,' 'Paphos,' etc. 2. The botany of Act IV. What is 'stover,' 'furze,'
+gorse? 3. Was Prospero's 'line' a lime-tree or a clothes-line? 4. Explanation of the jokes
+of the act. 5. Natural history on the island again: the 'blind mole,' 'barnacles,' 'apes,'
+'pard,' etc.
+
+QUERY FOR DISCUSSION
+
+Why is the punishment devised for the lesser plotters corporal and for the greater ones psychical?
+
+ACT V
+
+PROSPERO'S TRIUMPH
+
+Sum up the results consummated by Prospero's magic. Note Gonzalo's account of the play, and
+show the ethical results, and Ariel's part in Prospero's course of reconciliation. Explain
+how, if Prospero had regained his dukedom, and yet, if 'all of us,' as Gonzalo says, had not
+found ourselves, the triumph would have been material, not ethical. Show how this effect is
+enhanced by the plan to awaken dismay and remorse in the minds of the evil-doers and how the
+climax in Prospero's triumph is reached by the victory wrought in his own mind when he determines
+to take part with his 'nobler reason 'gainst his fury' in order to restore his enemies to themselves.
+What indications are there in the play that Prospero was high-strung and spirited,--a revenge-loving
+Italian? Trace the effects of remorse on each of the ill-doers. Is there any reason to suppose
+that Antonio, Stephano, or Trinculo are repentant? Is it out of character for Caliban to be?
+
+POINTS. 1. The 'Faerie' of the play. Compare with that of 'Midsummer Night's Dream.' (See 'Fairy-lore
+of Midsummer Night's Dream,' Poet Lore, Vol. III, p. 177, April, 1891.) Victor Hugo notes the
+contrast as follows: '"Midsummer Night's Dream" depicts the action of the invisible world on
+man; "The Tempest" symbolizes the action of man on the invisible world.' (See also the 'Supernatural
+in Shakespeare's "Midsummer Night's Dream."' in Poet Lore, Vol. V, p. 490, October, 1893; in
+Shakespeare's 'Tempest,' p. 557, November, 1893.)
+
+2. The duration of the play. Explain how it follows the 'unities'; and in this connection show
+the probable equality of 'three glasses' to three hours, and Shakespeare's mistake. (Shakespeare's
+use of nautical terms, approved by all seamen, seems to be here at fault in supposing a 'glass'
+equal to one, instead of to a half, hour.)
+
+3. The game of chess and its pertinence here: Because so wise a father would have taught his
+daughter so intellectual a game; because Queen Elizabeth was fond of it, and it was par excellence
+a 'royal game'; or because Naples was the source and center of the chess furore at just this time?
+
+4. Where is the scene of the 'Tempest' laid? Is the island real or unreal? (The main conjectures
+for a known place are Hunter's that it was Lampedusa, and Elze's that it was Pantelaria. Both
+argue that each island was so situated in the Mediterranean, between Milan or its port and
+Algiers, whence the sailors landed Sycorax, as to suit the requirements. Elze further urges
+the name of a town on the opposite African coast, Calibia, as suggesting Caliban's name. For
+an argument that the island is vaguely placed in the Mediterranean to suit the Old World plot
+and yet by many details made suggestive of the New World, see Introduction to 'The Tempest'
+in First Folio Edition.)
+
+5. The influence of the New World on the writing of 'The Tempest,' and all allusions traceable
+to it. (See Notes of same edition for extracts from pamphlets on America, etc.)
+
+QUERIES FOR DISCUSSION
+
+What constitutes the interest in 'The Tempest,'--character, dramatic situations, movements,
+plot, poetry, or moral purpose?
+
+VI
+
+CHARACTER STUDIES
+
+I. PROSPERO AND HIS SERVANTS
+
+With the first word Shakespeare introduces Prospero as one who can raise and calm such a tempest
+as scene i describes, and the magician admits the power Miranda ascribes to him. Show from
+the story what his plans and motives were likely to prove. Would a sense of his own former
+neglect of duty be likely to embitter him against his brother or make him excuse him? Does
+he show signs of either? Prospero's magic, his garment, books, staff. How far is his magic
+in accord with the popular notions of such art? (See 'Prospero and Magic,' Poet Lore, Vol.
+III, p. 144, March, 1891.)
+
+Show Ariel's qualities. What caused his first impatience? Is Prospero unnecessarily harsh and
+imperious with him? Aside from the popular supposition that spirits or familiars obeying magicians
+were always reluctant to serve longer than one hour (and, therefore, says Scot's 'Discovery
+of Witchcraft,' 'the magician must be careful to dismiss him'), how can you explain this quarrel,--as
+a dramatic expedient giving occasion for telling Ariel's story, or revealing the characters
+of both Prospero and Ariel? Note, also, its further use in introducing Prospero's second servant,
+Caliban, and his story. How do you explain Ariel's irrelevant rejoinder: 'Yes, Caliban, her
+son'; and Prospero's angry, 'Dull thing, I say so,' etc.? Do you think Moulton right in supposing
+that Prospero governs 'this incarnation of caprice by outcapricing him'; Rolfe, in supposing
+that Prospero is irritable because under the strain and suspense of conducting affairs within
+three hours perfectly, and upon which accuracy hangs his future and the happiness of his daughter?
+This was also his only chance of retrieving his own past error.
+
+Contrast Ariel with Caliban. Show the skill of Caliban's first appearance as some slow-moving
+thing, half of water, half of earth, in contrast with Ariel's second appearance as a nymph.
+What may be learned of Caliban's traits from Miranda's speech (as in the Folio, but by various
+editors given to Prospero): 'Abhorred slave,' etc.? Do you think this speech should be given
+to Prospero? What signs are there of Caliban's having a good mind? Do you think Prospero's
+tyranny over Caliban altogether justified? Is Caliban's penitence consistent with his nature?
+How far does Ariel proceed independently of Prospero? Is he really fond of him?
+
+QUERIES FOR DISCUSSION
+
+Is there any bond of love between Prospero and his servants? Do the relations between them
+illustrate the impossibility of gratitude?
+
+2. THE LOVERS
+
+Is the love of Ferdinand and Miranda an enchantment caused by Prospero, or an emotion he can
+help, but not cause? If not caused by him, does Shakespeare depart from magic to the detriment
+of the play? Would it be better, for example, if a love philter was introduced for consistency's
+sake? (For literary use of the love philter, see Tennyson's 'Lucretius.') Does it reflect against
+Ferdinand's courage that he was first to quit the ship? Are Miranda's speeches about her grandmother
+(I, ii, 140) and to Caliban inconsistent with the maidenly innocence assumed to be characteristic
+of her? Do you consider her talk with Ferdinand (III, i) in character? Is she undutiful to
+her father? Unmaidenly in her speedy declaration of love (III, i, 67, 89, 94-106, 110)? Should
+she be represented as ignorant or innocent of the world, or as in love? Describe the characters
+and relations to each other of the lovers from all that is given about them. Compare with Florizel
+and Perdita in 'The Winter's Tale.'
+
+QUERIES FOR DISCUSSION
+
+Are Miranda and Ferdinand undeveloped characters whose relation to each other is more important
+to the play than they themselves are?
+
+3. THE MINOR CHARACTERS
+
+Which is the most important of the lesser characters and why? Is Gonzalo blamable at all under
+the circumstances for following the command to turn Prospero and Miranda adrift? Why is Gonzalo
+of better cheer than his companions? What do you think of his philosophy in itself and as an
+index to his character? Is his knowledge superior to that of his companions? Does he suspect
+the evil intent of Antonio and Sebastian? Show how his frankness and loyalty came out in Act
+III, and how his uprightness is rewarded in Act V. Do you think it significant that he closes
+the play? Francisco considered as the least important personage in the play: should his speech
+describing Ferdinand's swimming be given to Gonzalo? The sailors considered as examples of
+Shakespeare's skill in outline portraits. Are Stephano and Trinculo more highly developed types
+than Caliban? Would the play be better if they were left out?
+
+QUERIES FOR DISCUSSION
+
+Is Gonzalo more like Polonius in 'Hamlet' or Rent in 'Lear'?
+
+VII
+
+A STUDY OF ARTISTIC DESIGN
+
+THE SYMBOLISM OF 'THE TEMPEST'
+
+Did Shakespeare typify himself as Prospero? Prospero (says Montégut) alludes to his own age,
+and intimates that the time has come for retirement to private life. What indications can you
+find that Prospero images Shakespeare? If he is so interpreted, what parts may Ariel and Caliban
+be supposed to play? Is the history of the Enchanted Island and the transformation wrought
+a parallel with the history of the Stage and the transformation Shakespeare wrought? According
+to Montégut, Caliban stands for Marlowe, Ariel for the English Genius which Shakespeare frees
+from its barbaric prison. Dowden ('Mind and Art of Shakespeare') fancies Prospero as the great
+artist lacking at first in practical faculty, cast out therefore from practical worldly success;
+but bearing with him Art in her infancy, the child Miranda, finds at last an enchanted country
+where his arts can work their magic, subduing the grosser appetites and passions (Caliban),
+and commanding the offices of the imaginative genius of poetry (Ariel). He supposes Ferdinand
+to be Shakespeare's heir as a playwright (Fletcher). Browning makes an incidentally interesting
+contribution to this subject by symbolizing in Caliban rudimentary theologizing man, in his
+poem 'Caliban.' (See Poet Lore, Vol. V, p. 562, November, 1893.)
+
+QUERIES FOR DISCUSSION
+
+Is 'The Tempest' an allegory? Is it in any sense an autobiographical play? Does its symbolism
+have much in common with that of modern symbolistic plays, such as Maeterlinck's 'Joyzelle,'
+for example? In what respects may it be said, do you think, as Maeterlinck himself has informed
+us, that 'Joyzelle' grew from 'The Tempest?'
+
+THE WINTER'S TALE
+
+CONSIDERED IN CONNECTION WITH GREENE'S 'PANDOSTO' AND THE 'ALKESTIS' OF EURIPIDES
+
+I
+
+SHAKESPEARE'S INDEBTEDNESS TO GREENE
+
+The story of 'Pandosto' falls into two distinct divisions; first, the story of Pandosto and
+Bellaria; second, the story of Dorastus and Fawnia. Compare each of these two stories with
+the two stories interwoven in the play, noting all the analogous passages and the use Shakespeare
+has made of them. (For Greene's 'Pandosto' or 'History of Dorastus and Fawnia' see 'Shakespeare's
+Library,' or pp. 118-125 and Notes in First Folio Edition.)
+
+QUERIES FOR DISCUSSION
+
+Do Shakespeare's borrowed and additional archaisms and his confusion of names and places show
+carelessness? Is his continuation of the story merely a playwright's device to join the two
+parts of the plot and make a good stage piece end happily? (As to Coast of Bohemia see Poet
+Lore, April, 1894), also in "First Folio Edition," pp. 176-177.
+
+II
+
+THE RESEMBLANCES TO THE 'ALKESTIS' OF EURIPIDES
+
+In Greene and in Shakespeare the King wishes the Queen's death because he is uncomfortable
+so long as she lives, and he prefers his comfort to aught else, taking it as his conjugal right
+and royal prerogative. (See ii. 3, 1 and 204.) The Queen, understanding this, says, "My life
+stands in the level of your dreams, which I'll lay down." To her she says, "can life be no
+commodity" when love, "the crown and comfort of her life," is gone. So Alkestis (see any translation
+of Euripides, in Bohn edition, literal prose translation, vol. i. p. 223) says she "was not
+willing to live bereft" of Admetos, therefore she did not spare herself to die for him, "though
+possessing the gifts of bloomy youth wherein" she "delighted." This point of correspondence
+may have occurred to Shakespeare and suggested his continuation of Greene's novel. Admetos'
+image of his wife, that he would have made by the cunning hands of artists, is possibly a prototype
+of the statue of the Queen in 'The Winter's Tale,' the piece "newly performed by that rare
+Italian master, Julio Romano." Compare also, Herakles' trial of Admetos with Paulina's trial
+of Leontes (v. i); and Herakles' restoration of the unknown Alkestis to her husband with Paulina's
+bringing the statue of the Queen to life.
+
+QUERIES FOR DISCUSSION
+
+Is Shakespeare's use of a striking incident from the 'Alkestis' too close not to have been
+suggested by it? Does it show his intention to portray in Hermione a new Alkestis?
+
+III
+
+SHAKESPEARE'S ORIGINALITY IN WORKING OVER HIS MATERIAL
+
+Note Shakespeare's departures from Greene and their significance. Do they serve two ends,--make
+the play more effective for stage representation, make the characters stronger? Does he make
+Leontes more attractive than Greene does in the first part of the play? Does he make him worse
+or better than Pandosto in the second part? What is the sole trace left in Shakespeare of the
+father's guilty passion for his daughter? Garinter, in Greene, dies without any cause. See
+Shakespeare's explanation of this, also his use of the news of Mamillius' death to strike shame
+to the king's heart. Greene makes the king relent as soon as he hears the oracle. Contrast
+Shakespeare's conduct of the scene at this point.
+
+Notice the difference in his treatment of the character of the cup-bearer. Does he make it
+his chief care to enhance the character of the Queen? Note the new characters introduced,--Paulina,
+Antigonus, Autolycus, the clown (in place of the wife in Greene). Conjecture any reason for
+his different names. The introduction of Autolycus makes the play more amusing on the stage,
+but is his part as well planned as Capnio's for leading up to the dénouement? Greene lets his
+mariners off alive after they set Fawnia afloat. Shakespeare wrecks his, and makes a bear eat
+Antigonus, to what end? What does Shakespeare gain by prolonging the life of Hermione?
+
+QUERY FOR DISCUSSION
+
+Does Shakespeare's remodelling of Greene's story show chiefly a higher ideal than Greene's
+of womanhood and of love?
+
+IV
+
+THE ALKESTIS STORIES IN LITERATURE
+
+The sacrifice of the Queen to ease her husband, and the final restoration, being the two main
+points of contact with Euripides' version of the story, compare with these the stories of Alkestis
+told by William Morris in 'The Earthly Paradise,'--'June'; 'The Love of Alcestis,' by Emma
+Lazarus, in 'Admetos,'--'Poems,' vol. i.; by Robert Browning in 'Balustion's Adventure;' by
+Longfellow in 'The Golden Legend.' See also articles in Poet-lore,--'The Alkestis of Euripides
+and of Browning,' July, 1890; 'Old and New Ideals of Womanhood'; 'The Iphigenia' and 'Alkestis
+Stories,' May, 1891; 'Longfellow's Golden Legend and its Analogues,' February, 1892. In comparing,
+note first general resemblances, then slighter points of resemblance and of difference.
+
+QUERIES FOR DISCUSSION
+
+Is development in literature of the ideal of womanhood away from self-sacrifice and toward
+self-development?
+
+Is woman's task for the future a reconciliation of them?
+
+V
+
+THE OUTCAST CHILD IN CULTURE-LORE AND FOLK-LORE
+
+A few of the outcast children in culture-lore are Krishna, Zeus, Paris, Oedipus, King Arthur,
+Claribel's child in the 'Faerie Queene' (canto xii.), etc. For the stories in folk-lore, see
+the English Folk-lore Journal. For the solar theory of the origin of this story, see Cox, 'Mythology
+of the Aryan Nations.'
+
+QUERIES FOR DISCUSSION
+
+Collier says that Shakespeare changed Greene's pretty description of turning Fawnia adrift
+in a boat because he had used much the same incident in "The Tempest." Does Shakespeare's new
+treatment of Greene's "pretty incident" add dramatic force and moral purpose to the play?
+
+VI
+
+CHARACTER STUDIES
+
+1. PAULINA; LEONTES; HERMIONE
+
+Note Paulina's likeness to Emilia in "Othello." Jealousy in Shakespeare: Resemblances in Leontes
+to Posthumus ("Cymbeline") and to Othello. "The jealousy of Leontes," says Dowden, "is not
+a detailed dramatic study like the love and jealousy of Othello. It is a gross madness, which
+mounts to the brain and turns his whole nature into unreasoning passion." Is Hermione more
+highly developed than others of Shakespeare's suspected wives,--Desdemona, Imogen? Likeness
+or superiority to Alkestis, Compare with Queen Katharine in 'Henry VIII.' Is she hard, having
+made her husband do penance for sixteen years? "Deep and even quick feeling never renders Hermione
+incapable of an admirable justice," writes Dowden, "nor deprives her of a true sense of pity
+for him who so gravely wrongs both her and himself."
+
+2. THE YOUNG LOVERS
+
+Notice the high and pure character of their love as shown in the facts that Florizel did not
+find it fitting to buy pedler's "knacks" for Perdita,--a trait not in Greene. Her independent
+and uncringing nature as shown in another little touch of Shakespeare (see IV. iv. 492-497).
+Compare these two lovers with Ferdinand and Miranda in "The Tempest."
+
+3. THE ORIGINALITY OF SHAKESPEARE'S AUTOLYCUS
+
+For suggestions see Poet-lore, April, 1891. ('Notes and News.') Compare the Hermes of the Homeric
+Hymn with the Autolycus and Sisyphos of mythology, also the folk-lore tales of the master-thief
+(Cox). To discuss the probable originality with Shakespeare of a conception which is one of
+the universal inheritances of the Aryan race is futile; the type existed, and Shakespeare's
+part was to make an individual of the type.
+
+QUERIES FOR DISCUSSION
+
+Is Leontes' jealousy too gross and unfounded to be likely?
+
+Is Hermione, not hard, but slow to be satisfied, because her love is noble?
+
+Is Mamillus not too precocious to be natural?
+
+VII
+
+A STUDY OF THE CONSTRUCTION OF THE PLOT
+
+Has Shakespeare welded the two parts of the story together in such a way as to unify the plot?
+Does Autolycus contribute anything to the development of the plot? How does it compare with
+"Julius Cæsar" or "Macbeth," for example, in the construction of the plot? Is the movement
+more rapid in the last half of the play or in the first? Note the expedient introduced by Shakespeare
+to bridge over the lapse of time between the first part and the last part; compare with other
+examples of the same sort in Shakespeare.
+
+QUERY FOR DISCUSSION
+
+Does the dramatic interest of 'The Winter's Tale' suffer because the plot is of less importance
+than the incidents and characters.
+
+VIII
+
+SHAKESPEARE'S WORKMANSHIP IN "THE WINTER'S TALE"
+
+The versification is that of Shakespeare's latest group of plays. Dowden says, "No five-measure
+lines are rhymed and run on lines, and double endings are numerous." Give examples of the construction
+of the lines from "Love's Labour's Lost" as an earlier play, "Merchant of Venice" as a riper
+play. It has been said that the difficulties of style in the play are accounted for by the
+endeavor of the author to reflect the changing moods of Leontes. Compare with Prospero's diction
+and construction in "The Tempest." Give examples of these.
+
+QUERIES FOR DISCUSSION
+
+Does the lawlessness of poetic workmanship in "The Winter's Tale," together with the looseness
+of the dramatic construction, show a deterioration from the ripe power of Shakespeare's middle
+period, or that practised artistic mastery which is free from art by means of perfect art?
+
+IX
+
+PERDITA'S GARDEN
+
+The flower-imagery of "The Winter's Tale" compared with other flower-scenes in Shakespeare,--in
+"A Midsommer Nights Dreame" and "Hamlet." The classic and folk-lore allusions. The pastoral
+element in "As you Like It" and "Winter's Tale."
+
+QUERIES FOR DISCUSSION
+
+The rustic scenes have little bearing on the play; are they necessary to Shakespeare's art
+in order to throw a clear light on the character of his protagonists?
+
+X
+
+THE ETHICS OF "THE WINTER'S TALE"
+
+"The Winter's Tale" gives examples of meritorious actions losing their virtue with the progress
+of ideas; for example, the civic virtue, allegiance to the king, is what Leontes depends upon
+in his talk with Camillo, with Antigonus, and the other lords. Note Camillo's reason for not
+poisoning Polixenes to order,--that it is risky to kill a king even at command of a king. That
+such a reason would be considered small moral support to-day appears, for example, in the indignation
+or amusement expressed in the newspapers on the German Emperor's address to his army on the
+soldier's duty of obedience. In Shakespeare's day a king had taken matters in his own hands
+in the trial of his wife, much as Leontes did (see "Henry VIII".). The moral significance of
+Hermione's patience under accusation appears in the long reparation she requires. Paulina is
+made to speak for her during her seclusion.
+
+What are the "secret purposes" which Shakespeare makes her subserve? Observe that, if the fulfilment
+of the oracle and the restoration of the child were all Paulina anticipates, there would be
+no use in her remonstrances against a second marriage and in her goading the king to remorse.
+
+QUERIES FOR DISCUSSION
+
+Does Shakespeare's ideal of love and constancy, as revealed in 'The Winter's Tale,' imply that
+second marriages are offences against the first. Has the objection Paulina makes to his re-marriage
+such a cause or is it a necessity of the plot?
+
+Does the way of telling "The Winter's Tale" indicate the passing away of aristocratic and the
+formation of democratic ideals, and the dawning change in the status both of woman and the
+commoner?
+

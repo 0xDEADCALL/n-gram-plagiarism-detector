@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02723.txt">
+  <feature name="about" authors="Widdemer, Margaret" title="The Rose-Garden Husband" lang="en" />
+  <feature name="md5Hash" value="5f0a9d4805622775ec22f8b0b92ab521" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="7591" this_length="782" source_reference="source-document10565.txt" source_language="en" source_offset="297719" source_length="795" />
+</document>
+

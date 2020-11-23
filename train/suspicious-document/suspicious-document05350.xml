@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05350.txt">
+  <feature name="about" authors="Abbott, Jacob" title="History of Julius Caesar" lang="en" />
+  <feature name="md5Hash" value="188898461b062d0f9a7d73802ae26c7d" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="273" this_length="13671" source_reference="source-document02684.txt" source_language="de" source_offset="19946" source_length="15363" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="24664" this_length="1547" source_reference="source-document02719.txt" source_language="de" source_offset="1124" source_length="1775" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="31775" this_length="15069" source_reference="source-document02577.txt" source_language="de" source_offset="9329" source_length="16763" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="55077" this_length="1875" source_reference="source-document02719.txt" source_language="de" source_offset="5146" source_length="2016" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="57982" this_length="1956" source_reference="source-document02719.txt" source_language="de" source_offset="2899" source_length="2247" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="63099" this_length="3974" source_reference="source-document06249.txt" source_language="de" source_offset="455800" source_length="4419" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="69683" this_length="3547" source_reference="source-document06249.txt" source_language="de" source_offset="471129" source_length="4170" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="77097" this_length="4424" source_reference="source-document02684.txt" source_language="de" source_offset="9395" source_length="4896" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="92549" this_length="14418" source_reference="source-document06249.txt" source_language="de" source_offset="367580" source_length="16152" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="120508" this_length="18139" source_reference="source-document06249.txt" source_language="de" source_offset="331437" source_length="20235" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="141793" this_length="18547" source_reference="source-document02684.txt" source_language="de" source_offset="51910" source_length="20756" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="171903" this_length="1830" source_reference="source-document06249.txt" source_language="de" source_offset="237734" source_length="2022" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="175139" this_length="14643" source_reference="source-document06249.txt" source_language="de" source_offset="425757" source_length="16305" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="214789" this_length="21345" source_reference="source-document06249.txt" source_language="de" source_offset="552336" source_length="23980" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="237697" this_length="411" source_reference="source-document02684.txt" source_language="de" source_offset="95530" source_length="523" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="242785" this_length="22064" source_reference="source-document06249.txt" source_language="de" source_offset="94504" source_length="24732" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="277692" this_length="1271" source_reference="source-document06249.txt" source_language="de" source_offset="208336" source_length="1448" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="279301" this_length="1575" source_reference="source-document06249.txt" source_language="de" source_offset="222419" source_length="1750" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="281899" this_length="217" source_reference="source-document02684.txt" source_language="de" source_offset="76892" source_length="254" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="282288" this_length="731" source_reference="source-document02719.txt" source_language="de" source_offset="202" source_length="814" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="283852" this_length="1186" source_reference="source-document06249.txt" source_language="de" source_offset="233750" source_length="1405" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="286323" this_length="2662" source_reference="source-document06249.txt" source_language="de" source_offset="177166" source_length="2986" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="290357" this_length="221" source_reference="source-document02577.txt" source_language="de" source_offset="3281" source_length="240" />
+</document>
+

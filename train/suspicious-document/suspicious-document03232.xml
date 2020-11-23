@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03232.txt">
+  <feature name="about" authors="Stephenson, Nathaniel Wright" title="Abraham Lincoln and the Union; a chronicle of the embattled North" lang="en" />
+  <feature name="md5Hash" value="3406978da86f114994724f94403c562b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="151484" this_length="15240" source_reference="source-document00037.txt" source_language="en" source_offset="178046" source_length="21749" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="222840" this_length="4096" source_reference="source-document04018.txt" source_language="en" source_offset="10698" source_length="4151" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="265786" this_length="2574" source_reference="source-document06104.txt" source_language="en" source_offset="8710" source_length="2588" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="282560" this_length="273" source_reference="source-document04953.txt" source_language="en" source_offset="2477" source_length="273" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="288423" this_length="678" source_reference="source-document06104.txt" source_language="en" source_offset="2826" source_length="730" />
+</document>
+

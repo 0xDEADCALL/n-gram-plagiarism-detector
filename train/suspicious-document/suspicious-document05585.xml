@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05585.txt">
+  <feature name="about" authors="Wood, Eugene" title="Back Home" lang="en" />
+  <feature name="md5Hash" value="48332627b8a3431c1a58d37647dd6e46" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="52724" this_length="22600" source_reference="source-document01557.txt" source_language="en" source_offset="284321" source_length="23837" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="174659" this_length="19382" source_reference="source-document01557.txt" source_language="en" source_offset="166828" source_length="18471" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="220885" this_length="3071" source_reference="source-document08702.txt" source_language="en" source_offset="4841" source_length="3112" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="230808" this_length="1462" source_reference="source-document02063.txt" source_language="en" source_offset="8146" source_length="1490" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="271649" this_length="14210" source_reference="source-document08702.txt" source_language="en" source_offset="14823" source_length="16278" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="315803" this_length="475" source_reference="source-document08702.txt" source_language="en" source_offset="9734" source_length="476" />
+</document>
+

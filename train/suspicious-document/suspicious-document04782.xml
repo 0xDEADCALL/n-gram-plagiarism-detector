@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04782.txt">
+  <feature name="about" authors="Twain, Mark" title="Life on the Mississippi, Part 5." lang="en" />
+  <feature name="md5Hash" value="703f42fd9659631517932822ce019b23" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="368" this_length="1939" source_reference="source-document05040.txt" source_language="en" source_offset="274063" source_length="2245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2522" this_length="2608" source_reference="source-document05040.txt" source_language="en" source_offset="176036" source_length="2754" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5392" this_length="216" source_reference="source-document05040.txt" source_language="en" source_offset="306521" source_length="228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5898" this_length="2890" source_reference="source-document05290.txt" source_language="en" source_offset="70900" source_length="2729" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9061" this_length="265" source_reference="source-document05290.txt" source_language="en" source_offset="14738" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9327" this_length="463" source_reference="source-document05040.txt" source_language="en" source_offset="172740" source_length="511" />
+</document>
+

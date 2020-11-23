@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04920.txt">
+  <feature name="about" authors="Tolstoy, Leo, graf" title="Father Sergius" lang="en" />
+  <feature name="md5Hash" value="03c6b37be9a5d9da1e49ec82e4065bf3" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="2893" this_length="4101" source_reference="source-document06740.txt" source_language="es" source_offset="4125" source_length="4277" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="16311" this_length="3977" source_reference="source-document06740.txt" source_language="es" source_offset="12967" source_length="4285" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="22389" this_length="2208" source_reference="source-document06740.txt" source_language="es" source_offset="22355" source_length="2369" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="28742" this_length="2595" source_reference="source-document06740.txt" source_language="es" source_offset="27291" source_length="2731" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00219.txt">
+  <feature name="about" authors="Ward, Humphry, Mrs." title="Sir George Tressady — Volume I" lang="en" />
+  <feature name="md5Hash" value="e4840844c0f5e9cee6c2d12ea5417e7c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="171386" this_length="21618" source_reference="source-document04194.txt" source_language="en" source_offset="343120" source_length="21990" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="251003" this_length="4497" source_reference="source-document10153.txt" source_language="en" source_offset="56" source_length="4463" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="269140" this_length="710" source_reference="source-document04194.txt" source_language="en" source_offset="341107" source_length="712" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="273965" this_length="3044" source_reference="source-document04194.txt" source_language="en" source_offset="377238" source_length="3000" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="305097" this_length="267" source_reference="source-document00847.txt" source_language="en" source_offset="12228" source_length="274" />
+</document>
+

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06676.txt">
+  <feature name="about" authors="Lowell, James Russell" title="The Vision of Sir Launfal And Other Poems by James Russell Lowell; Edited with an Introduction and Notes by Julian W. Abernethy, PH.D." lang="en" />
+  <feature name="md5Hash" value="71ec7460e13c0263190ef9d5ff0dd172" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13540" this_length="3694" source_reference="source-document06922.txt" source_language="en" source_offset="22790" source_length="3727" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="37151" this_length="2370" source_reference="source-document09649.txt" source_language="en" source_offset="12838" source_length="2623" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="51904" this_length="3590" source_reference="source-document06922.txt" source_language="en" source_offset="27383" source_length="4210" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74434" this_length="4576" source_reference="source-document06922.txt" source_language="en" source_offset="9113" source_length="4873" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108409" this_length="2168" source_reference="source-document06922.txt" source_language="en" source_offset="39134" source_length="1883" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="122803" this_length="1839" source_reference="source-document09649.txt" source_language="en" source_offset="2092" source_length="1703" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="129705" this_length="493" source_reference="source-document10926.txt" source_language="en" source_offset="1317" source_length="497" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="144043" this_length="4390" source_reference="source-document10926.txt" source_language="en" source_offset="1814" source_length="4363" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="161380" this_length="234" source_reference="source-document09649.txt" source_language="en" source_offset="5733" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="169792" this_length="2309" source_reference="source-document06922.txt" source_language="en" source_offset="6351" source_length="2762" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="182713" this_length="802" source_reference="source-document09649.txt" source_language="en" source_offset="11087" source_length="791" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="185823" this_length="539" source_reference="source-document06922.txt" source_language="en" source_offset="56470" source_length="521" />
+</document>
+

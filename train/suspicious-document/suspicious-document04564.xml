@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04564.txt">
+  <feature name="about" authors="Morris, William" title="The Sundering Flood" lang="en" />
+  <feature name="md5Hash" value="817a4f89746a917252864a0852caebd0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="164946" this_length="15585" source_reference="source-document06438.txt" source_language="en" source_offset="20599" source_length="18244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="377121" this_length="4078" source_reference="source-document06438.txt" source_language="en" source_offset="46015" source_length="4082" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="452910" this_length="1672" source_reference="source-document06438.txt" source_language="en" source_offset="5738" source_length="1685" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="485224" this_length="249" source_reference="source-document03370.txt" source_language="en" source_offset="2572" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="491766" this_length="269" source_reference="source-document06438.txt" source_language="en" source_offset="50255" source_length="270" />
+</document>
+

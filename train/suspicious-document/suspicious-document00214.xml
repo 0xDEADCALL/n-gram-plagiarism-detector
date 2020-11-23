@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00214.txt">
+  <feature name="about" authors="Swedenborg, Emanuel" title="Angelic Wisdom Concerning the Divine Love and the Divine Wisdom" lang="en" />
+  <feature name="md5Hash" value="bb10b2a96f3c654de0c24cf1964932a5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1785" this_length="14518" source_reference="source-document10521.txt" source_language="en" source_offset="677" source_length="15185" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20118" this_length="1421" source_reference="source-document10521.txt" source_language="en" source_offset="22537" source_length="1419" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21838" this_length="524" source_reference="source-document10521.txt" source_language="en" source_offset="35250" source_length="526" />
+</document>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07154.txt">
+  <feature name="about" authors="Potter, Burton Willis" title="The Road and the Roadside" lang="en" />
+  <feature name="md5Hash" value="25b23235f77346a649212cd4d55aa915" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28770" this_length="11825" source_reference="source-document05286.txt" source_language="en" source_offset="362384" source_length="20244" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="43513" this_length="1585" source_reference="source-document09534.txt" source_language="en" source_offset="1209" source_length="1557" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="66947" this_length="16481" source_reference="source-document01075.txt" source_language="en" source_offset="10105" source_length="15981" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110441" this_length="18655" source_reference="source-document05286.txt" source_language="en" source_offset="770015" source_length="20231" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="137154" this_length="1443" source_reference="source-document08653.txt" source_language="en" source_offset="2631" source_length="1483" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="140069" this_length="488" source_reference="source-document06618.txt" source_language="en" source_offset="3701" source_length="463" />
+</document>
+

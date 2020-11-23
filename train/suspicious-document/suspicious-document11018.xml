@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11018.txt">
+  <feature name="about" authors="Bourrienne, Louis Antoine Fauvelet de" title="Memoirs of Napoleon — Volume 09" lang="en" />
+  <feature name="md5Hash" value="31d200cc2c66cbcb08e3eed4ff5006e9" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36839" this_length="11253" source_reference="source-document04153.txt" source_language="en" source_offset="687432" source_length="15353" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62952" this_length="3029" source_reference="source-document04153.txt" source_language="en" source_offset="856993" source_length="3089" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="109468" this_length="15034" source_reference="source-document04153.txt" source_language="en" source_offset="98454" source_length="20182" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="146205" this_length="4096" source_reference="source-document05067.txt" source_language="en" source_offset="178519" source_length="4239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="166131" this_length="1744" source_reference="source-document04153.txt" source_language="en" source_offset="516225" source_length="1751" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="172439" this_length="1478" source_reference="source-document04153.txt" source_language="en" source_offset="889432" source_length="1504" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="176187" this_length="2110" source_reference="source-document04153.txt" source_language="en" source_offset="224926" source_length="2184" />
+</document>
+

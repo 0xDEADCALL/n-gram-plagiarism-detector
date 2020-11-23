@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05213.txt">
+  <feature name="about" authors="Woodworth, Francis Channing" title="Jack Mason, the Old Sailor" lang="en" />
+  <feature name="md5Hash" value="b31dca196fd7101f4f28476e2fee001b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3318" this_length="679" source_reference="source-document09044.txt" source_language="en" source_offset="3124" source_length="692" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="22313" this_length="260" source_reference="source-document09044.txt" source_language="en" source_offset="346" source_length="246" />
+</document>
+

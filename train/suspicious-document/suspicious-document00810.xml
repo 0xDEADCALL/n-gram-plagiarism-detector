@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00810.txt">
+  <feature name="about" authors="Everett-Green, Evelyn" title="The Secret Chamber at Chad" lang="en" />
+  <feature name="md5Hash" value="aa667973bc0ebed9ddb5d71320f5cec8" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="43649" this_length="17504" source_reference="source-document06519.txt" source_language="en" source_offset="59413" source_length="18406" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82963" this_length="16899" source_reference="source-document06350.txt" source_language="en" source_offset="497" source_length="18512" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="146515" this_length="9577" source_reference="source-document08993.txt" source_language="en" source_offset="409743" source_length="17761" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="210230" this_length="4118" source_reference="source-document06519.txt" source_language="en" source_offset="9153" source_length="4269" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="233799" this_length="4059" source_reference="source-document08993.txt" source_language="en" source_offset="24288" source_length="4194" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="244116" this_length="1928" source_reference="source-document09230.txt" source_language="en" source_offset="130167" source_length="1961" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="252609" this_length="1995" source_reference="source-document08993.txt" source_language="en" source_offset="547795" source_length="2085" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="260458" this_length="2720" source_reference="source-document09230.txt" source_language="en" source_offset="136914" source_length="2825" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="270268" this_length="4611" source_reference="source-document09230.txt" source_language="en" source_offset="293832" source_length="4771" />
+</document>
+

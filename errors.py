@@ -22,3 +22,17 @@ class DepRelNoInput(Error):
     def __init__(self, message="A filepath or str must be passed to DependecyRelations"):
         self.message = message
         super().__init__(self.message)
+
+
+class TmpDirectoryError:
+    # Exception raised when no input is passed to NGram object
+    def __init__(self, message="Tmp folder is not correctly built"):
+        self.message = message
+        super().__init__(self.message)
+
+
+class UnknownOption:
+    # Exception raised when no input is passed to NGram object
+    def __init__(self, message="Unknown option"):
+        self.message = message
+        super().__init__(self.message)

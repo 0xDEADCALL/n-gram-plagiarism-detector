@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00440.txt">
+  <feature name="about" authors="Smith, Edward Elmer" title="Spacehounds of IPC" lang="en" />
+  <feature name="md5Hash" value="d14e734d526986b31fa49cf530bb2f91" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2357" this_length="448" source_reference="source-document01006.txt" source_language="en" source_offset="40252" source_length="464" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12926" this_length="2793" source_reference="source-document01006.txt" source_language="en" source_offset="151680" source_length="2948" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52989" this_length="2347" source_reference="source-document01006.txt" source_language="en" source_offset="12080" source_length="2488" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="87195" this_length="4202" source_reference="source-document01006.txt" source_language="en" source_offset="119735" source_length="5026" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="114037" this_length="1923" source_reference="source-document01006.txt" source_language="en" source_offset="86995" source_length="2026" />
+</document>
+

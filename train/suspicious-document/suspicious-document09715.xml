@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09715.txt">
+  <feature name="about" authors="Shields, G. O." title="The Battle of the Big Hole A History of General Gibbon's Engagement with Nez Percés Indians in the Big Hole Valley, Montana, August 9th, 1877." lang="en" />
+  <feature name="md5Hash" value="2535405b2e3dec4b8499232f566eac12" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1406" this_length="675" source_reference="source-document10342.txt" source_language="en" source_offset="7682" source_length="679" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4255" this_length="776" source_reference="source-document10342.txt" source_language="en" source_offset="1463" source_length="803" />
+</document>
+

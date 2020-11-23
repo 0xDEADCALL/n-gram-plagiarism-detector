@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03037.txt">
+  <feature name="about" authors="Motley, John Lothrop" title="The Rise of the Dutch Republic — Volume 25: 1577, part II" lang="en" />
+  <feature name="md5Hash" value="2754b99a2aa78b73f2dd7f3b01be2459" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2670" this_length="18462" source_reference="source-document04426.txt" source_language="en" source_offset="173359" source_length="17946" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27356" this_length="15102" source_reference="source-document04426.txt" source_language="en" source_offset="100043" source_length="17927" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46242" this_length="22615" source_reference="source-document04426.txt" source_language="en" source_offset="290211" source_length="21250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70955" this_length="679" source_reference="source-document05366.txt" source_language="en" source_offset="240" source_length="683" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="71816" this_length="743" source_reference="source-document04426.txt" source_language="en" source_offset="23092" source_length="748" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="72560" this_length="254" source_reference="source-document00483.txt" source_language="en" source_offset="1245" source_length="260" />
+</document>
+

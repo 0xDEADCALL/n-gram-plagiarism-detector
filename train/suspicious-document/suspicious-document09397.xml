@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09397.txt">
+  <feature name="about" authors="Thomas, Aquinas, Saint" title="Summa Theologica, Part I-II (Pars Prima Secundae) From the Complete American Edition" lang="en" />
+  <feature name="md5Hash" value="1ced936ff31e9d187eab1450b65b0880" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3298" this_length="252" source_reference="source-document00903.txt" source_language="en" source_offset="219436" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10295" this_length="256" source_reference="source-document00903.txt" source_language="en" source_offset="74002" source_length="250" />
+</document>
+

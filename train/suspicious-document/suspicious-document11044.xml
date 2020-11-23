@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document11044.txt">
+  <feature name="about" authors="Ballantyne, Robert Michael" title="Philosopher Jack" lang="en" />
+  <feature name="md5Hash" value="af4ea145929bc4ec3fcb324c722ae4af" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1833" this_length="3795" source_reference="source-document00243.txt" source_language="en" source_offset="5509" source_length="4005" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82264" this_length="4878" source_reference="source-document00243.txt" source_language="en" source_offset="9713" source_length="4996" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="100196" this_length="2436" source_reference="source-document00243.txt" source_language="en" source_offset="1047" source_length="2758" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="131203" this_length="4283" source_reference="source-document08484.txt" source_language="en" source_offset="6681" source_length="5060" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="172623" this_length="1426" source_reference="source-document00243.txt" source_language="en" source_offset="16840" source_length="1500" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="183933" this_length="2452" source_reference="source-document01105.txt" source_language="en" source_offset="323554" source_length="2563" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="226244" this_length="2760" source_reference="source-document01105.txt" source_language="en" source_offset="131250" source_length="2734" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="238966" this_length="818" source_reference="source-document01105.txt" source_language="en" source_offset="782278" source_length="810" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="254227" this_length="1462" source_reference="source-document00243.txt" source_language="en" source_offset="15076" source_length="1511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="259522" this_length="743" source_reference="source-document00243.txt" source_language="en" source_offset="115" source_length="747" />
+</document>
+

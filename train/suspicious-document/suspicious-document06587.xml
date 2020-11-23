@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06587.txt">
+  <feature name="about" authors="Ferguson, William Blair Morton" title="Garrison's Finish : a romance of the race course" lang="en" />
+  <feature name="md5Hash" value="5f2c8246b9005009dc5864d7178b6ef2" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="145381" this_length="19648" source_reference="source-document09823.txt" source_language="en" source_offset="232910" source_length="20173" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="211014" this_length="4964" source_reference="source-document09823.txt" source_language="en" source_offset="209287" source_length="5075" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="253905" this_length="748" source_reference="source-document08410.txt" source_language="en" source_offset="414237" source_length="780" />
+</document>
+

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03924.txt">
+  <feature name="about" authors="Sue, Eugène" title="The Wandering Jew — Volume 08" lang="en" />
+  <feature name="md5Hash" value="60f624cced6db193de31a08fcdb2b107" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2138" this_length="4502" source_reference="source-document01315.txt" source_language="en" source_offset="416108" source_length="4749" />
+</document>
+

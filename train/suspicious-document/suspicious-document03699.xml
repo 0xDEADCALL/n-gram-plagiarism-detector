@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03699.txt">
+  <feature name="about" authors="Kingston, William Henry Giles" title="The Mate of the Lily Notes from Harry Musgrave's Log Book" lang="en" />
+  <feature name="md5Hash" value="50936efeac13e9abf032db1fdbac8909" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5912" this_length="14120" source_reference="source-document06570.txt" source_language="en" source_offset="175320" source_length="16034" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="164749" this_length="2258" source_reference="source-document03474.txt" source_language="en" source_offset="508905" source_length="2268" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="186493" this_length="1505" source_reference="source-document01107.txt" source_language="en" source_offset="11798" source_length="1489" />
+</document>
+

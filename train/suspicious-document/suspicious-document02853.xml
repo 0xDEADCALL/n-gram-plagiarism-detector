@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02853.txt">
+  <feature name="about" authors="Skinner, Charles Montgomery" title="Myths and Legends of Our Own Land — Volume 09 : as to buried treasure" lang="en" />
+  <feature name="md5Hash" value="87bce98593d95a9a50202e3e781e336e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1872" this_length="771" source_reference="source-document00598.txt" source_language="en" source_offset="693505" source_length="766" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9761" this_length="237" source_reference="source-document00598.txt" source_language="en" source_offset="1016072" source_length="235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14174" this_length="562" source_reference="source-document00598.txt" source_language="en" source_offset="181041" source_length="547" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18006" this_length="271" source_reference="source-document08606.txt" source_language="en" source_offset="9669" source_length="250" />
+</document>
+

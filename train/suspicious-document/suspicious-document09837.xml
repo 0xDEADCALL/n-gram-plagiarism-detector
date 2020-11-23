@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09837.txt">
+  <feature name="about" authors="Hoare, Edward Newenham" title="A Child of the Glens or, Elsie's Fortune" lang="en" />
+  <feature name="md5Hash" value="ac63e1c1ce5cd665fc4a3a9f185c6d50" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1085" this_length="22027" source_reference="source-document07793.txt" source_language="en" source_offset="9029" source_length="21948" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="24010" this_length="22337" source_reference="source-document02582.txt" source_language="en" source_offset="32479" source_length="24542" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47797" this_length="14234" source_reference="source-document02582.txt" source_language="en" source_offset="2136" source_length="15456" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="62959" this_length="19481" source_reference="source-document01934.txt" source_language="en" source_offset="1403" source_length="18246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83787" this_length="10351" source_reference="source-document02582.txt" source_language="en" source_offset="69591" source_length="25020" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94139" this_length="228" source_reference="source-document10269.txt" source_language="en" source_offset="108464" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94368" this_length="450" source_reference="source-document01934.txt" source_language="en" source_offset="22042" source_length="453" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94939" this_length="658" source_reference="source-document07793.txt" source_language="en" source_offset="7241" source_length="678" />
+</document>
+

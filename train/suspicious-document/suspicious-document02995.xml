@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02995.txt">
+  <feature name="about" authors="Thayer, William Roscoe" title="Theodore Roosevelt; an Intimate Biography" lang="en" />
+  <feature name="md5Hash" value="2f6aa8c874d40f4e6a98907d1a214eba" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="1999" source_reference="source-document05063.txt" source_language="en" source_offset="19872" source_length="1978" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5246" this_length="18028" source_reference="source-document03970.txt" source_language="en" source_offset="142372" source_length="16681" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23765" this_length="222" source_reference="source-document03970.txt" source_language="en" source_offset="896964" source_length="227" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="23988" this_length="229" source_reference="source-document03970.txt" source_language="en" source_offset="272754" source_length="235" />
+</document>
+

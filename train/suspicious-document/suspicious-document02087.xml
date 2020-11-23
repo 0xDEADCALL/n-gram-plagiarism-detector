@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02087.txt">
+  <feature name="about" authors="Wright, Bruce S." title="The Children's Six Minutes" lang="en" />
+  <feature name="md5Hash" value="8bfd96f632719bae05de3ab69aa56db3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2748" this_length="12638" source_reference="source-document01518.txt" source_language="en" source_offset="56320" source_length="15896" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19844" this_length="491" source_reference="source-document01518.txt" source_language="en" source_offset="867163" source_length="485" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20734" this_length="1755" source_reference="source-document01518.txt" source_language="en" source_offset="819944" source_length="1728" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23050" this_length="267" source_reference="source-document01518.txt" source_language="en" source_offset="882247" source_length="262" />
+</document>
+

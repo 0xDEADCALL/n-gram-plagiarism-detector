@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05108.txt">
+  <feature name="about" authors="Wilson, Theodore P." title="True to his Colours The Life that Wears Best" lang="en" />
+  <feature name="md5Hash" value="10c04885222bc3f0892fd2263d94be20" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2360" this_length="23893" source_reference="source-document04869.txt" source_language="en" source_offset="184497" source_length="24417" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31233" this_length="20074" source_reference="source-document07331.txt" source_language="en" source_offset="115378" source_length="22202" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52775" this_length="3919" source_reference="source-document07331.txt" source_language="en" source_offset="341925" source_length="4164" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="59198" this_length="16783" source_reference="source-document07331.txt" source_language="en" source_offset="54206" source_length="17203" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="79099" this_length="10874" source_reference="source-document07331.txt" source_language="en" source_offset="516440" source_length="22506" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="91950" this_length="452" source_reference="source-document02610.txt" source_language="en" source_offset="4095" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="94496" this_length="11502" source_reference="source-document07331.txt" source_language="en" source_offset="208284" source_length="19919" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="108144" this_length="2811" source_reference="source-document02610.txt" source_language="en" source_offset="65" source_length="3243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="112353" this_length="12188" source_reference="source-document07331.txt" source_language="en" source_offset="456227" source_length="22710" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="127505" this_length="4137" source_reference="source-document07331.txt" source_language="en" source_offset="34526" source_length="4339" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="132524" this_length="1952" source_reference="source-document02610.txt" source_language="en" source_offset="6315" source_length="2028" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="134477" this_length="240" source_reference="source-document02610.txt" source_language="en" source_offset="5586" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="134718" this_length="678" source_reference="source-document07331.txt" source_language="en" source_offset="363035" source_length="677" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="135397" this_length="449" source_reference="source-document07331.txt" source_language="en" source_offset="27626" source_length="457" />
+</document>
+

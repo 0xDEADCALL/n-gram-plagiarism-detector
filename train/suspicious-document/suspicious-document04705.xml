@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04705.txt">
+  <feature name="about" authors="Conrad, Joseph" title="Within the Tides" lang="en" />
+  <feature name="md5Hash" value="accea57702d2f246b9b6def0f4737a29" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3041" this_length="18200" source_reference="source-document04373.txt" source_language="en" source_offset="3538" source_length="19220" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="105104" this_length="21353" source_reference="source-document04656.txt" source_language="en" source_offset="415" source_length="22706" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="147549" this_length="24475" source_reference="source-document01616.txt" source_language="en" source_offset="65430" source_length="24790" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="243575" this_length="19520" source_reference="source-document10212.txt" source_language="en" source_offset="58238" source_length="20184" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="289359" this_length="1487" source_reference="source-document00274.txt" source_language="en" source_offset="329152" source_length="1520" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="294014" this_length="248" source_reference="source-document04656.txt" source_language="en" source_offset="135" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="297106" this_length="2515" source_reference="source-document04373.txt" source_language="en" source_offset="31025" source_length="2581" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="309437" this_length="2947" source_reference="source-document00274.txt" source_language="en" source_offset="317467" source_length="3042" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="313747" this_length="2488" source_reference="source-document07596.txt" source_language="en" source_offset="1043" source_length="2495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="326323" this_length="2627" source_reference="source-document00274.txt" source_language="en" source_offset="323984" source_length="2700" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="330805" this_length="1808" source_reference="source-document01616.txt" source_language="en" source_offset="30461" source_length="1827" />
+</document>
+

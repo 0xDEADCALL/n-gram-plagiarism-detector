@@ -1,0 +1,359 @@
+﻿The merits of a brake in which electric apparatus is used, that has been adopted by one large
+railway company, and is about to be used on the State railways, as well as the fact that arrangements
+are being made to introduce it in England, demand consideration. It may be that modifications
+will, under different circumstances, be introduced, or that the system will ultimately be found
+too cumbersome or too delicate, but before criticism it is necessary to know something of the
+apparatus. We therefore endeavor to give somewhat in detail the arrangement adopted by M.L.
+Regray, chief engineer of the Chemin de Fer de l'Est, the electrical system being that of M.
+Achard. An electro-magnet, A, is suspended on a hinged axis, so that the poles of the magnet
+have for armatures cylinders of metal fixed upon the axle of the carriage. Suppose now the
+poles, D D, of the magnet brought into contact with the revolving armatures, the friction between
+them causes the magnet to revolve. The chain attached to the brake is fixed to the extended
+axle of the magnet, and consequently when that axle revolves is wound up, bringing the brakes
+upon the wheels. The friction between the poles and the armature depends upon the strength
+of the magnet, and this can be regulated at will from a maximum to a minimum. But it will be
+well to trace the whole action. The electric current may be obtained by means of Planté secondary
+cells charged by Daniell's cells--in other words, one or two Daniell's cells are constantly
+in action charging three or six Planté cells, and it is the Planté cells that are called into
+action to electrify the magnet. The battery is carried in a box in the brake van. The engineers,
+however, seem to prefer that the current be obtained by means of a small Gramme machine, driven
+direct by a Brotherhood three-cylinder engine, the steam for which is obtained from the locomotive.
+The velocity and hence the current of the Gramme machine can be regulated, and so the action
+of the brakes. M. Achard prefers the Planté cells; he informs us that he has tried the Faure
+battery, but the results obtained were not satisfactory. The regulator, R², consists of a cylinder
+of wood around which, as shown, wire is wound. The length of this wire in the circuit, increasing
+as it does the resistance of the circuit, determines the current to the electro-magnet. The
+action is as follows: When it is necessary to apply the brakes, a simple pressure of a key
+or the turn of a handle sends the electric current into the wires of the electro-magnet. An
+attraction immediately takes place, and the poles and armatures are brought into contact. The
+friction between these causes the revolution of the magnet, the winding of the chain around
+the axle, and the application of the brakes. The whole of the brakes of the train enter into
+action at one and the same time. The brakes are taken off by stopping the current, and a small
+spring pulls and keeps the magnet from the armatures. A frame--also carriages--fitted with
+this brake, are shown by the Compagnie des Chemins de Fer de l'Est, which company also shows
+several other pieces of interesting apparatus, one of which is a carriage fitted with elaborate
+mechanism, in which electricity plays, perhaps, but a subsidiary part, to obtain the traction
+of the train under varying circumstances, the pressure on the buffers when stopping, and various
+phenomena connected with the engine.--The Engineer.
+
+       *       *       *       *       *
+
+ELECTRICITY; WHAT IT IS, AND WHAT MAY BE EXPECTED OF IT.[1]
+
+   [Footnote 1: A paper read before the Engineers' Society of
+   Western Pennsylvania, Nov. 15, 1881.]
+
+By JACOB REESE
+
+In the consideration of this subject it is not my purpose to review the steps of discovery
+and development of electrical phenomena, but the object of this paper is an effort to explain
+what electricity is; and having done this, to deduce some reasonable conclusions as to what
+may be expected of it. And while I am profoundly sensible of the importance of the subject,
+and the difficulties attending its consideration, still with humble boldness I present this
+paper and ask for it a serious and careful consideration, hoping that the discussion and investigation
+resulting therefrom may add to our knowledge of physical science.
+
+It is now a well established fact that matter, per se, is inert, and that its energy is derived
+from the physical forces; therefore all chemical and physical phenomena observed in the universe
+are caused by and due to the operations of the physical forces, and matter, of whatever state
+or condition it may be in, is but the vehicle through or by which the physical forces operate
+to produce the phenomena.
+
+There are but two physical forces, i.e., the force of attraction and the force of caloric.
+The force of attraction is inherent in the matter, and tends to draw the particles together
+and hold them in a state of rest. The force of caloric accompanies the matter and tends to
+push the particles outward into a state of activity.
+
+The force of attraction being inherent, it abides in the matter continuously and can neither
+be increased nor diminished; it, however, is present in different elementary bodies in different
+degrees, and in compound bodies relative to the elements of which they are composed.
+
+The force of caloric is mobile, and is capable of moving from one portion of matter to another;
+yet under certain conditions a portion of caloric is occluded in the matter by the force of
+attraction. That portion of caloric which is occluded (known by the misnomer, latent heat)
+I shall call static caloric, and that portion which is in motion, dynamic caloric.
+
+The force of attraction, as I have said, tends to draw the particles of matter together and
+hold them in a state of rest; but as this force is inherent, the degree of power thus exerted
+is in an inverse ratio to the distance of the particles from each other. The effective force
+so exerted is always balanced by an equivalent amount of the force of caloric, and that modicum
+of caloric so engaged in balancing the effective force of attraction is static, because occluded
+in that work.
+
+In solid or fluid bodies, where the molecules are held in a local or near relation to each
+other, the amount of static caloric will be in direct proportion to the effective force of
+attraction, but in gaseous bodies the static caloric is in an inverse ratio to the effective
+force of attraction; hence the amount of static caloric present in solid and fluid bodies will
+be greatest when the molecules are nearest each other, and greatest in gaseous bodies when
+the molecules are furthest apart.
+
+Caloric, whether static or dynamic, is not phenomenal; therefore the phenomena of light, temperature,
+incandescence, luminosity, heat, cold, and motion, as well as all other phenomena, are due
+to the movement of matter caused by the physical forces. Thus we find that temperature is a
+phenomenal measure of molecular velocity, as we consider weight to be the measure of matter.
+
+An increase of temperature denotes an increased molecular velocity, and this in solid and liquid
+bodies unlocks a portion of the static caloric and converts it into dynamic caloric, while
+an increased temperature of gases occludes additional caloric, thus converting dynamic into
+static caloric; and a reduction of molecular activity reverses this action. From this we see
+that a change of temperature either converts static to dynamic or dynamic to static caloric.
+
+Thus we find that the amount of static caloric which a body possesses is in direct relation
+to its temperature, but, as I have already explained, temperature is a phenomenal indication
+of molecular velocity, and as increased velocity separates the molecules to a greater distance,
+which reduces the effective force of attraction and unlocks a portion of caloric, it will be
+seen that the separation of the molecules from any other cause will have the same effect. I
+desire now to explain a second method by which the molecules are separated and static caloric
+is changed to dynamic caloric.
+
+It is not definitely known how much static caloric is occluded in either of the elementary
+bodies, but it is believed that hydrogen possesses the greatest amount and oxygen the least.
+Now if we take a molecule of hydrogen containing two atoms, and under proper conditions interpose
+these atoms between 16 atoms of oxygen (one molecule), the phenomenon of combustion is exhibited,
+and a molecule of water is formed containing 18 atoms; and if one pound of hydrogen is thus
+consumed, the atoms of hydrogen are separated from each other to such a distance by the interposing
+atoms of oxygen as to unlock 34,662 units C. of static, and convert it into dynamic caloric.
+And if we thus bring a molecule of carbon containing 12 atoms in contact with a molecule of
+oxygen of 16 atoms, combustion ensues and a molecule of carbonic oxide of 28 atoms is formed,
+and if we then present another molecule of oxygen, combustion again takes place, and a molecule
+of carbonic acid, containing 44 atoms, is produced. Now, in the combustion of one pound of
+carbon in this manner, when the carbon is converted into carbonic oxide (CO), 2,473 units C.
+of static is converted into dynamic caloric; and when this CO is converted into carbonic acid
+(CO{2}) 5,607 additional units C. are unlocked. Thus by the combustion of one pound of carbon
+to CO{2}, 8,080 units C. of static caloric are changed to dynamic caloric.
+
+When caloric is thus unlocked from its occlusion it escapes with great velocity until an equilibrium
+is attained, and in doing so it pushes the particles of matter out of its path. In solid bodies
+this produces such a high degree of molecular movement as to exhibit the phenomena of incandescence
+and luminosity, and in liquids increased mobility, while in gases the molecular activity may
+be so great as to produce the phenomena of sound and light; and the more rapidly combustion
+takes place the greater will be the volume and velocity of dynamic caloric escaping therefrom;
+consequently with a slow combustion, the phenomena produced by dynamic caloric will be different
+from those exhibited at a high degree.
+
+Combustion, as I have before shown, is merely the oxidation of the material; nothing is consumed
+nor annihilated, and, the phenomena vary with the velocity of oxidation. Now, if we take one
+pound of zinc and place it in the acid cell of an electric battery, the oxygen of the acid
+attacks the zinc and oxide of zinc is formed. In this operation the Zn molecule containing
+65 atoms is united with one molecule of oxygen of 16 atoms, forming a molecule of oxide of
+zinc (ZnO) of 81 atoms; and owing to the comparatively small number of oxygen atoms interposed
+between the 65 atoms of zinc, only 1,301 units C. of static caloric are unlocked to the pound
+of zinc, and the velocity of oxidation is so low, and the insulation of the vessel so perfect,
+that the dynamic caloric is caused to flow outward through the copper wire.
+
+ELECTRICITY.--What is it? Why, it is dynamic caloric. Now let us take this oxide of zinc (ZnO)
+and place it with charcoal in a reducing apparatus which stands on an insulated table; the
+apparatus is then heated, the carbon vaporizes, and this vapor of carbon (C) robs the oxide
+of zinc (ZnO) of its oxygen, leaving metallic zinc (Zn) and carbonic oxide (CO). Now, for every
+pound of zinc so formed 1,301 units C. of static caloric are transferred from the charcoal
+to the zinc and occluded in it. Hence we find that the 1,301 units C. of caloric which we took
+out of the zinc, and which we call electricity, is nothing else but the 1,301 units of static
+caloric which was contained in the charcoal and from it set free by oxidation and transferred
+to the zinc in the smelting process. Let us follow this matter a little further. Charcoal is
+made by burning wood under such conditions as eliminate the water and hydrogen and leave the
+carbon as a residuum which we call charcoal. Thus we find that the caloric contained in the
+charcoal, transferred from the charcoal to the zinc, and from it developed into what we call
+electricity, was previously embodied in the wood; and if we study the laws of vegetation, we
+find that the atmosphere being charged with carbonic acid (CO{2}), the leaves of plants, shrubs,
+and trees, breathing, take in the CO{2}, the sun rays decompose the CO{2}, set free the oxygen,
+and supply the necessary amount of caloric for the condensed state of the carbon. Thus we find
+that the force which we term electricity, developed from the oxidation of zinc, or any other
+matter, by oxidation, primarily comes from the sun rays.
+
+Coal is generally supposed to be of vegetable origin, and the caloric occluded in it is derived
+from the same source as that embodied in charcoal. Now when we burn coal under a steam boiler,
+the carbon and hydrogen are oxidized, and the static caloric set free. A portion of this caloric
+passes through the shell or tubes of the boilers, and increases the molecular velocity of the
+water; increased activity of the molecules tends to separate them to a greater distance from
+each other. When the molecular velocity of the water acquires the degree indicated by a temperature
+of 212 degrees F., the water passes from the fluid to the gaseous state, and in doing so expands
+to 1,696 times its bulk. Now if the steam so developed be confined under a pressure of 105
+pounds to the square inch, the water will not vaporize until a molecular velocity is attained
+indicated by a temperature of 312° F. (Spons' "Engineering," D2, page 418), and then the expansion
+is only 253 times its bulk. By using this steam, in a steam engine, the caloric in the steam
+tends to push the molecules of which it is composed into an ultimate expansion of 1,696 times
+the bulk of the water from which it was generated, and this force acts upon the piston and
+does the work. Thus we see that the steam engine is driven by the same force which produces
+the phenomena accredited to electricity.
+
+I have already shown that in what we term combustion not a particle of the ponderable matter
+is annihilated. Combustion is but a phenomenon resulting from a rearrangement of the particles,
+and so it is with the imponderable physical force caloric; it is not consumed when light and
+heat are produced, nor converted into power, as we are sometimes told. But whatever the phenomena
+produced, the aggregate amount of static and dynamic caloric is always and ever the same.
+
+If we consider the Ritter-Plant-Faure-Battery, which is mentioned as storing electricity, we
+find that the phenomena exhibited by the use of this apparatus are produced by the same factor.
+The battery is composed of two sheets of lead, which are covered with a layer of minium (Pb3O4).
+The sheets are laid one upon the other with an intervening layer of felt. The pack is then
+rolled up in a spiral form and placed in a vessel containing acidulated water. One of the plates
+is connected with the positive, and the other plate with the negative pole of a battery or
+generator.
+
+When the current of electricity enters the battery, the Pb3O4 on the positive plate is reduced
+to Pb, and the oxygen so set free attacks the Pb3O4 on the negative plate, and oxidizes it
+to PbO2. In this chemical action, caloric is occluded in the Pb and unlocked in the PbO2, but
+a much greater amount of caloric is locked up than is unlocked, although the amount of oxygen
+used in both cases is precisely the same, which has been fully explained in the oxidation of
+carbon.
+
+Now after the battery has been thus charged and the wires disengaged, the chemical action ceases
+for want of the reducing agent (dynamic caloric), and the apparatus may be held at rest, or
+transported to any distance required. When it is desired to utilize the force thus stored,
+the poles are changed by grounding the positive wire, and attaching the other to the conduit
+through which the electricity is to flow. The chemical action is thus reversed, and the PbO2
+is reduced to Pb3O4, the oxygen thus set free attacks the Pb on the other plate, oxidizing
+it to Pb3O4, thus unlocking all the caloric which was occluded by the first action. In a battery
+of this kind weighing 75 pounds, we are informed by Sir William Thomson, that one million foot
+pounds of force may be stored, and again set free for use.
+
+Thus we find that the principle upon which the Faure battery is formed is not new, and the
+prime factor producing the phenomena is the same as has been shown to have caused all other
+phenomena referred to, and indeed the principle is the same as now employed by the author in
+the basic dephosphorizing process, i.e., caloric is occluded in phosphorus by smelting in a
+blast furnace, and unlocked in the converter, for the purpose of securing the fluidity of the
+metal during treatment. The difference being, that one is done by non-luminous, while the other
+is by luminous combustion.
+
+If we consider the phenomenon of light, we find that it is due to the same force. As before
+stated, when we oxidize carbon, or hydrogen, as in the rapid combustion of wood, oil, or coal,
+the escaping caloric flies off with such great speed as to cause the molecules in the circumambient
+medium to assume a velocity which exhibits luminosity. Thus the light produced by burning candles,
+oil, gas, wood, and coal, is caused by the same prime factor, dynamic caloric.
+
+The force of caloric is imponderable and invisible, and is only known by its effects. We do
+know that it is occluded in metals and other material, because we can unlock it and set it
+free, or we can transfer it from one body to another, and by measuring its effects, we can
+determine its quantity. We know that it prefers to travel over one vehicle more than another,
+and by this knowledge we are able to insulate it, and thus conduct it in any direction desired.
+The materials through which it passes with the greatest freedom are called conductors, and
+the materials which most retard its passage, non-conductors; but these terms must be taken
+in a comparative sense only, as in fact there are no absolute non-conductors of dynamic caloric,
+or of what we call electricity.
+
+The dynamo-electric generator simply draws the dynamic caloric from the air or earth, or both,
+and confines it in an insulated path. Now if that path be a No. 10 wire, the conduit may be
+sufficient to permit the caloric to pass without increasing the molecular velocity of the metal
+to an appreciable degree, but if we cut the No. 10 wire and insert a piece of No. 40 platinum
+wire in the path, the amount of caloric flowing through the No. 10 wire cannot pass through
+the No. 40 wire, and the resistance so caused increases the molecular velocity of the No. 40
+wire to such degree as to exhibit the phenomenon of incandescence, and this is the incandescent
+electric light. And if we consider the carbon light, we find that the current of caloric, in
+passing from one pencil to the other, produces a molecular velocity of luminosity in the adjoining
+atmosphere, and in addition a portion of the carbon is consumed, which sets free an additional
+amount of caloric, at a very high velocity, hence the intensity of the carbon electric light
+is largely due to the dynamic caloric unlocked from the pencils, and thus we find that the
+electric light produced by either method is due to the action of dynamic caloric.
+
+Taking this theory based upon physical science, and the facts which we know pertaining to electricity,
+I conceive that caloric exists in two conditions. Static caloric is what we call latent heat,
+and dynamic caloric is what we call electricity. Therefore what may we expect of it (electricity)
+is merely a matter of economy in the development and utilization of dynamic caloric; in other
+words, can we unlock static caloric by non-luminous combustion, and thus develop dynamic caloric
+as a first power more economically per foot pound than we now do or can hereafter do by luminous
+combustion? Second, can we utilize water and wind for the production of dynamic caloric as
+a first power? Third, can we utilize the differential tension of dynamic caloric in the earth
+and the atmosphere as a first power? Fourth, will it pay to use luminous combustion as a first
+power to generate dynamic caloric as a second power?
+
+WHAT MAY WE EXPECT OF IT.
+
+Let us take the steam engine, and see what we are now doing by luminous combustion. Good Pittsburg
+coal contains 87 per cent. of carbon, 5 per cent. of hydrogen, 2 per cent. of oxygen and 6
+per cent. of ash; we therefore have in one pound of such coal:
+
+    8,080 × 9   14,544 × 87
+    --------- = ----------- = 12,653 units in carbon.
+        5           100
+
+    34,662 × 9   62,391 × 5    3,119 units in hydrogen.
+    ---------- = ---------- = ------
+        5           100       15,772 units in coal.
+
+15,772 × 772[2] = 12,175,984 foot pounds of energy is occluded in the static caloric contained
+in one pound of such coal.
+
+   [Footnote 2: Dr. Joule--foot pounds in one unit.]
+
+A horse-power is estimated as capable of raising 33,000 pounds one foot high per minute, and
+for this reason it is termed 33,000 foot pounds per minute. So we have 33,000 × 60 = 1,980,000
+foot pounds per hour, as a horse-power.
+
+The best class of compound condensing engines,[3] with all the modern improvements, require
+1.828 pounds of coal per 1 h.p. per hour. Thus we have--
+
+    12,175,984 × 1.828 .................22,257,699
+    Foot pounds in one h.p. .............1,980,000
+                                        ----------
+    Foot pounds lost per h.p. ..........20,277,699
+
+    Per cent utilized per h.p. ..............8.94
+    Per cent lost per h.p. .................91.06
+                                           ------
+                                           100.00
+
+   [Footnote 3: "American Engineer," Vol. II., No. 10, page 182.]
+
+In the ordinary practice of stationary non-condensing engines, from three to four pounds of
+coal are required per horse-power per hour. Now, taking the best of this class at 3 pounds,
+we have--
+
+    12,175,984 × 3 =      36,527,952
+    One h.p.               1,980,000
+                          ----------
+    Loss per h.p.         34,547,952
+
+    Per cent utilized per h.p.  5.42
+    Per cent lost per h.p.     94.58
+                              ------
+                              100.00
+
+From these facts it may be assumed that after making due allowance for variable qualities of
+the coal, the steam engine process, as at present practiced, will not utilize more than from
+5 to 10 per cent. of the energy contained in the fuel used. It will thus be seen that the process
+of converting static to dynamic caloric by luminous combustion, by means of the steam engine,
+is an exceedingly wasteful and costly method, and leaves much room for economy.
+
+Taking an ordinary grade of petroleum as consisting of 13 per cent. hydrogen, 78 carbon, 6
+oxygen, 3 nitrogen and ash, we have as its energy in foot pounds per pound of oil--
+
+    62,391 × 13              }
+    -----------  = 8,110 H.  }
+         100                 }
+                             } 19,454 units.
+    14,544 × 78              }
+    -----------  = 11,344 C. }
+         100                 }
+
+19,454 × 772 = 15,018,488 foot pounds. Thus, while our best coal contains twelve million, the
+petroleum contains fifteen million foot pounds of occluded energy in each pound, which is equal
+to 118,000,000 foot pounds, or 60 horse power for one hour, from one gallon of such oil.
+
+At present electricity is generated by two methods, and both of these are second powers. Metals
+are smelted by luminous combustion as a first power, and then oxidized by non-luminous combustion
+as a second power, and coal is consumed by luminous combustion, by which steam is generated
+as a first power, to drive a dynamo-generator whereby electricity is obtained as a second power.
+Now, of the two methods, the latter is much the cheaper, and as I have shown that the best
+compound condensing engines only utilize 8.94, and a fair average single cylinder condensing
+engine only utilizes 5.42 per cent. of the energy of the fuel consumed, and as at the best
+not over 70 per cent. of the foot pounds obtained from the engine can be utilized as electricity,
+from which we must deduct loss by friction, etc., it will be readily seen that not more than
+5 per cent. of the energy of the fuel can be developed by the dynamo-generator as electricity
+by the present method.
+
+The great want of the present age is a process by which the static caloric of carbon or a hydrocarbon
+maybe set free by non-luminous combustion; or, in other words, a process by which coal or oil
+may be oxidized at a low degree, within an insulated vessel; if this can be accomplished (and
+I can see no reason why we should not look for such invention), we would be able to produce
+from twelve to fifteen million foot pounds of energy (electricity) from one pound of petroleum,
+or from ten to twelve million foot pounds from one pound of good coal, which would be a saving
+of from 90 to 95 per cent. of present cost, and leave the steam engine for historical remembrance.
+
+Electricity may be generated by water or wind power to great advantage, and conveyed to a distance
+for motive power. The practicability of generating electricity at Niagara by which to propel
+trains to New York and return may be considered almost settled; and I conceive a second invention
+of importance which is now needed is an apparatus by which the rising and falling tides may
+be utilized for driving dynamo machines, by which electricity may be generated for lighting
+the coast cities, and it is not unreasonable to expect that such an apparatus will soon be
+provided; and in such an event gas companies would suffer.
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07916.txt">
+  <feature name="about" authors="Strang, Herbert" title="Humphrey Bold A Story of the Times of Benbow" lang="en" />
+  <feature name="md5Hash" value="ede9cad49d4a34eef839548a454ccf20" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3583" this_length="4179" source_reference="source-document10610.txt" source_language="en" source_offset="3615" source_length="4459" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11676" this_length="3979" source_reference="source-document10610.txt" source_language="en" source_offset="14740" source_length="3817" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16599" this_length="2794" source_reference="source-document09460.txt" source_language="en" source_offset="250" source_length="2720" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22251" this_length="522" source_reference="source-document10610.txt" source_language="en" source_offset="175" source_length="540" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23367" this_length="784" source_reference="source-document10610.txt" source_language="en" source_offset="2790" source_length="825" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="26898" this_length="2856" source_reference="source-document10610.txt" source_language="en" source_offset="8828" source_length="2746" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="30451" this_length="467" source_reference="source-document09460.txt" source_language="en" source_offset="3150" source_length="496" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="31393" this_length="207" source_reference="source-document10610.txt" source_language="en" source_offset="8402" source_length="226" />
+</document>
+

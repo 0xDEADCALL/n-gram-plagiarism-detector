@@ -1,0 +1,404 @@
+﻿Impact tests are of considerable importance as an indication of how a metal will perform under
+shock. Some engineers think that the tensile test, which is one made under slow loading, should
+therefore be supplemented by another showing what will happen if the load is applied almost
+instantaneously. This test, however, has not been standardized, and depends to a considerable
+extent upon the type of machine, but more especially the size of the specimen and the way it
+is "nicked." The machine is generally a swinging heavy pendulum. It falls a certain height,
+strikes the sample at the lowest point, and swings on past. The difference between the downward
+and upward swing is a measure of the energy it took to break the test piece.
+
+FATIGUE TESTS
+
+It has been known for fifty years that a beam or rod would fail at a relatively low stress
+if only repeated often enough. It has been found, however, that each material possesses a limiting
+stress, or endurance limit, within which it is safe, no matter how often the loading occurs.
+That limiting stress for all steels so far investigated causes fracture below 10 million reversals.
+In other words, a steel which will not break before 10,000,000 reversals can confidently be
+expected to endure 100,000,000, and doubtless into the billions.
+
+About the only way to test one piece such a large number of times is to fashion it into a beam,
+load it, and then turn the beam in its supports. Thus the stress in the outer fibers of the
+bar varies from a maximum stretch through zero to a maximum compression, and back again. A
+simple machine of this sort is shown in Fig. 10, where B and E are bearings, A the test piece,
+turned slightly down in the center, C and D ball bearings supporting a load W. K is a pulley
+for driving the machine and N is a counter.
+
+HARDNESS TESTING
+
+The word "hardness" is used to express various properties of metals, and is measured in as
+many different ways.
+
+"Scratch hardness" is used by the geologist, who has constructed "Moh's scale" as follows:
+
+  Talc      has a hardness of  1
+  Rock Salt has a hardness of  2
+  Calcite   has a hardness of  3
+  Fluorite  has a hardness of  4
+  Apatite   has a hardness of  5
+  Feldspar  has a hardness of  6
+  Quartz    has a hardness of  7
+  Topaz     has a hardness of  8
+  Corundum  has a hardness of  9
+  Diamond   has a hardness of 10
+
+A mineral will scratch all those above it in the series, and will be scratched by those below.
+A weighted diamond cone drawn slowly over a surface will leave a path the width of which (measured
+by a microscope) varies inversely as the scratch hardness.
+
+"Cutting hardness" is measured by a standardized drilling machine, and has a limited application
+in machine-shop practice.
+
+"Rebounding hardness" is commonly measured by the Shore scleroscope, illustrated in Fig. 11.
+A small steel hammer, 1/4 in. in diameter, 3/4 in. in length, and weighing about 1/12 oz. is
+dropped a distance of 10 in. upon the test piece. The height of rebound in arbitrary units
+represents the hardness numeral.
+
+Should the hammer have a hard flat surface and drop on steel so hard that no impression were
+made, it would rebound about 90 per cent of the fall. The point, however, consists of a slightly
+spherical, blunt diamond nose 0.02 in. in diameter, which will indent the steel to a certain
+extent. The work required to make the indentation is taken from the energy of the falling body;
+the rebound will absorb the balance, and the hammer will now rise from the same steel a distance
+equal to about 75 per cent of the fall. A permanent impression is left upon the test piece
+because the impact will develop a force of several hundred thousand pounds per square inch
+under the tiny diamond-pointed hammer head, stressing the test piece at this point of contact
+much beyond its ultimate strength. The rebound is thus dependent upon the indentation hardness,
+for the reason that the less the indentation, the more energy will reappear in the rebound;
+also, the less the indentation, the harder the material. Consequently, the harder the material,
+the more the rebound.
+
+"Indentation hardness" is a measure of a material's resistance to penetration and deformation.
+The standard testing machine is the Brinell, Fig. 12. A hardened steel ball, 10 mm. in diameter,
+is forced into the test piece with a pressure of 3,000 kg. (3-1/3 tons). The resulting indentation
+is then measured.
+
+While under load, the steel ball in a Brinell machine naturally flattens somewhat. The indentation
+left behind in the test piece is a duplicate of the surface which made it, and is usually regarded
+as being the segment of a sphere of somewhat larger radius than the ball. The radius of curvature
+of this spherical indentation will vary slightly with the load and the depth of indentation.
+The Brinell hardness numeral is the quotient found by dividing the test pressure in kilograms
+by the spherical area of the indentation. The denominator, as before, will vary according to
+the size of the sphere, the hardness of the sphere and the load. These items have been standardized,
+and the following table has been constructed so that if the diameter of the identation produced
+by a load of 3,000 kg. be measured the hardness numeral is found directly.
+
+                      TABLE FOR BRINELL BALL TEST
+------------------------------------------------------------------------
+Diameter of Ball | Hardness Number | Diameter of Ball | Hardness Number
+Impression, mm.  |  for a Load of  | Impression, mm.  |  for a Load of
+                 |    3,000 kg.    |                  |    3,000 kg.
+-----------------|-----------------|------------------|-----------------
+      2.0        |       946       |       4.5        |       179
+      2.1        |       857       |       4.6        |       170
+      2.2        |       782       |       4 7        |       163
+      2.3        |       713       |       4.8        |       156
+      2.4        |       652       |       4.9        |       149
+      2.5        |       600       |       5.0        |       143
+                 |                 |                  |
+      2.6        |       555       |       5.1        |       137
+      2.7        |       512       |       5.2        |       131
+      2.8        |       477       |       5.3        |       126
+      2.9        |       444       |       5.4        |       121
+      3.0        |       418       |       5.5        |       116
+                 |                 |                  |
+      3.1        |       387       |       5.6        |       112
+      3.2        |       364       |       5.7        |       107
+      3.3        |       340       |       5.8        |       103
+      3.4        |       321       |       5.9        |        99
+      3.5        |       302       |       6.0        |        95
+                 |                 |                  |
+      3.6        |       286       |       6.1        |        92
+      3.7        |       269       |       6.2        |        89
+      3.8        |       255       |       6.3        |        86
+      3.9        |       241       |       6.4        |        83
+      4.0        |       228       |       6.5        |        80
+                 |                 |                  |
+      4.1        |       217       |       6.6        |        77
+      4.2        |       207       |       6.7        |        74
+      4.3        |       196       |       6.8        |        71.5
+      4.4        |       187       |       6.9        |        69
+------------------------------------------------------------------------
+
+CHAPTER III
+
+ALLOYS AND THEIR EFFECT UPON STEEL
+
+In view of the fact that alloy steels are coming into a great deal of prominence, it would
+be well for the users of these steels to fully appreciate the effects of the alloys upon the
+various grades of steel. We have endeavored to summarize the effect of these alloys so that
+the users can appreciate their effect, without having to study a metallurgical treatise and
+then, perhaps, not get the crux of the matter.
+
+NICKEL
+
+Nickel may be considered as the toughest among the non-rare alloys now used in steel manufacture.
+Originally nickel was added to give increased strength and toughness over that obtained with
+the ordinary rolled structural steel and little attempt was made to utilize its great possibilities
+so far as heat treatment was concerned.
+
+The difficulties experienced have been a tendency towards laminated structure during manufacture
+and great liability to seam, both arising from improper melting practice. When extra care is
+exercised in the manufacture, particularly in the melting and rolling, many of these difficulties
+can be overcome.
+
+The electric steel furnace, of modern construction, is a very important step forward in the
+melting of nickel steel; neither the crucible process nor basic or acid open-hearth furnaces
+give such good results.
+
+Great care must be exercised in reheating the billet for rolling so that the steel is correctly
+soaked. The rolling must not be forced; too big reduction per pass should not be indulged in,
+as this sets up a tendency towards seams.
+
+Nickel steel has remarkably good mechanical qualities when suitably heat-treated, and it is
+preeminently adapted for case-hardening. It is not difficult to machine low-nickel steel, consequently
+it is in great favor where easy machining properties are of importance.
+
+Nickel influences the strength and ductility of steel by being dissolved directly in the iron
+or ferrite; in this respect differing from chromium, tungsten and vanadium. The addition of
+each 1 per cent nickel up to 5 per cent will cause an approximate increase of from 4,000 to
+6,000 lb. per square inch in the tensile strength and elastic limit over the corresponding
+steel and without any decrease in ductility. The static strength of nickel steel is affected
+to some degree by the percentage of carbon; for instance, steel with 0.25 per cent carbon and
+3.5 per cent nickel has a tensile strength, in its normal state, equal to a straight carbon
+steel of 0.5 per cent with a proportionately greater elastic limit and retaining all the advantages
+of the ductility of the lower carbon.
+
+To bring out the full qualities of nickel it must be heat-treated, otherwise there is no object
+in using nickel as an alloy with carbon steel as the additional cost is not justified by increased
+strength.
+
+Nickel has a peculiar effect upon the critical ranges of steel, the critical range being lowered
+by the percentage of nickel; in this respect it is similar to manganese.
+
+Nickel can be alloyed with steel in various percentages, each percentage having a very definite
+effect on the microstructure. For instance, a steel with 0.2 per cent carbon and 2 per cent
+nickel has a pearlitic structure but the grain is much finer than if the straight carbon were
+used. With the same carbon content and say 5 per cent nickel, the structure would still be
+pearlitic, but much finer and denser, therefore capable of withstanding shock, and having greater
+dynamic strength. With about 0.2 per cent carbon and 8 per cent nickel, the steel is nearing
+the stage between pearlite and martensite, and the structure is extremely fine, the ferrite
+and pearlite having a very pronounced tendency to mimic a purely martensite structure. Steel
+with 0.2 per cent carbon and 15 per cent nickel is entirely martensite. Higher percentages
+of nickel change the martensitic structure to austenite, the steel then being non-magnetic.
+The higher percentages, that is 30 to 35 per cent nickel, are used for valve seats, valve heads,
+and valve stems, as the alloy is a poor conductor of heat and is particularly free from any
+tendency towards corrosion or pitting from the action of waste gases of the internal-combustion
+engine.
+
+Nickel steels having 3-1/2 per cent nickel and 0.15 to 0.20 per cent carbon are excellent for
+case-hardening purposes, giving hard surfaces and tough interiors.
+
+To obtain the full effect of nickel as an alloy, it is essential that the correct percentage
+of carbon be used. High nickel and low carbon will not be more efficient than lower nickel
+and higher carbon, but the cost will be much greater. Generally speaking, heat-treated nickel
+alloy steels are about two to three times stronger than the same steel annealed. This point
+is very important as many instances have been found where nickel steel is incorrectly used,
+being employed when in the annealed or normal state.
+
+CHROMIUM
+
+Chromium when alloyed with steel, has the characteristic function of opposing the disintegration
+and reconstruction of cementite. This is demonstrated by the changes in the critical ranges
+of this alloy steel taking place slowly; in other words, it has a tendency to raise the Ac
+range (decalescent points) and lower the Ar range (recalescent points). Chromium steels are
+therefore capable of great hardness, due to the rapid cooling being able to retard the decomposition
+of the austenite.
+
+The great hardness of chromium steels is also due to the formation of double carbides of chromium
+and iron. This condition is not removed when the steel is slightly tempered or drawn. This
+additional hardness is also obtained without causing undue brittleness such as would be obtained
+by any increase of carbon. The degree of hardness of the lower-chrome steels is dependent upon
+the carbon content, as chromium alone will not harden iron.
+
+The toughness so noticeable in this steel is the result of the fineness of structure; in this
+instance, the action is similar to that of nickel, and the tensile strength and elastic limit
+is therefore increased without any loss of ductility. We then have the desirable condition
+of tough hardness, making chrome steels extremely valuable for all purposes requiring great
+resistance to wear, and in higher-chrome contents resistance to corrosion. All chromium-alloy
+steels offer great resistance to corrosion and erosion. In view of this, it is surprising that
+chromium steels are not more largely used for structural steel work and for all purposes where
+the steel has to withstand the corroding action of air and liquids. Bridges, ships, steel building,
+etc., would offer greater resistance to deterioration through rust if the chromium-alloy steels
+were employed.
+
+Prolonged heating and high temperatures have a very bad effect upon chromium steels. In this
+respect they differ from nickel steels, which are not so affected by prolonged heating, but
+chromium steels will stand higher temperatures than nickel steels when the period is short.
+
+Chromium steels, due to their admirable property of increased hardness, without the loss of
+ductility, make very excellent chisels and impact tools of all types, although for die blocks
+they do not give such good results as can be obtained from other alloy combinations.
+
+For ball bearing steels, where intense hardness with great toughness and ready recovery from
+temporary deflection is required, chromium as an alloy offers the best solution.
+
+Two per cent chromium steels; due to their very hard tough surface, are largely used for armor-piercing
+projectiles, cold rolls, crushers, drawing dies, etc.
+
+The normal structure of chromium steels, with a very low carbon content is roughly pearlitic
+up to 7 per cent, and martensitic from 8 to 20 per cent; therefore, the greatest application
+is in the pearlitic zone or the lower percentages.
+
+NICKEL-CHROMIUM
+
+A combination of the characteristics of nickel and the characteristics of chromium, as described,
+should obviously give a very excellent steel as the nickel particularly affects the ferrite
+of the steel and the chromium the carbon. From this combination, we are able to get a very
+strong ferrite matrix and a very hard tough cementite. The strength of a strictly pearlitic
+steel over a pure iron is due to the pearlitic being a layer arrangement of cementite running
+parallel to that of a pure iron layer in each individual grain. The ferrite i.e., the iron
+is increased in strength by the resistance offered by the cementite which is the simple iron-carbon
+combination known to metallurgists as Fe3C. The cementite, although adding to the tensile strength,
+is very brittle and the strength of the pearlite is the combination of the ferrite and cementite.
+In the event of the cementite being strengthened, as in the case of strictly chromium steels,
+an increased tensile strength is readily obtained without loss of ductility and if the ferrite
+is strengthened then the tensile strength and ductility of the metal is still further improved.
+
+Nickel-chromium alloy represents one of the best combinations available at the present time.
+The nickel intensifies the physical characteristics of the chromium and the chromium has a
+similar effect on the nickel.
+
+For case-hardening, nickel-chromium steels seem to give very excellent results. The carbon
+is very rapidly taken up in this combination, and for that reason is rather preferable to the
+straight nickel steel.
+
+With the mutually intensifying action of chromium and nickel there is a most suitable ratio
+for these two alloys, and it has been found that roughly 2-1/2 parts of nickel to about 1 part
+of chromium gives the best results. Therefore, we have the standard types of 3.5 per cent nickel
+with 1.5 per cent chromium to 1.5 per cent nickel with 0.6 per cent chromium and the various
+intermediate types. This ratio, however, does not give the whole story of nickel-chromium combinations,
+and many surprising results have been obtained with these alloys when other percentage combinations
+have been employed.
+
+VANADIUM
+
+Vanadium has a very marked effect upon alloy steels rich in chromium, carbon, or manganese.
+Vanadium itself, when combined with steel very low in carbon, is not so noticeably beneficial
+as in the same carbon steel higher in manganese, but if a small quantity of chromium is added,
+then the vanadium has a very marked effect in increasing the impact strength of the alloy.
+It would seem that vanadium has the effect of intensifying the action of chromium and manganese,
+or that vanadium is intensified by the action of chromium or manganese.
+
+Vanadium has the peculiar property of readily entering into solution with ferrite. If vanadium
+contained is considerable it also combines with the carbon, forming carbides. The ductility
+of carbon-vanadium steels is therefore increased, likewise the ductility of chrome-vanadium steels.
+
+The full effect of vanadium is not felt unless the temperatures to which the steel is heated
+for hardening are raised considerably. It is therefore necessary that a certain amount of "soaking"
+takes place, so as to get the necessary equalization. This is true of all alloys which contain
+complex carbides, i.e., compounds of carbon, iron and one or more elements.
+
+Chrome-vanadium steels also are highly favored for case hardening. When used under alternating
+stresses it appears to have superior endurance. It would appear that the intensification of
+the properties due to chromium and manganese in the alloy steel accounts for this peculiar
+phenomenon.
+
+Vanadium is also a very excellent scavenger for either removing the harmful gases, or causing
+them to enter into solution with the metal in such a way as to largely obviate their harmful
+effects. Chrome-vanadium steels have been claimed, by many steel manufacturers and users, to
+be preferable to nickel-chrome steels. While not wishing to pass judgment on this, it should
+be borne in mind that the chrome-vanadium steel, which is tested, is generally compared with
+a very low nickel-chromium alloy steel (the price factor entering into the situation), but
+equally good results can be obtained by nickel-chromium steels of suitable analysis.
+
+Where price is the leading factor, there are many cases where a stronger steel can be obtained
+from the chrome and vanadium than the nickel-chrome. It will be safe to say that each of these
+two systems of alloys have their own particular fields and chrome-vanadium steel should not
+be regarded as the sole solution for all problems, neither should nickel-chromium.
+
+MANGANESE
+
+Manganese adds considerably to the tensile strength of steel, but this is dependent on the
+carbon content. High carbon materially adds to the brittleness, whereas low-carbon, pearlitic-manganese
+steels are very tough and ductile and are not at all brittle, providing the heat-treating is
+correct. Manganese steel is very susceptible to high temperatures and prolonged heating.
+
+In low-carbon pearlitic steels, manganese is more effective in increasing ultimate strength
+than is nickel; that is to say, a 0.45 carbon steel with 1.25 per cent manganese is as strong
+as a 0.45 carbon steel with 1.5 per cent nickel. The former steel is much used for rifle barrels,
+and in the heat-treated condition will give 80,000 to 90,000 lb. per square inch elastic limit,
+115,000 to 125,000 lb. per square inch tensile strength, 23 per cent elongation, and 55 per
+cent reduction in area.
+
+Manganese when added to steel has the effect of lowering the critical range; 1 per cent manganese
+will lower the upper critical point 60°F. The action of manganese is very similar to that of
+nickel in this respect, only twice as powerful. As an instance, 1 per cent nickel would have
+the effect of lowering the upper critical range from 25 to 30°F.
+
+Low-carbon pearlitic-manganese steel, heat-treated, will give dynamic strength which cannot
+be equaled by low-priced and necessarily low-content nickel steels. In many instances, it is
+preferable to use high-grade manganese steel, rather than low-content nickel steel.
+
+High-manganese steels or austenite manganese steels are used for a variety of purposes where
+great resistance to abrasion is required, the percentage of manganese being from 11 to 14 per
+cent, and carbon 1 to 1.5 per cent. This steel is practically valueless unless heat-treated;
+that is, heated to about yellow red and quenched in ice water. The structure is then austenite
+and the air-cooled structure of this steel is martensite. Therefore this steel has to be heated
+and very rapidly cooled to obtain the ductile austenite structure.
+
+Manganese between 2 and 7 per cent is a very brittle material when the carbon is about 1 per
+cent or higher and is, therefore, quite valueless. Below 2 per cent manganese steel low in
+carbon is very ductile and tough steel.
+
+The high-content manganese steels are known as the "Hadfield manganese steels," having been
+developed by Sir Robert Hadfield. Small additions of chrome up to 1 per cent increase the elastic
+limit of low-carbon pearlitic-manganese steels without affecting the steel in its resistance
+to shock, but materially decrease the percentage of elongation.
+
+Vanadium added to low-carbon pearlitic manganese steel has a very marked effect, increasing
+greatly the dynamic strength and changing slightly the susceptibility of this steel to heat
+treatments, giving a greater margin for the hardening temperature. Manganese steel with added
+vanadium is most efficient when heat-treated.
+
+TUNGSTEN
+
+Tungsten, as an alloy in steel, has been known and used for a long time. The celebrated and
+ancient damascus steel being a form of tungsten-alloy steel. Tungsten and its effects, however,
+did not become generally realized until Robert Mushet experimented and developed his famous
+mushet steel and the many improvement made since that date go to prove how little Mushet himself
+understood the peculiar effects of tungsten as an alloy.
+
+Tungsten acts on steel in a similar manner to carbon, that is, it increases its hardness, but
+is much less effective than carbon in this respect. If the percentage of tungsten and manganese
+is high, the steel will be hard after cooling in the air. This is impossible in a carbon steel.
+It was this combination that Mushet used in his well-known "air-hardening" steel.
+
+The principal use of tungsten is in high-speed tool steel, but here a high percentage of manganese
+is distinctly detrimental, making the steel liable to fire crack, very brittle and weak in
+the body, less easily forged and annealed. Manganese should be kept low and a high percentage
+of chromium used instead.
+
+Tools of tungsten-chromium steels, when hardened, retain their hardness, even when heated to
+a dark cherry red by the friction of the cutting or the heat arising from the chips. This characteristic
+led to the term "red-hardness," and it is this property that has made possible the use of very
+high cutting speeds in tools made of the tungsten-chromium alloy, that is, "high-speed" steel.
+
+Tungsten steels containing up to 6 per cent do not have the property of red hardness any more
+than does carbon tool steel, providing the manganese or chromium is low.
+
+When chromium is alloyed with tungsten, a very definite red-hardness is noticed with a great
+increase of cutting efficiency. The maximum red-hardness seems to be had with steels containing
+18 per cent tungsten, 5.5 per cent chromium and 0.70 per cent carbon.
+
+Very little is known of the actual function of tungsten, although a vast amount of experimental
+work has been done. It is possible that when the effect of tungsten with iron-carbon alloys
+is better known, a greater improvement can be expected from these steels. Tungsten has been
+tried and is still used by some steel manufacturers for making punches, chisels, and other
+impact tools. It has also been used for springs, and has given very good results, although
+other less expensive alloys give equally good results, and are in some instances, better.
+
+Tungsten is largely used in permanent magnets. In this, its action is not well understood.
+In fact, the reason why steel becomes a permanent magnet is not at all understood. Theories
+have been evolved, but all are open to serious questioning. The principal effect of tungsten,
+as conceded by leading authorities, is that it distinctly retards separation of the iron-carbon
+solution, removing the lowest recalescent point down to atmospheric temperature.
+
+A peculiar property of tungsten steels is that if a heating temperature of 1,750°F. is not
+exceeded, the cooling curves indicate but one critical point at about 1,350°F. But when the
+heating temperature is raised above 1,850°F., this critical point is nearly if not quite suppressed,
+while a lower critical point appears and grows enormously in intensity at a temperature between
+660 and 750°F.
+
+The change in the critical ranges, which is produced by heating tungsten steels to over 1,850°F.,
+is the real cause of the red-hard properties of these alloys. Its real nature is not understood,
+and there is no direct evidence to show what actually happens at these high temperatures.
+

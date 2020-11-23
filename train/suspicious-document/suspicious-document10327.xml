@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10327.txt">
+  <feature name="about" authors="King, Charles" title="A Daughter of the Sioux A Tale of the Indian frontier" lang="en" />
+  <feature name="md5Hash" value="0f9137baf6eb1aaa5d6608a64291fb6c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="365675" this_length="10088" source_reference="source-document06569.txt" source_language="en" source_offset="58091" source_length="19265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="384422" this_length="692" source_reference="source-document06569.txt" source_language="en" source_offset="31247" source_length="733" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="404776" this_length="787" source_reference="source-document06569.txt" source_language="en" source_offset="166839" source_length="796" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="411233" this_length="258" source_reference="source-document06569.txt" source_language="en" source_offset="141349" source_length="265" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="417482" this_length="254" source_reference="source-document06569.txt" source_language="en" source_offset="32301" source_length="263" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="422454" this_length="265" source_reference="source-document06569.txt" source_language="en" source_offset="5983" source_length="251" />
+</document>
+

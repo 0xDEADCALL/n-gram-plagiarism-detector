@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08549.txt">
+  <feature name="about" authors="Quiller-Couch, Mabel" title="The Story of Jessie" lang="en" />
+  <feature name="md5Hash" value="f35285c4fc9be9e864b1e55ebd7c1408" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="364" this_length="4801" source_reference="source-document05639.txt" source_language="en" source_offset="6515" source_length="5016" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6128" this_length="3347" source_reference="source-document05639.txt" source_language="en" source_offset="632" source_length="3506" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13932" this_length="13071" source_reference="source-document02376.txt" source_language="en" source_offset="310197" source_length="17505" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29271" this_length="18235" source_reference="source-document02376.txt" source_language="en" source_offset="35031" source_length="18270" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="51483" this_length="4234" source_reference="source-document02376.txt" source_language="en" source_offset="625280" source_length="4242" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="55881" this_length="2584" source_reference="source-document02376.txt" source_language="en" source_offset="658731" source_length="2502" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="61715" this_length="18451" source_reference="source-document02376.txt" source_language="en" source_offset="695854" source_length="20922" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="85287" this_length="17152" source_reference="source-document02376.txt" source_language="en" source_offset="150647" source_length="17550" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="104648" this_length="17824" source_reference="source-document02376.txt" source_language="en" source_offset="468495" source_length="23003" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="132921" this_length="20575" source_reference="source-document02376.txt" source_language="en" source_offset="511021" source_length="21143" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="156195" this_length="18478" source_reference="source-document02376.txt" source_language="en" source_offset="272356" source_length="18290" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="177724" this_length="3988" source_reference="source-document02376.txt" source_language="en" source_offset="112295" source_length="3787" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="182139" this_length="5506" source_reference="source-document02376.txt" source_language="en" source_offset="440791" source_length="5058" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="188736" this_length="2205" source_reference="source-document05639.txt" source_language="en" source_offset="4258" source_length="2257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="191340" this_length="235" source_reference="source-document02376.txt" source_language="en" source_offset="33602" source_length="233" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="191677" this_length="678" source_reference="source-document02376.txt" source_language="en" source_offset="621799" source_length="694" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="192415" this_length="795" source_reference="source-document02376.txt" source_language="en" source_offset="455395" source_length="819" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="193700" this_length="510" source_reference="source-document02376.txt" source_language="en" source_offset="646676" source_length="509" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="194211" this_length="488" source_reference="source-document02376.txt" source_language="en" source_offset="667914" source_length="478" />
+</document>
+

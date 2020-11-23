@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09245.txt">
+  <feature name="about" authors="White, Edward Lucas" title="Andivius Hedulio Adventures of a Roman Nobleman in the Days of the Empire" lang="en" />
+  <feature name="md5Hash" value="ca466ab0c5cd590460b13e68d1e4b5fb" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35053" this_length="16698" source_reference="source-document01155.txt" source_language="en" source_offset="204737" source_length="17791" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="179549" this_length="258" source_reference="source-document09608.txt" source_language="en" source_offset="2273" source_length="250" />
+</document>
+

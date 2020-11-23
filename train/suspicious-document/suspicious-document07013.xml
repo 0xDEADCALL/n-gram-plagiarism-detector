@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07013.txt">
+  <feature name="about" authors="Vasari, Giorgio" title="Lives of the most Eminent Painters Sculptors and Architects Vol. 06 (of 10) Fra Giocondo to Niccolo Soggi" lang="en" />
+  <feature name="md5Hash" value="f22309e1e9dbd93036e1ec6c66708603" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19038" this_length="2566" source_reference="source-document06999.txt" source_language="en" source_offset="5251" source_length="2747" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27949" this_length="517" source_reference="source-document06999.txt" source_language="en" source_offset="4191" source_length="544" />
+</document>
+

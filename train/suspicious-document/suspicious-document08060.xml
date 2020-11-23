@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08060.txt">
+  <feature name="about" authors="Braybrooke, Patrick" title="Gilbert Keith Chesterton" lang="en" />
+  <feature name="md5Hash" value="ce60dae8a1597d3d4b61994a2cee0914" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1331" this_length="3952" source_reference="source-document09135.txt" source_language="en" source_offset="40109" source_length="3735" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8200" this_length="2824" source_reference="source-document10670.txt" source_language="en" source_offset="31513" source_length="2794" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11209" this_length="441" source_reference="source-document10670.txt" source_language="en" source_offset="68437" source_length="450" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13050" this_length="4771" source_reference="source-document10670.txt" source_language="en" source_offset="358395" source_length="4777" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32525" this_length="18889" source_reference="source-document08961.txt" source_language="en" source_offset="295124" source_length="21543" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="56700" this_length="16186" source_reference="source-document08961.txt" source_language="en" source_offset="93019" source_length="17070" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81215" this_length="3350" source_reference="source-document10670.txt" source_language="en" source_offset="163208" source_length="3310" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="92653" this_length="17096" source_reference="source-document10670.txt" source_language="en" source_offset="101402" source_length="16771" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="121022" this_length="19174" source_reference="source-document08961.txt" source_language="en" source_offset="218829" source_length="19768" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="147267" this_length="18207" source_reference="source-document09135.txt" source_language="en" source_offset="7926" source_length="21455" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="184684" this_length="13969" source_reference="source-document08961.txt" source_language="en" source_offset="186031" source_length="16214" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="204244" this_length="268" source_reference="source-document10670.txt" source_language="en" source_offset="152598" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="204942" this_length="823" source_reference="source-document10670.txt" source_language="en" source_offset="491312" source_length="820" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="206677" this_length="1721" source_reference="source-document08961.txt" source_language="en" source_offset="120875" source_length="1706" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="209199" this_length="785" source_reference="source-document10351.txt" source_language="en" source_offset="5022" source_length="733" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="210298" this_length="247" source_reference="source-document09135.txt" source_language="en" source_offset="140193" source_length="237" />
+</document>
+

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07134.txt">
+  <feature name="about" authors="Hornung, Ernest William" title="No Hero" lang="en" />
+  <feature name="md5Hash" value="81634f4753c6751bcc280a078a3fe2f6" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1449" this_length="19888" source_reference="source-document10431.txt" source_language="en" source_offset="816" source_length="21917" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="24012" this_length="17377" source_reference="source-document04028.txt" source_language="en" source_offset="48555" source_length="17715" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41995" this_length="2304" source_reference="source-document10431.txt" source_language="en" source_offset="31077" source_length="2452" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="44300" this_length="539" source_reference="source-document06146.txt" source_language="en" source_offset="20854" source_length="547" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="46366" this_length="16878" source_reference="source-document06146.txt" source_language="en" source_offset="0" source_length="17202" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63825" this_length="14994" source_reference="source-document09276.txt" source_language="en" source_offset="184521" source_length="15808" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82146" this_length="15156" source_reference="source-document04028.txt" source_language="en" source_offset="654766" source_length="17510" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="100041" this_length="24276" source_reference="source-document04028.txt" source_language="en" source_offset="827163" source_length="24370" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="125837" this_length="21756" source_reference="source-document04028.txt" source_language="en" source_offset="232274" source_length="22577" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="148824" this_length="4569" source_reference="source-document10431.txt" source_language="en" source_offset="36296" source_length="5003" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="154602" this_length="18301" source_reference="source-document04028.txt" source_language="en" source_offset="280042" source_length="18568" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="175172" this_length="23968" source_reference="source-document04028.txt" source_language="en" source_offset="309930" source_length="23083" />
+</document>
+

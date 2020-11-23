@@ -1,0 +1,381 @@
+﻿Transcriber's note
+
+Minor punctuation errors have been changed without notice. Printer errors have been changed
+and are listed at the end. All other inconsistencies are as in the original.
+
+ESSAYS:
+
+SCIENTIFIC, POLITICAL, & SPECULATIVE.
+
+BY
+
+HERBERT SPENCER.
+
+LIBRARY EDITION,
+
+(OTHERWISE FIFTH THOUSAND)
+
+Containing Seven Essays not before Republished, and various other additions.
+
+VOL. I.
+
+   WILLIAMS AND NORGATE,
+   14, HENRIETTA STREET, COVENT GARDEN, LONDON:
+   AND 20. SOUTH FREDERICK STREET. EDINBURGH.
+   1891.
+
+   LONDON:
+   G. NORMAN AND SON, PRINTERS, HART STREET,
+   COVENT GARDEN.
+
+PREFACE
+
+Excepting those which have appeared as articles in periodicals during the last eight years,
+the essays here gathered together were originally re-published in separate volumes at long
+intervals. The first volume appeared in December 1857; the second in November 1863; and the
+third in February 1874. By the time the original editions of the first two had been sold, American
+reprints, differently entitled and having the essays differently arranged, had been produced;
+and, for economy's sake, I have since contented myself with importing successive supplies printed
+from the American stereotype plates. Of the third volume, however, supplies have, as they were
+required, been printed over here, from plates partly American and partly English. The completion
+of this final edition of course puts an end to this make-shift arrangement.
+
+The essays above referred to as having been written since 1882, are now incorporated with those
+previously re-published. There are seven of them; namely--"Morals and Moral Sentiments," "The
+Factors of Organic Evolution," "Professor Green's Explanations," "The Ethics of Kant," "Absolute
+Political Ethics," "From Freedom to Bondage," and "The Americans." As well as these large additions
+there are small additions, in the shape of postscripts to various essays--one to "The Constitution
+of the Sun," one to "The Philosophy of Style," one to "Railway Morals," one to "Prison Ethics,"
+and one to "The Origin and Function of Music:" which last is about equal in length to the original
+essay. Changes have been made in many of the essays: in some cases by omitting passages and
+in other cases by including new ones. Especially the essay on "The Nebular Hypothesis" may
+be named as one which, though unchanged in essentials, has been much altered by additions and
+subtractions, and by bringing its statements up to date; so that it has been in large measure
+re-cast. Beyond these respects in which this final edition differs from preceding editions,
+it differs in having undergone a verification of its references and quotations, as well as
+a second verbal revision.
+
+Naturally the fusion of three separate series of essays into one series, has made needful a
+general re-arrangement. Whether to follow the order of time or the order of subjects was a
+question which presented itself; and, as neither alternative promised satisfactory results,
+I eventually decided to compromise--to follow partly the one order and partly the other. The
+first volume is made up of essays in which the idea of evolution, general or special, is dominant.
+In the second volume essays dealing with philosophical questions, with abstract and concrete
+science, and with aesthetics, are brought together; but though all of them are tacitly evolutionary,
+their evolutionism is an incidental rather than a necessary trait. The ethical, political,
+and social essays composing the third volume, though mostly written from the evolution point
+of view, have for their more immediate purposes the enunciation of doctrines which are directly
+practical in their bearings. Meanwhile, within each volume the essays are arranged in order
+of time: not indeed strictly, but so far as consists with the requirements of sub-classing.
+
+Beyond the essays included in these three volumes, there remain several which I have not thought
+it well to include--in some cases because of their personal character, in other cases because
+of their relative unimportance, and in yet other cases because they would scarcely be understood
+in the absence of the arguments to which they are replies. But for the convenience of any who
+may wish to find them, I append their titles and places of publication. These are as follows:--"Retrogressive
+Religion," in The Nineteenth Century for July 1884; "Last Words about Agnosticism and the Religion
+of Humanity," in The Nineteenth Century for November 1884; a note to Prof. Cairns' Critique
+on the Study of Sociology, in The Fortnightly Review, for February 1875; "A Short Rejoinder"
+[to Mr. J. F. McLennan], Fortnightly Review, June 1877; "Prof. Goldwin Smith as a Critic,"
+Contemporary Review, March 1882; "A Rejoinder to M. de Laveleye," Contemporary Review, April 1885.
+
+LONDON, December, 1890.
+
+CONTENTS OF VOL. I.
+
+                                                                    PAGE
+
+   THE DEVELOPMENT HYPOTHESIS                                          1
+
+   PROGRESS: ITS LAW AND CAUSE                                         8
+
+   TRANSCENDENTAL PHYSIOLOGY                                          63
+
+   THE NEBULAR HYPOTHESIS                                            108
+
+   ILLOGICAL GEOLOGY                                                 192
+
+   BAIN ON THE EMOTIONS AND THE WILL                                 241
+
+   THE SOCIAL ORGANISM                                               265
+
+   THE ORIGIN OF ANIMAL WORSHIP                                      308
+
+   MORALS AND MORAL SENTIMENTS                                       331
+
+   THE COMPARATIVE PSYCHOLOGY OF MAN                                 351
+
+   MR. MARTINEAU ON EVOLUTION                                        371
+
+   THE FACTORS OF ORGANIC EVOLUTION                                  389
+
+   (For Index, see Volume III.)
+
+THE DEVELOPMENT HYPOTHESIS.
+
+    [Originally published in The Leader, for March 20, 1852. Brief
+    though it is, I place this essay before the rest, partly because
+    with the exception of a similarly-brief essay on "Use and Beauty",
+    it came first in order of time, but chiefly because it came first in
+    order of thought, and struck the keynote of all that was to
+    follow.]
+
+In a debate upon the development hypothesis, lately narrated to me by a friend, one of the
+disputants was described as arguing that as, in all our experience, we know no such phenomenon
+as transmutation of species, it is unphilosophical to assume that transmutation of species
+ever takes place. Had I been present I think that, passing over his assertion, which is open
+to criticism, I should have replied that, as in all our experience we have never known a species
+created, it was, by his own showing, unphilosophical to assume that any species ever had been
+created.
+
+Doubtless many will reply that they can more easily conceive ten millions of special creations
+to have taken place, than they can conceive that ten millions of varieties have arisen by successive
+modifications. All such, however, will find, on inquiry, that they are under an illusion. This
+is one of the many cases in which men do not really believe, but rather believe they believe.
+It is not that they can truly conceive ten millions of special creations to have taken place,
+but that they think they can do so. Careful introspection will show them that they have never
+yet realized to themselves the creation of even one species. If they have formed a definite
+conception of the process, let them tell us how a new species is constructed, and how it makes
+its appearance. Is it thrown down from the clouds? or must we hold to the notion that it struggles
+up out of the ground? Do its limbs and viscera rush together from all the points of the compass?
+or must we receive the old Hebrew idea, that God takes clay and moulds a new creature? If they
+say that a new creature is produced in none of these modes, which are too absurd to be believed,
+then they are required to describe the mode in which a new creature may be produced--a mode
+which does not seem absurd; and such a mode they will find that they neither have conceived
+nor can conceive.
+
+Should the believers in special creations consider it unfair thus to call upon them to describe
+how special creations take place, I reply that this is far less than they demand from the supporters
+of the Development Hypothesis. They are merely asked to point out a conceivable mode. On the
+other hand, they ask, not simply for a conceivable mode, but for the actual mode. They do not
+say--Show us how this may take place; but they say--Show us how this does take place. So far
+from its being unreasonable to put the above question, it would be reasonable to ask not only
+for a possible mode of special creation, but for an ascertained mode; seeing that this is no
+greater a demand than they make upon their opponents.
+
+And here we may perceive how much more defensible the new doctrine is than the old one. Even
+could the supporters of the Development Hypothesis merely show that the origination of species
+by the process of modification is conceivable, they would be in a better position than their
+opponents. But they can do much more than this. Though, from the impossibility of getting at
+a sufficiency of facts, they are unable to trace the many phases through which any existing
+species has passed in arriving at its present form, or to identify the influences which caused
+the successive modifications; yet, they can show that any existing species--animal or vegetable--when
+placed under conditions different from its previous ones, immediately begins to undergo certain
+changes fitting it for the new conditions. They can show that in successive generations these
+changes continue; until, ultimately, the new conditions become the natural ones. They can show
+that it is a matter of dispute whether some of these modified forms are varieties or separate
+species.
+
+Which, then, is the most rational hypothesis?--that of special creations which has neither
+a fact to support it nor is even definitely conceivable; or that of modification, which is
+not only definitely conceivable, but is countenanced by the habitudes of every existing organism?
+
+That by any series of changes a protozoon should ever become a mammal, seems to those who are
+not familiar with zoology, and who have not seen how clear becomes the relationship between
+the simplest and the most complex forms when intermediate forms are examined, a very grotesque
+notion. Habitually looking at things rather in their statical aspect than in their dynamical
+aspect, they never realize the fact that, by small increments of modification, any amount of
+modification may in time be generated. That surprise which they feel on finding one whom they
+last saw as a boy, grown into a man, becomes incredulity when the degree of change is greater.
+Nevertheless, abundant instances are at hand of the mode in which we may pass to the most diverse
+forms by insensible gradations. Arguing the matter some time since with a learned professor,
+I illustrated my position thus:--You admit that there is no apparent relationship between a
+circle and an hyperbola. The one is a finite curve; the other is an infinite one. All parts
+of the one are alike; of the other no parts are alike [save parts on its opposite sides]. The
+one incloses a space; the other will not inclose a space though produced for ever. Yet opposite
+as are these curves in all their properties, they may be connected together by a series of
+intermediate curves, no one of which differs from the adjacent ones in any appreciable degree.
+Thus, if a cone be cut by a plane at right angles to its axis we get a circle. If, instead
+of being perfectly at right angles, the plane subtends with the axis an angle of 89° 59´, we
+have an ellipse which no human eye, even when aided by an accurate pair of compasses, can distinguish
+from a circle. Decreasing the angle minute by minute, the ellipse becomes first perceptibly
+eccentric, then manifestly so, and by and by acquires so immensely elongated a form, as to
+bear no recognizable resemblance to a circle. By continuing this process, the ellipse passes
+insensibly into a parabola; and, ultimately, by still further diminishing the angle, into an
+hyperbola. Now here we have four different species of curve--circle, ellipse, parabola, and
+hyperbola--each having its peculiar properties and its separate equation, and the first and
+last of which are quite opposite in nature, connected together as members of one series, all
+producible by a single process of insensible modification.
+
+But the blindness of those who think it absurd to suppose that complex organic forms may have
+arisen by successive modifications out of simple ones, becomes astonishing when we remember
+that complex organic forms are daily being thus produced. A tree differs from a seed immeasurably
+in every respect--in bulk, in structure, in colour, in form, in chemical composition: differs
+so greatly that no visible resemblance of any kind can be pointed out between them. Yet is
+the one changed in the course of a few years into the other: changed so gradually, that at
+no moment can it be said--Now the seed ceases to be, and the tree exists. What can be more
+widely contrasted than a newly-born child and the small, semi-transparent spherule constituting
+the human ovum? The infant is so complex in structure that a cyclopædia is needed to describe
+its constituent parts. The germinal vesicle is so simple that it may be defined in a line.
+Nevertheless a few months suffice to develop the one out of the other; and that, too, by a
+series of modifications so small, that were the embryo examined at successive minutes, even
+a microscope would with difficulty disclose any sensible changes. That the uneducated and the
+ill-educated should think the hypothesis that all races of beings, man inclusive, may in process
+of time have been evolved from the simplest monad, a ludicrous one, is not to be wondered at.
+But for the physiologist, who knows that every individual being is so evolved--who knows, further,
+that in their earliest condition the germs of all plants and animals whatever are so similar,
+"that there is no appreciable distinction amongst them, which would enable it to be determined
+whether a particular molecule is the germ of a Conferva or of an Oak, of a Zoophyte or of a
+Man;"[1]--for him to make a difficulty of the matter is inexcusable. Surely if a single cell
+may, when subjected to certain influences, become a man in the space of twenty years; there
+is nothing absurd in the hypothesis that under certain other influences, a cell may, in the
+course of millions of years, give origin to the human race.
+
+We have, indeed, in the part taken by many scientific men in this controversy of "Law versus
+Miracle," a good illustration of the tenacious vitality of superstitions. Ask one of our leading
+geologists or physiologists whether he believes in the Mosaic account of the creation, and
+he will take the question as next to an insult. Either he rejects the narrative entirely, or
+understands it in some vague nonnatural sense. Yet one part of it he unconsciously adopts;
+and that, too, literally. For whence has he got this notion of "special creations," which he
+thinks so reasonable, and fights for so vigorously? Evidently he can trace it back to no other
+source than this myth which he repudiates. He has not a single fact in nature to cite in proof
+of it; nor is he prepared with any chain of reasoning by which it may be established. Catechize
+him, and he will be forced to confess that the notion was put into his mind in childhood as
+part of a story which he now thinks absurd. And why, after rejecting all the rest of the story,
+he should strenuously defend this last remnant of it, as though he had received it on valid
+authority, he would be puzzled to say.
+
+FOOTNOTE:
+
+[Footnote 1: Carpenter, Principles of Comparative Physiology, p. 474.]
+
+PROGRESS: ITS LAW AND CAUSE.
+
+    [First published in The Westminster Review for April, 1857.
+    Though the ideas and illustrations contained in this essay were
+    eventually incorporated in First Principles, yet I think it well
+    here to reproduce it as exhibiting the form under which the General
+    Doctrine of Evolution made its first appearance.]
+
+The current conception of progress is shifting and indefinite. Sometimes it comprehends little
+more than simple growth--as of a nation in the number of its members and the extent of territory
+over which it spreads. Sometimes it has reference to quantity of material products--as when
+the advance of agriculture and manufactures is the topic. Sometimes the superior quality of
+these products is contemplated; and sometimes the new or improved appliances by which they
+are produced. When, again, we speak of moral or intellectual progress, we refer to states of
+the individual or people exhibiting it; while, when the progress of Science, or Art, is commented
+upon, we have in view certain abstract results of human thought and action. Not only, however,
+is the current conception of progress more or less vague, but it is in great measure erroneous.
+It takes in not so much the reality of progress as its accompaniments--not so much the substance
+as the shadow. That progress in intelligence seen during the growth of the child into the man,
+or the savage into the philosopher, is commonly regarded as consisting in the greater number
+of facts known and laws understood; whereas the actual progress consists in those internal
+modifications of which this larger knowledge is the expression. Social progress is supposed
+to consist in the making of a greater quantity and variety of the articles required for satisfying
+men's wants; in the increasing security of person and property; in widening freedom of action;
+whereas, rightly understood, social progress consists in those changes of structure in the
+social organism which have entailed these consequences. The current conception is a teleological
+one. The phenomena are contemplated solely as bearing on human happiness. Only those changes
+are held to constitute progress which directly or indirectly tend to heighten human happiness;
+and they are thought to constitute progress simply because they tend to heighten human happiness.
+But rightly to understand progress, we must learn the nature of these changes, considered apart
+from our interests. Ceasing, for example, to regard the successive geological modifications
+that have taken place in the Earth, as modifications that have gradually fitted it for the
+habitation of Man, and as therefore constituting geological progress, we must ascertain the
+character common to these modifications--the law to which they all conform. And similarly in
+every other case. Leaving out of sight concomitants and beneficial consequences, let us ask
+what progress is in itself.
+
+In respect to that progress which individual organisms display in the course of their evolution,
+this question has been answered by the Germans. The investigations of Wolff, Goethe, and von
+Baer, have established the truth that the series of changes gone through during the development
+of a seed into a tree, or an ovum into an animal, constitute an advance from homogeneity of
+structure to heterogeneity of structure. In its primary stage, every germ consists of a substance
+that is uniform throughout, both in texture and chemical composition. The first step is the
+appearance of a difference between two parts of this substance; or, as the phenomenon is called
+in physiological language, a differentiation. Each of these differentiated divisions presently
+begins itself to exhibit some contrast of parts: and by and by these secondary differentiations
+become as definite as the original one. This process is continuously repeated--is simultaneously
+going on in all parts of the growing embryo; and by endless such differentiations there is
+finally produced that complex combination of tissues and organs constituting the adult animal
+or plant. This is the history of all organisms whatever. It is settled beyond dispute that
+organic progress consists in a change from the homogeneous to the heterogeneous.
+
+Now, we propose in the first place to show, that this law of organic progress is the law of
+all progress. Whether it be in the development of the Earth, in the development of Life upon
+its surface, in the development of Society, of Government, of Manufactures, of Commerce, of
+Language, Literature, Science, Art, this same evolution of the simple into the complex, through
+successive differentiations, holds throughout. From the earliest traceable cosmical changes
+down to the latest results of civilization, we shall find that the transformation of the homogeneous
+into the heterogeneous, is that in which progress essentially consists.
+
+With the view of showing that if the Nebular Hypothesis be true, the genesis of the solar system
+supplies one illustration of this law, let us assume that the matter of which the sun and planets
+consist was once in a diffused form; and that from the gravitation of its atoms there resulted
+a gradual concentration. By the hypothesis, the solar system in its nascent state existed as
+an indefinitely extended and nearly homogeneous medium--a medium almost homogeneous in density,
+in temperature, and in other physical attributes. The first change in the direction of increased
+aggregation, brought a contrast in density and a contrast in temperature, between the interior
+and the exterior of this mass. Simultaneously the drawing in of outer parts caused motions
+ending in rotation round a centre with various angular velocities. These differentiations increased
+in number and degree until there was evolved the organized group of sun, planets, and satellites,
+which we now know--a group which presents numerous contrasts of structure and action among
+its members. There are the immense contrasts between the sun and the planets, in bulk and in
+weight; as well as the subordinate contrasts between one planet and another, and between the
+planets and their satellites. There is the similarly-marked contrast between the sun as almost
+stationary (relatively to the other members of the Solar System), and the planets as moving
+round him with great velocity: while there are the secondary contrasts between the velocities
+and periods of the several planets, and between their simple revolutions and the double ones
+of their satellites, which have to move round their primaries while moving round the sun. There
+is the yet further strong contrast between the sun and the planets in respect of temperature;
+and there is good reason to suppose that the planets and satellites differ from each other
+in their proper heats, as well as in the amounts of heat they receive from the sun. When we
+bear in mind that, in addition to these various contrasts, the planets and satellites also
+differ in respect to their distances from each other and their primary; in respect to the inclinations
+of their orbits, the inclinations of their axes, their times of rotation on their axes, their
+specific gravities, and their physical constitutions; we see what a high degree of heterogeneity
+the solar system exhibits, when compared with the almost complete homogeneity of the nebulous
+mass out of which it is supposed to have originated.
+
+Passing from this hypothetical illustration, which must be taken for what it is worth, without
+prejudice to the general argument, let us descend to a more certain order of evidence. It is
+now generally agreed among geologists and physicists that the Earth was at one time a mass
+of molten matter. If so, it was at that time relatively homogeneous in consistence, and, in
+virtue of the circulation which takes place in heated fluids, must have been comparatively
+homogeneous in temperature; and it must have been surrounded by an atmosphere consisting partly
+of the elements of air and water, and partly of those various other elements which are among
+the more ready to assume gaseous forms at high temperatures. That slow cooling by radiation
+which is still going on at an inappreciable rate, and which, though originally far more rapid
+than now, necessarily required an immense time to produce any decided change, must ultimately
+have resulted in the solidification of the portion most able to part with its heat--namely,
+the surface. In the thin crust thus formed we have the first marked differentiation. A still
+further cooling, a consequent thickening of this crust, and an accompanying deposition of all
+solidifiable elements contained in the atmosphere, must finally have been followed by the condensation
+of the water previously existing as vapour. A second marked differentiation must thus have
+arisen; and as the condensation must have taken place on the coolest parts of the surface--namely,
+about the poles--there must thus have resulted the first geographical distinction of parts.
+To these illustrations of growing heterogeneity, which, though deduced from known physical
+laws, may be regarded as more or less hypothetical, Geology adds an extensive series that have
+been inductively established. Investigations show that the Earth has been continually becoming
+more heterogeneous in virtue of the multiplication of sedimentary strata which form its crust;
+also, that it has been becoming more heterogeneous in respect of the composition of these strata,
+the later of which, being made from the detritus of the earlier, are many of them rendered
+highly complex by the mixture of materials they contain; and further, that this heterogeneity
+has been vastly increased by the actions of the Earth's still molten nucleus upon its envelope,
+whence have resulted not only many kinds of igneous rocks, but the tilting up of sedimentary
+strata at all angles, the formation of faults and metallic veins, the production of endless
+dislocations and irregularities. Yet again, geologists teach us that the Earth's surface has
+been growing more varied in elevation--that the most ancient mountain systems are the smallest,
+and the Andes and Himalayas the most modern; while in all probability there have been corresponding
+changes in the bed of the ocean. As a consequence of these ceaseless differentiations, we now
+find that no considerable portion of the Earth's exposed surface is like any other portion,
+either in contour, in geologic structure, or in chemical composition; and that in most parts
+it changes from mile to mile in all these characters. Moreover, there has been simultaneously
+going on a differentiation of climates. As fast as the Earth cooled and its crust solidified,
+there arose appreciable differences in temperature between those parts of its surface more
+exposed to the sun and those less exposed. As the cooling progressed, these differences became
+more pronounced; until there finally resulted those marked contrasts between regions of perpetual
+ice and snow, regions where winter and summer alternately reign for periods varying according
+to the latitude, and regions where summer follows summer with scarcely an appreciable variation.
+At the same time the many and varied elevations and subsidences of portions of the Earth's
+crust, bringing about the present irregular distribution of land and sea, have entailed modifications
+of climate beyond those dependent on latitude; while a yet further series of such modifications
+have been produced by increasing differences of elevation in the land, which have in sundry
+places brought arctic, temperate, and tropical climates to within a few miles of one another.
+And the general outcome of these changes is, that not only has every extensive region its own
+meteorologic conditions, but that every locality in each region differs more or less from others
+in those conditions; as in its structure, its contour, its soil. Thus, between our existing
+Earth, the phenomena of whose crust neither geographers, geologists, mineralogists, nor meteorologists
+have yet enumerated, and the molten globe out of which it was evolved, the contrast in heterogeneity
+is extreme.
+

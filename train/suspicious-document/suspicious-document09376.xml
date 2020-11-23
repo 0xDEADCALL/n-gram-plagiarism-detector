@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09376.txt">
+  <feature name="about" authors="Ozaki, Yei Theodora" title="Japanese Fairy Tales" lang="en" />
+  <feature name="md5Hash" value="82ac48f6bdc258618ca2eb64a8f45df5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82842" this_length="16840" source_reference="source-document08372.txt" source_language="en" source_offset="213194" source_length="16003" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="186413" this_length="13890" source_reference="source-document08130.txt" source_language="en" source_offset="33292" source_length="16598" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="228836" this_length="3186" source_reference="source-document03656.txt" source_language="en" source_offset="0" source_length="3271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="255163" this_length="16695" source_reference="source-document08372.txt" source_language="en" source_offset="156951" source_length="16973" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="357321" this_length="1989" source_reference="source-document08372.txt" source_language="en" source_offset="151889" source_length="2032" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="364623" this_length="243" source_reference="source-document08130.txt" source_language="en" source_offset="252467" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="366966" this_length="244" source_reference="source-document03656.txt" source_language="en" source_offset="3271" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="368244" this_length="276" source_reference="source-document03656.txt" source_language="en" source_offset="3497" source_length="274" />
+</document>
+

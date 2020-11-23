@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06800.txt">
+  <feature name="about" authors="Bartimeus" title="A Tall Ship On Other Naval Occasions" lang="en" />
+  <feature name="md5Hash" value="d73fb26246aa98e36a994ff2fdf7d50c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="2050" source_reference="source-document04932.txt" source_language="en" source_offset="163" source_length="1986" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2352" this_length="14923" source_reference="source-document06251.txt" source_language="en" source_offset="2791" source_length="15536" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18405" this_length="17810" source_reference="source-document07274.txt" source_language="en" source_offset="55952" source_length="18261" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37046" this_length="4664" source_reference="source-document04932.txt" source_language="en" source_offset="2406" source_length="4733" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41860" this_length="20691" source_reference="source-document07274.txt" source_language="en" source_offset="100060" source_length="21336" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="63689" this_length="3367" source_reference="source-document10561.txt" source_language="en" source_offset="6076" source_length="3528" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="68096" this_length="22160" source_reference="source-document07274.txt" source_language="en" source_offset="24402" source_length="22574" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="91345" this_length="20912" source_reference="source-document07274.txt" source_language="en" source_offset="75015" source_length="21606" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="112849" this_length="17241" source_reference="source-document07274.txt" source_language="en" source_offset="2834" source_length="17831" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="131656" this_length="19233" source_reference="source-document10704.txt" source_language="en" source_offset="5249" source_length="21495" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="151684" this_length="16031" source_reference="source-document06251.txt" source_language="en" source_offset="18836" source_length="15864" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="168379" this_length="3553" source_reference="source-document07274.txt" source_language="en" source_offset="127884" source_length="3590" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="172445" this_length="15577" source_reference="source-document06057.txt" source_language="en" source_offset="34325" source_length="16517" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="188558" this_length="4462" source_reference="source-document10704.txt" source_language="en" source_offset="628" source_length="4501" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="193224" this_length="17053" source_reference="source-document03522.txt" source_language="en" source_offset="123096" source_length="16955" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="211109" this_length="1961" source_reference="source-document06225.txt" source_language="en" source_offset="1169" source_length="1979" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="213185" this_length="2319" source_reference="source-document06225.txt" source_language="en" source_offset="4287" source_length="2346" />
+</document>
+

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10053.txt">
+  <feature name="about" authors="Wagner, Belle M." title="Within the Temple of Isis" lang="en" />
+  <feature name="md5Hash" value="846e9b1250d0f9d926363f6c72b71163" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4265" this_length="1633" source_reference="source-document09552.txt" source_language="en" source_offset="72060" source_length="1695" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11118" this_length="740" source_reference="source-document07590.txt" source_language="en" source_offset="61024" source_length="782" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13973" this_length="508" source_reference="source-document09552.txt" source_language="en" source_offset="113349" source_length="541" />
+</document>
+

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05406.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="Biographical Stories (From: &quot;True Stories of History and Biography&quot;)" lang="en" />
+  <feature name="md5Hash" value="4090d69a3c173667f97372529fb79ace" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="5702" this_length="3761" source_reference="source-document10460.txt" source_language="es" source_offset="3525" source_length="4248" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="13079" this_length="15829" source_reference="source-document10944.txt" source_language="es" source_offset="46247" source_length="17143" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="59970" this_length="256" source_reference="source-document10460.txt" source_language="es" source_offset="16699" source_length="269" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="62011" this_length="4345" source_reference="source-document03526.txt" source_language="es" source_offset="315648" source_length="4814" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="82900" this_length="4387" source_reference="source-document10460.txt" source_language="es" source_offset="11692" source_length="5007" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="89824" this_length="1653" source_reference="source-document10460.txt" source_language="es" source_offset="8419" source_length="1867" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="99127" this_length="3780" source_reference="source-document03526.txt" source_language="es" source_offset="159865" source_length="4240" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="106889" this_length="1601" source_reference="source-document10944.txt" source_language="es" source_offset="266506" source_length="1744" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="110098" this_length="645" source_reference="source-document03526.txt" source_language="es" source_offset="576727" source_length="720" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="111499" this_length="445" source_reference="source-document03526.txt" source_language="es" source_offset="207788" source_length="478" />
+</document>
+

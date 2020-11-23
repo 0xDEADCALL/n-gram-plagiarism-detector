@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00027.txt">
+  <feature name="about" authors="Swinburne, Algernon Charles" title="Chastelard, a tragedy" lang="en" />
+  <feature name="md5Hash" value="3fcd558a2d2f9bf5995e26b36497163b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1714" this_length="484" source_reference="source-document08792.txt" source_language="en" source_offset="10104" source_length="498" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4839" this_length="538" source_reference="source-document08792.txt" source_language="en" source_offset="30214" source_length="522" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7888" this_length="256" source_reference="source-document08792.txt" source_language="en" source_offset="6788" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9163" this_length="269" source_reference="source-document08792.txt" source_language="en" source_offset="27730" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12791" this_length="1811" source_reference="source-document08792.txt" source_language="en" source_offset="25793" source_length="1794" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21622" this_length="237" source_reference="source-document08792.txt" source_language="en" source_offset="8431" source_length="229" />
+</document>
+

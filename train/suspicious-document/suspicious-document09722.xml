@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09722.txt">
+  <feature name="about" authors="Twain, Mark" title="Life on the Mississippi, Part 12." lang="en" />
+  <feature name="md5Hash" value="cb7c3d3661497a5c5f23585d29782c61" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="174" this_length="272" source_reference="source-document00861.txt" source_language="en" source_offset="2537" source_length="239" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1764" this_length="502" source_reference="source-document00861.txt" source_language="en" source_offset="20987" source_length="492" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2931" this_length="228" source_reference="source-document05425.txt" source_language="en" source_offset="1212" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4279" this_length="530" source_reference="source-document00861.txt" source_language="en" source_offset="11409" source_length="508" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5788" this_length="279" source_reference="source-document05425.txt" source_language="en" source_offset="2063" source_length="258" />
+</document>
+

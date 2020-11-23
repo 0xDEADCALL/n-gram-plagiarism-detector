@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09600.txt">
+  <feature name="about" authors="Wharton, Edith" title="The Early Short Fiction of Edith Wharton — Part 1" lang="en" />
+  <feature name="md5Hash" value="39b93762f009b0b73b08208637f040e0" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2946" this_length="515" source_reference="source-document05246.txt" source_language="en" source_offset="8940" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6506" this_length="247" source_reference="source-document04842.txt" source_language="en" source_offset="77584" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9816" this_length="664" source_reference="source-document04842.txt" source_language="en" source_offset="141120" source_length="680" />
+</document>
+

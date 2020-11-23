@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04640.txt">
+  <feature name="about" authors="Laut, Agnes Christina" title="The Cariboo Trail A Chronicle of the Gold-fields of British Columbia" lang="en" />
+  <feature name="md5Hash" value="6767888c50da6354a71e4e24e6e683e7" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="42626" this_length="12402" source_reference="source-document05594.txt" source_language="en" source_offset="132330" source_length="20033" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="103771" this_length="3537" source_reference="source-document00345.txt" source_language="en" source_offset="60393" source_length="3536" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115068" this_length="2234" source_reference="source-document00345.txt" source_language="en" source_offset="257666" source_length="2302" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="123039" this_length="778" source_reference="source-document06238.txt" source_language="en" source_offset="476245" source_length="805" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="127234" this_length="485" source_reference="source-document00345.txt" source_language="en" source_offset="132490" source_length="475" />
+</document>
+

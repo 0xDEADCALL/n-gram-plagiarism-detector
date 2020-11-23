@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03249.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="Old Times at Otterbourne" lang="en" />
+  <feature name="md5Hash" value="c24d794626ed8da3931159c594c0e7d5" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="547" this_length="3098" source_reference="source-document00354.txt" source_language="es" source_offset="194830" source_length="3464" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="3906" this_length="220" source_reference="source-document05189.txt" source_language="es" source_offset="90429" source_length="249" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="4363" this_length="1624" source_reference="source-document05189.txt" source_language="es" source_offset="454394" source_length="1818" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6434" this_length="2172" source_reference="source-document05189.txt" source_language="es" source_offset="519400" source_length="2459" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="10059" this_length="4205" source_reference="source-document00354.txt" source_language="es" source_offset="176680" source_length="4695" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="14877" this_length="1206" source_reference="source-document05189.txt" source_language="es" source_offset="177477" source_length="1425" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="16418" this_length="705" source_reference="source-document00354.txt" source_language="es" source_offset="90548" source_length="791" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17348" this_length="216" source_reference="source-document00354.txt" source_language="es" source_offset="185089" source_length="235" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="17565" this_length="244" source_reference="source-document00354.txt" source_language="es" source_offset="162359" source_length="274" />
+</document>
+

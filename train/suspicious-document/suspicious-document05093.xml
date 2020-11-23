@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05093.txt">
+  <feature name="about" authors="Morgan, Andrew Price" title="The Myxomycetes of the Miami Valley, Ohio" lang="en" />
+  <feature name="md5Hash" value="cac001fe49513e0157ead74eaf01475c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3584" this_length="9736" source_reference="source-document04669.txt" source_language="en" source_offset="496098" source_length="23215" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="20109" this_length="7009" source_reference="source-document06097.txt" source_language="en" source_offset="5246" source_length="19773" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31860" this_length="13836" source_reference="source-document06097.txt" source_language="en" source_offset="38051" source_length="17765" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46594" this_length="5186" source_reference="source-document06097.txt" source_language="en" source_offset="26953" source_length="4914" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="52458" this_length="17565" source_reference="source-document04669.txt" source_language="en" source_offset="149610" source_length="17927" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="74697" this_length="1628" source_reference="source-document06097.txt" source_language="en" source_offset="3649" source_length="1597" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="76812" this_length="4839" source_reference="source-document06097.txt" source_language="en" source_offset="33178" source_length="4578" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="82783" this_length="5021" source_reference="source-document04669.txt" source_language="en" source_offset="440849" source_length="4970" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="89428" this_length="14726" source_reference="source-document04669.txt" source_language="en" source_offset="635699" source_length="15446" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="110441" this_length="9356" source_reference="source-document04669.txt" source_language="en" source_offset="63633" source_length="20474" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="121736" this_length="7684" source_reference="source-document04669.txt" source_language="en" source_offset="317412" source_length="16453" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="133832" this_length="4006" source_reference="source-document04669.txt" source_language="en" source_offset="139963" source_length="4162" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="138623" this_length="263" source_reference="source-document04669.txt" source_language="en" source_offset="18575" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139030" this_length="468" source_reference="source-document04669.txt" source_language="en" source_offset="560434" source_length="475" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="139633" this_length="242" source_reference="source-document06097.txt" source_language="en" source_offset="2196" source_length="227" />
+</document>
+

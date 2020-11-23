@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05131.txt">
+  <feature name="about" authors="Savory, Isabel" title="In the Tail of the Peacock" lang="en" />
+  <feature name="md5Hash" value="d398301346338c6f5ea8f2dcb36dbdeb" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1574" this_length="18243" source_reference="source-document05791.txt" source_language="en" source_offset="279266" source_length="18767" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="28762" this_length="4097" source_reference="source-document05791.txt" source_language="en" source_offset="530226" source_length="3985" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="34931" this_length="1698" source_reference="source-document05791.txt" source_language="en" source_offset="554237" source_length="1726" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="45825" this_length="24075" source_reference="source-document05791.txt" source_language="en" source_offset="215823" source_length="24964" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81303" this_length="19803" source_reference="source-document05791.txt" source_language="en" source_offset="675419" source_length="21517" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="107663" this_length="3814" source_reference="source-document05791.txt" source_language="en" source_offset="593073" source_length="3906" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115776" this_length="15356" source_reference="source-document05791.txt" source_language="en" source_offset="385035" source_length="15663" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="140456" this_length="20735" source_reference="source-document05791.txt" source_language="en" source_offset="458972" source_length="19728" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="176817" this_length="22845" source_reference="source-document05791.txt" source_language="en" source_offset="565054" source_length="23009" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="206957" this_length="15837" source_reference="source-document05791.txt" source_language="en" source_offset="430676" source_length="17043" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="232468" this_length="23998" source_reference="source-document05791.txt" source_language="en" source_offset="93299" source_length="24552" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="268345" this_length="19384" source_reference="source-document05791.txt" source_language="en" source_offset="480800" source_length="24211" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="305297" this_length="8761" source_reference="source-document05791.txt" source_language="en" source_offset="21679" source_length="18998" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="316188" this_length="516" source_reference="source-document05791.txt" source_language="en" source_offset="614215" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="316892" this_length="249" source_reference="source-document05791.txt" source_language="en" source_offset="430292" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="317142" this_length="257" source_reference="source-document05791.txt" source_language="en" source_offset="183781" source_length="251" />
+</document>
+

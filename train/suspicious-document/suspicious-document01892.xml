@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01892.txt">
+  <feature name="about" authors="Yonge, Charlotte Mary" title="A Reputed Changeling Or Three Seventh Years Two Centuries Ago" lang="en" />
+  <feature name="md5Hash" value="69c2afc985db1257bc076698435cda8d" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21003" this_length="1507" source_reference="source-document09377.txt" source_language="en" source_offset="37256" source_length="1649" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="31044" this_length="245" source_reference="source-document09377.txt" source_language="en" source_offset="168076" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="36117" this_length="213" source_reference="source-document09377.txt" source_language="en" source_offset="185065" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47426" this_length="443" source_reference="source-document09377.txt" source_language="en" source_offset="228615" source_length="492" />
+</document>
+

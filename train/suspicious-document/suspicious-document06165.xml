@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06165.txt">
+  <feature name="about" authors="Sterne, Laurence" title="A Sentimental Journey Through France and Italy" lang="en" />
+  <feature name="md5Hash" value="d9638b6464f7409b84348fd4fb433b70" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9073" this_length="438" source_reference="source-document03976.txt" source_language="en" source_offset="233090" source_length="469" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19382" this_length="457" source_reference="source-document07681.txt" source_language="en" source_offset="1320" source_length="457" />
+</document>
+

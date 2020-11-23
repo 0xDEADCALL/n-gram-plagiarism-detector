@@ -1,0 +1,1010 @@
+﻿CASA GRANDE RUIN
+
+                       BY
+
+                COSMOS MINDELEFF
+
+       *       *       *       *       *
+
+CONTENTS
+
+Introduction                                   295
+  Location and character                       295
+  History and literature                       295
+Description                                    298
+  The Casa Grande group                        298
+  Casa Grande ruin                             306
+    State of preservation                      306
+    Dimensions                                 307
+    Detailed description                       309
+    Openings                                   314
+Conclusions                                    318
+
+ILLUSTRATIONS
+
+Plate LI. Map of Casa Grande group             298
+     LII. Ground plan of Casa Grande ruin      302
+    LIII. General view of Casa Grande ruin     305
+     LIV. Standing wall near Casa Grande       307
+      LV. Western front of Casa Grande ruin    309
+     LVI. Interior wall of Casa Grande ruin    310
+    LVII. Blocked opening in western wall      312
+   LVIII. Square opening in southern room      314
+     LIX. Remains of lintel                    317
+      LX. Circular opening in northern room    319
+
+Fig. 328. Map of large mound                   301
+     329. Map of hollow mound                  304
+     330. Elevations of walls, middle room     315
+
+       *       *       *       *       *
+
+                CASA GRANDE RUIN
+
+              By Cosmos Mindeleff
+
+       *       *       *       *       *
+
+INTRODUCTION.
+
+LOCATION AND CHARACTER.
+
+The Casa Grande ruin, situated near Gila river, in southern Arizona, is perhaps the best known
+specimen of aboriginal architecture in the United States, and no treatise on American antiquities
+is complete without a more or less extended description of it. Its literature, which extends
+over two centuries, is voluminous, but of little value to the practical scientific worker,
+since hardly two descriptions can be found which agree. The variations in size of the ruin
+given by various authors is astonishing, ranging from 1,500 square feet to nearly 5 acres or
+about 200,000 square feet in area. These extreme variations are doubtless due to difference
+of judgment as to what portion of the area covered by remains of walls should be assigned to
+the Casa Grande proper, for this structure is but a portion of a large group of ruins.
+
+So far as known to the writer no accurate plan of the Casa Grande ruin proper has hitherto
+been made, although plans have been published; and very few data concerning the group of which
+it forms a part are available. It would seem, therefore, that a brief report presenting accurate
+plans and careful descriptions may be of value, even though no pretention to exhaustive treatment
+is made.
+
+HISTORY AND LITERATURE.
+
+The earlier writers on the Casa Grande generally state that it was in ruins at the time of
+the first Spanish invasion of the country, in 1540, and quote in support of this assertion
+Castañeda's description of a ruin encountered on the march.[1] Castañeda remarks that, "The
+structure was in ruins and without a roof." Elsewhere he says that the name "Chichilticale"
+was given to the place where they stopped because the monks found in the vicinity a house which
+had been inhabited by a people who came from Cibola. He surmises that the ruin was formerly
+a fortress, destroyed long before by the barbarous tribes which they found in the country.
+His description of these tribes seems to apply to the Apache.
+
+    [Footnote 1: Castañeda in Ternaux-Compans. Voyage de Cibola. French
+    text, p. 1, pp. 41, 161-162. (The original text--Spanish--is in the
+    Lenox Library; no English translation has yet been published.)]
+
+The geographic data furnished by Castañeda and the other chroniclers of Coronado's expedition
+is very scanty, and the exact route followed has not yet been determined and probably never
+will be. So far as these data go, however, they are against the assumption that the Chichilticale
+of Castañeda is the Casa Grande of today. Mr. A. F. Bandelier, whose studies of the documentary
+history of the southwest are well known, inclines to the opinion that the vicinity of Old Camp
+Grant, on the Rio San Pedro, Arizona, more nearly fill the descriptions. Be this as it may,
+however, the work of Castañeda was lost to sight, and it is not until more than a century later
+that the authentic history of the ruin commences.
+
+In 1694 the Jesuit Father Kino heard of the ruin, and later in the same year visited it and
+said mass within its walls. His secretary and usual companion on his missionary journeys, Mange
+by name, was not with him on this occasion, but in 1697 another visit was paid to the ruin
+and the description recorded by Mange[1] in his diary heads the long list of accounts extending
+down to the present time.[2] Mange describes the ruin as consisting of--
+
+  A large edifice, the principal room in the center being four stories
+  high, and those adjoining it on its four sides three stories, with
+  walls 2 varas thick, of strong argamaso y baro (adobe) so smooth on
+  the inside that they resemble planed boards, and so polished that
+  they shine like Puebla pottery.
+
+    [Footnote 1: An English translation is given by H. H. Bancroft,
+    Works, iv, p. 622, note. Also by Bartlett, Personal Narrative, 1854,
+    vol. ii, pp. 281-282; another was published by Schoolcraft, Hist.
+    Cond. and Pros. of Am. Ind., vol. iii, 1853, p. 301.]
+
+    [Footnote 2: Quite an extensive list is given by Bancroft
+    (op. cit., pp. 622-625, notes), and by Bandelier in Papers Arch.
+    Inst. of Amer., American series, i, p. 11, note.]
+
+Mange also gives some details of construction, and states that in the immediate vicinity there
+were remains of twelve other buildings, the walls half fallen and the roofs burned out.
+
+Following Mange's account there were a number of descriptions of no special value, and a more
+useful one written by Padre Font, who in 1775 and 1776 made a journey to Gila and Colorado
+rivers and beyond. This description[1] is quite circumstantial and is of especial interest
+because it formed the basis of nearly all the accounts written up to the time when that country
+came into our possession. According to this authority--
+
+  The house forms an oblong square, facing exactly the four cardinal
+  points, and round about it there are ruins indicating a fence or
+  wall which surrounded the house and other buildings. The exterior or
+  plaza extends north and south 420 feet and east and west 260 feet.
+
+    [Footnote 1: A number of copies of Font's Journal are known.
+    Bancroft gives a partial translation in op. cit., p. 623, note, as
+    does also Bartlett (op. cit., pp. 278-280); and a French translation
+    is given by Ternaux Compans, ix, Voyages de Cibola, appendix.]
+
+Font measured the five rooms of the main building, and recorded many interesting details. It
+will be noticed that he described a surrounding wall inclosing a comparatively large area;
+and nearly all the writers who published accounts prior to our conquest of the country in 1846
+based their descriptions on Font's journal and erroneously applied his measurement of the supposed
+circumscribing wall to the Casa Grande proper.
+
+The conquest of the country by the "Army of the West" attracted attention anew to the ruin,
+through the descriptions of Colonel Emory and Captain Johnston. The expedition passed up the
+Gila valley, and Colonel Emory, in his journal, gives a fanciful illustration and a slight
+description. The journal of Captain Johnston contained a somewhat better description and a
+rough but fairly good sketch. The best description of that period, however, was that given
+by John Russell Bartlett, in his "Personal Narrative," published in 1854.
+
+Bartlett observed that the ruin consists of three buildings, "all included within an area of
+150 yards." He described these buildings and gave ground plans of two of them and elevations
+of the principal structure. He also gave a translation of a portion of Font's journal, as well
+as the previous description of Mange. He surmised that the central room of the main building,
+and perhaps the whole structure, was used for the storage of corn.
+
+Bartlett's account held place for nearly thirty years as the main reliance of compilers, and
+it forms today one of the most circumstantial and comprehensive descriptions extant. Other
+descriptions appeared at intervals of a few years, some compiled from Bartlett and Font, others
+based on personal observation, but none of them containing anything new, until the account
+of Mr. A. F. Bandelier, published some ten years ago,[1] is reached.
+
+    [Footnote 1: Archæological Inst. of Amer., 5th Ann. Rep., 1884.]
+
+Mr. Bandelier described the large group, of which the Casa Grande forms a part, and gave its
+dimensions as 400 meters (1,300 feet) north and south by 200 meters (650 feet) east and west.
+He also described and gave measurements of the Casa Grande proper and discusses its place in
+the field of aboriginal architecture. In a later publication[1] he discussed the ruin at somewhat
+greater length, and presented also a rough sketch plan of the group and ground plans of the
+Casa Grande and of the mound north of it. He gave a short history of the ruin and quite an
+extended account of the Pima traditions concerning it. He considered the Casa Grande a stronghold
+or fortress, a place of last resort, the counterpart, functionally, of the blockhouse of the
+early settlers of eastern United States.
+
+    [Footnote 1: Papers Archæol. Inst. of Amer., Amer. ser., iv,
+    Cambridge, 1892, p. 453 et sec.]
+
+In 1888 Mr. F. H. Cushing presented to the Congrès International des Américanistes[1] some
+"Preliminary notes" on his work as director of the Hemenway southwestern archeological expedition.
+Mr. Cushing did not describe the Casa Grande, but merely alluded to it as a surviving example
+of the temple, or principal structure, which occurred in conjunction with nearly all the settlements
+studied. As Mr. Cushing's work was devoted, however, to the investigation of remains analogous
+to, if not identical with, the Casa Grande, his report forms a valuable contribution to the
+literature of this subject, and although not everyone can accept the broad inferences and generalizations
+drawn by Mr. Cushing--of which he was able, unfortunately, to present only a mere statement--the
+report should be consulted by every student of southwestern archeology.
+
+    [Footnote 1: Berlin meeting, 1888; Compte-Rendu, Berlin, 1890,
+    p. 150 et seq.]
+
+The latest contribution to the literature of the Casa Grande is a report by Dr. J. Walter Fewkes,[1]
+also of the Hemenway expedition, under the title "On the present condition of a ruin in Arizona
+called Casa Grande." Two magnificent illustrations are presented, engravings from photographs,
+showing general views of the ruin, as well as a number of views depicting details, and the
+ground plan presented at the end of the report is the best so far published. It is unfortunate
+that this author was not able to give more time to the study of the ruin; yet his report is
+a valuable contribution to our knowledge concerning the Casa Grande.
+
+    [Footnote 1: Jour. of Amer. Ethn. and Arch., Cambridge, 1892, vol.
+    ii, page 179 et seq.]
+
+DESCRIPTION.
+
+THE CASA GRANDE GROUP.
+
+The Casa Grande has been variously placed at from 2 leagues to 2 miles south of Gila river.
+The writer has never traversed the distance from the ruin to the river, but the ruin is about
+a mile from Walker ranch, which is well known in that neighborhood, and about half a mile from
+the river. This question, however, is not of much importance, as the ruin is easily found by
+anyone looking for it, being located directly on one of the stage routes from Casa Grande station,
+on the Southern Pacific railroad, to Florence, Arizona, and about 9 miles below, or west of,
+the latter place.
+
+The name Casa Grande has been usually applied to a single structure standing near the southwestern
+corner of a large area covered by mounds and other débris, but some writers have applied it
+to the southwestern portion of the area and even to the whole area. The latter seems the proper
+application of the term, but to avoid confusion, where both the settlement as a whole and that
+portion which has formed the theme of so many writers are referred to, the settlement will
+be designated as the Casa Grande group, and the single structure with standing walls as the
+Casa Grande ruin.
+
+Probably no two investigators would assign the same limits to the area covered by the group,
+as the margins of this area merge imperceptibly into the surrounding country. The accompanying
+map (plate LI) shows this area as interpreted by the writer. The surface covered by well defined
+remains, as there shown, extends about 1,800 feet north and south and 1,500 feet east and west,
+or a total area of about 65 acres.
+
+The Casa Grande ruin, as the term is here used, occupies a position near the southwestern corner
+of the group, and it will be noticed that its size is insignificant as compared with that of
+the entire group, or even with the large structure in the north-central part of it. The division
+of the group into northern and southern portions, which has been made by some writers, is clearly
+shown on the map; but this division is more apparent than real. The contour interval on the
+map is one foot--a sufficiently small interval to show the surface configuration closely and
+to bring out some of its peculiarities. Depressions are shown by dotted contours. It will be
+noticed that while most of the mounds which mark the sites of former structures rise but 10
+feet or less above the surrounding level, the profiles vary considerably, some being much more
+smoothed off and rounded than others, the former being shown on the map by even, "flowing"
+contours, while the latter are more irregular; and it will be further noticed that the irregularity
+reaches its maximum in the vicinity of the Casa Grande ruin proper, where the ground surface
+was more recently formed, from the fall of walls that were standing within the historical period.
+
+External appearance is a very unsafe criterion of age, although in some cases, like the present,
+it affords a fair basis for hypothesis as to comparative age; but even in this case, where
+the various portions of the group have presumably been affected alike by climatic and other
+influences, such hypothesis, while perhaps interesting, must be used with the greatest caution.
+Within a few miles of this place the writer has seen the remains of a modern adobe house whose
+maximum age could not exceed a decade or two, yet which presented an appearance of antiquity
+quite as great as that of the wall remains east and southeast of the Casa Grande ruin.
+
+The application of the hypothesis to the map brings out some interesting results. In the first
+place, it may be seen that in the lowest mounds, such as those in the northwestern corner of
+the sheet, on the southern margin, and southwest of the well-marked mound on the eastern margin,
+the contours are more flowing and the slopes more gentle than in others. This suggests that
+these smoothed mounds are older than the others, and, further, that their present height is
+not so great as their former height; and again, under this hypothesis, it suggests that the
+remains do not belong to one period, but that the interval which elapsed between the abandonment
+of the structures whose sites are marked by the low mounds and the most recent abandonment
+was long. In other words, this group, under the hypothesis, affords another illustration of
+a fact constantly impressed on the student of southwestern village remains, that each village
+site marks but an epoch in the history of the tribe occupying it--a period during which there
+was constant, incessant change, new bands or minor divisions of the tribe appearing on the
+scene, other divisions leaving the parent village for other sites, and the ebb and flow continuing
+until at some period in its history the population of a village sometimes became so reduced
+that the remainder, as a matter of precaution, or for some trifling reason, abandoned it en
+masse. This phase of pueblo life, more prominent in the olden days than at present, but still
+extant, has not received the prominence it deserves in the study of southwestern remains. Its
+effects can be seen in almost every ruin; not all the villages of a group, nor even all the
+parts of a village, were inhabited at the same time, and estimates of population based on the
+number of ruins within a given region, and even those based on the size of a given ruin, must
+be materially revised. As this subject has been elsewhere[1] discussed, it can be dismissed
+here with the statement that the Casa Grande group seems to have formed no exception to the
+general rule, but that its population changed from time to time, and that the extent of the
+remains is no criterion of the former population.
+
+    [Footnote 1: See pp. 179-261 of this Report, "Aboriginal Remains in
+    Verde Valley."]
+
+It will be noticed that in some of the mounds, noticeably those in the immediate vicinity of
+the Casa Grande ruin, the surface is very irregular. In this instance the irregularity indicates
+a recent formation of surface; for at this point many walls now marked only by mounds were
+standing within the historical period. External contour is of course a product of erosion,
+yet similarity of contour does not necessarily indicate either equal erosion or equal antiquity.
+Surface erosion does not become a prominent factor until after the walls have fallen, and one
+wall may easily last for a century or two centuries longer than another similarly situated.
+The surface erosion of a standing wall of grout, such as these under discussion, is very slight;
+photographs of the Casa Grande ruin, extending over a period of sixteen years, and made from
+practically the same point of view, show that the skyline or silhouette remained essentially
+unchanged during that period, every little knob and projection remaining the same. It is through
+sapping or undermining at the ground surface that walls are destroyed. An inspection of the
+illustrations accompanying this paper will show what is meant by sapping: the external walls
+are cut away at the ground surface to a depth varying from a few inches to nearly 2 feet. After
+a rain the ground, and that portion of the walls at present below its surface, retains moisture
+much longer than the part of the walls which stands clear; the moisture rises by capillary
+attraction a foot or two above the ground surface, rendering the walls at this level softer
+than elsewhere, and as this portion is more exposed to the flying sand which the wind sweeps
+over the ground it is here that erosion attains its maximum. The wall is gradually cut away
+at and just above the ground surface until finally the base becomes too small to support it
+and it falls en masse. Then and not till then surface erosion becomes an important factor and
+the profile of the mass becomes finally rounded. But it will be readily seen that a slight
+difference of texture, or thickness, or exposure, or some trifling difference too minute for
+observation, might easily add many decades to the apparent age of a mound. The walls once fallen,
+however, the rounding or smoothing of the mounds would probably proceed at an equal rate throughout
+the group, and study of the profile gives a fairly good estimate as to the comparative age
+of the mounds. On this basis the most ancient mounds are those specified above, while the most
+recent are those in the immediate vicinity of the Casa Grande ruin. This estimate accords well
+with the limited historical data and with the Pima traditions, which recount that the Casa
+Grande ruin was the last inhabited village in this vicinity.
+
+Probably intermediate in time between the Casa Grande ruin and the rounded mounds described
+above should be placed the large structure occupying the northern-central part of the map.
+This mound is deserving of more than a passing notice. It consists of two mounds, each four
+or five times the size of the Casa Grande ruin, resting on a flat-topped pedestal or terrace
+about 5 feet above the general level. The summits of these mounds, which are nearly flat, are
+some 13 feet above this level. The sides of the mounds slope very sharply, and have suffered
+somewhat from erosion, being cut by deep gullies, as shown in figure 328, which is an enlargement
+from the map. It has been stated that these structures were mounds, pure and simple, used for
+sacrifice or worship, resembling somewhat the well-known pyramid of Cholula; but there is no
+doubt that they are the remains of house-structures, for a careful examination of the surface
+on the slopes, reveals the ends of regular walls. The height is not exceptional, the mound
+on the east being less than 3 feet lower, while the one on the southeast lacks less than 4
+feet of its height. The characteristic feature, however, and one difficult to explain, except
+on the hypothesis stated, is the sharp slope of the sides. It will be noticed that the raised
+base or terrace on which the mounds are located is not perfectly flat, but on the contrary
+has a raised rim. This rim seems quite inconsistent with the theory which has been advanced
+that the terrace was built up solidly as a terrace or base, as in that case it would seem natural
+that the slope from the base of the mounds to the edge of the terrace would be continuous.
+
+There is an abundance of room between the crest of the rim and the base of the terrace for
+a row of single rooms, inclosing a court within which the main structures stood, or such a
+court may have been covered, wholly or partly with clusters of rooms, single storied outside,
+but rising in the center, in two main clusters, three or more stories high. Such an agglomeration
+of rooms might under certain conditions produce the result seen here, although a circumscribing
+heavy wall, occupying the position of the crest of the rim and inclosing two main clusters
+each rising three or more stories, might also produce this result. The difficulty with the
+latter hypothesis is, however, that under it we should expect to find a greater depression
+between the base of the mounds and the edge of the terrace. The most reasonable hypothesis,
+therefore, is that the space between the base of the mounds and the edge of the terrace was
+occupied by rooms of one story. This would also help to explain the steepness of the slopes
+of the mounds themselves. The walls of the structures they represent, being protected by the
+adjacent low walls of the one-story rooms, would not suffer appreciably by undermining at the
+ground level, and if the central room or rooms of each cluster were higher than the surrounding
+rooms, as is the case in the Casa Grande ruin, the exterior walls, being usually heavier than
+the inner walls, would be the last to succumb, the clusters would be filled up by the disintegration
+of the inner walls, and not until the spaces between the low one-story walls surrounding the
+central cluster were nearly filled up would the pronounced disintegration of the outer walls
+of the structures commence. At that period the walls were probably covered and protected by
+debris dropping from above, and possibly the profile of the mounds was already established,
+being only slightly modified by surface erosion since.
+
+About the center of the eastern side of the terrace, and also on the western side, the water
+which falls on the surface of the structure is discharged through rather pronounced depressions
+at these points. These depressions are not the work of running water, though doubtless emphasized
+by that agency, but represent low or open spaces in the original structure, probably passageways
+or gateways. Furthermore, before or inside each gateway there is a slightly depressed area,
+just where we would expect to find it under our hypothesis, and showing that the process of
+filling in is not yet completed. If the structure were to remain undisturbed for some decades
+longer these spaces would doubtless be filled up from material washed from the mounds, giving
+eventually a continuous slope from the base of the mounds to the edge of the terrace.
+
+On the eastern margin of the map and in the southeastern corner two small and sharply defined
+mounds, differing in character from any others of the group, are represented. That shown on
+the eastern margin rises about 6 feet and the other about 10 feet above the surrounding level,
+and both stand out alone, no other remains occurring within a hundred yards in any direction.
+These mounds seem a thing apart from the other remains in the group; and it is probable that
+they represent the latest period in the occupancy of this site, or possibly a period subsequent
+to its final abandonment as a place of residence. Analogous remains occur in conjunction with
+some large ruins in the north, and there they represent single rooms, parts of the original
+structure kept in a fair state of preservation by occasional repairs while the remainder of
+the village was going to ruin, and used as farming outlooks long after the site was abandoned
+as a place of residence. As these farming outlooks have been discussed at some length in another
+paper[1] it is not necessary here to enlarge upon their function and the important part they
+play in Pueblo architecture. If the high mounds in question mark, as supposed, the sites of
+farming outlooks such as those which are found in the north, they indicate that the occupancy
+of the region in which they occur was continued after the abandonment of the Casa Grande structure
+by the people who built it or by people of similar habits and customs.
+
+    [Footnote 1: A Study of Pueblo Architecture; 8th Ann. Rep. Bur.
+    Eth., 1891, pp. 86, 227, and elsewhere.]
+
+An inspection of the map will show a number of depressions, some of quite large area, indicated
+by dotted contour lines. The principal one occurs a little west of the center of the area,
+and is worth more than a passing notice since similar structures are widely distributed throughout
+this region. It may be roughly characterized as a mound with excavated center. The ground for
+some distance about the structure (except for two depressions discussed later) is quite flat.
+From this flat surface as a base the structure rises to a height of 5 feet. From the exterior
+it has the appearance of an ordinary mound, but on reaching the top the interior is found to
+be hollowed out to a depth which even at the present day is below the surrounding surface,
+although not below the depressions adjoining. The main structure or mound is shown in figure
+329 (an enlargement from the map). It measures on top of the crest 150 feet from north to south
+and about 80 feet from east to west, but covers a ground area of 200 feet by 120 feet or over
+half an acre. The crest is of the same height throughout, except for slight elevations on the
+eastern and western sides and a little knoll or swell in the southwestern corner. There is
+no indication of any break in the continuity of the crest such as would be found were there
+openings or gateways to the interior. The bottom of the depression in the main structure is
+at present about a foot below the surrounding ground surface, but it must have been originally
+considerably more than this, as the profile indicates long exposure to atmospheric erosion
+and consequent filling of the interior. No excavation was made and the character of the construction
+can not be determined, but the mound is apparently a simple earth structure--not laid up in
+blocks, like the Casa Grande ruin.
+
+To the east and to the west are two large depressions, each about 5 feet below the surrounding
+ground surface, evidently the places whence the material for the construction of the mound
+was obtained. Yet the amount of material removed from these excavations must have been considerably
+in excess of that used in the construction of the mound, and this excess was doubtless utilized
+in neighboring constructions, since it is hardly to be supposed that it was carried away to
+any considerable distance.
+
+The purpose of this hollow mound, which is a fair type of many similar structures found in
+this region, is not clear. Mr. Frank Hamilton Cushing, while director of the Hemenway southwestern
+archeological expedition, found a number of these structures and excavated some of them. From
+remains thus found he concluded that they were sun-temples, as he termed them, and that they
+were covered with a roof made of coiled strands of grass, after a manner analogous to that
+in which pueblo baskets are made. A somewhat similar class of structures was found by the writer
+on the upper Rio Verde, but these were probably thrashing floors. Possibly the structure under
+discussion was for a similar purpose, yet its depth in proportion to its size was almost too
+great for such use. The question must be left for determination if possible by excavation.
+
+In the southern central part of the map is shown another excavation, covering a larger area
+than any of the others, of very irregular outline and from 3 to 4 feet deep. It is apparently
+older than the others and probably furnished the material for the house structures northeast
+and southwest of it. Bordering the depression on the south there are some low mounds, almost
+obliterated, which probably were the sites of other house structures.
+
+Scattered about the area shown on the map there are several small depressions, usually more
+regular in outline than those described. The best example is situated near the northeastern
+corner of the area. It is situated in the point of a low promontory, is about 3 feet deep,
+almost regularly oval in outline, and measures about 50 by 100 feet. A similar depression less
+than 2 feet deep occurs near the northwest corner of the area, and immediately south of the
+last there is another, more irregular in outline, and nearly 3 feet deep. There are also some
+small depressions in the immediate vicinity of the Casa Grande ruin and of the mounds north of it.
+
+With a single exception none of these depressions are so situated that they could be used as
+reservoirs for the storage of water collected from the surface, and the catchment area of the
+depressions is so small and the rate of evaporation in this area so great that their use as
+reservoirs is out of the question. It is probable that all of the smaller depressions represent
+simply sites where building material was obtained. Possibly the ground at these points furnished
+more suitable material than elsewhere, and, if so, the builders may have taken the trouble
+to transport it several hundred yards rather than follow the usual practice of using material
+within a few feet of the site. This hypothesis would explain the large size of the depressions,
+otherwise an anomalous feature.
+
+CASA GRANDE RUIN.
+
+State of Preservation.
+
+The area occupied by the Casa Grande ruin is insignificant as compared with that of the entire
+group, yet it has attracted the greater attention because it comprises practically all the
+walls still standing. There is only one small fragment of wall east of the main structure and
+another south of it.
+
+The ruin is especially interesting because it is the best preserved example now remaining of
+a type of structure which, there is reason to believe, was widely distributed throughout the
+Gila valley, and which, so far as now known, is not found elsewhere. The conditions under which
+pueblo architecture developed in the north were peculiar, and stamped themselves indelibly
+on the house structures there found. Here in the south there is a radical change in physical
+environment: even the available building material was different, and while it is probable that
+a systematic investigation of this field will show essentially the same ideas that in the north
+are worked out in stone, here embodied in a different material and doubtless somewhat modified
+to suit the changed environment, yet any general conclusion based on the study of a single
+ruin would be unsafe. In the present state of knowledge of this field it is not advisable to
+attempt more than a detailed description, embodying, however, a few inferences, applicable
+to this ruin only, which seem well supported by the evidence obtained.
+
+The Casa Grande ruin is located near the southwestern corner of the group, and the ground surface
+for miles about it in every direction is so flat that from the summit of the walls an immense
+stretch of country is brought under view. On the east is the broad valley of Gila river rising
+in a great plain to a distant range of mountains. About a mile and a half toward the north
+a fringe of cottonwood trees marks the course of the river, beyond which the plain continues,
+broken somewhat by hills and buttes, until the view is closed by the Superstition mountains.
+On the northwest the valley of Gila river runs into the horizon, with a few buttes here and
+there. On the west lies a range of mountains closing the valley in that direction, while toward
+the southwest and south it extends until in places it meets the horizon, while in other places
+it is closed by ranges of mountain blue and misty in the distance. In an experience of some
+years among northern ruins, many of them located with special reference to outlook over tillable
+lands, the writer has found no other ruin so well situated as this.
+
+The character of the site occupied by the ruin indicates that it belongs to a late date if
+not to the final period in the occupancy of this region, a period when by reason of natural
+increase of numbers, or perhaps aggregation of related gentes, the defense motive no longer
+dominated the selection of a village site, but reliance was placed on numbers and character
+of structures, and the builders felt free to select a site with reference only to their wants
+as a horticultural people. This period or stage has been reached by many of the Pueblo tribes,
+although mostly within the historical period; but some of them, the Tusayan for example, are
+still in a prior stage.
+
+A ground plan of the ruin is shown in plate LII, and a general view in plate LIII. The area
+covered and inclosed by standing walls is about 43 feet by 59 feet, but the building is not
+exactly rectangular, and the common statement that it faces the cardinal points is erroneous.
+The variation from the magnetic north is shown on the ground plan, which was made in December,
+1890. The building comprised three central rooms, each approximately 10 by 24 feet, arranged
+side by side with the longer axes north and south, and two other rooms, each about 9 by 35
+feet, occupying respectively the northern and southern ends of the building, and arranged transversely
+across the ends of the central rooms, with the longer axes running east and west. Except the
+central room, which was three stories in height, all the rooms were two stories above the ground.
+The northeastern and southeastern corners of the structure have fallen, and large blocks of
+the material of which they were composed are strewn upon the ground in the vicinity. It is
+probable that the destruction of these corners prior to that of the rest of the building was
+due to the disintegration of minor walls connected with them and extending, as shown by the
+ridges on the ground plan, northward from the northeastern corner and eastward from the southeastern
+corner. These walls doubtless formed part of the original structure and were probably erected
+with it; otherwise the corners of the main structure would not have been torn out or strained
+enough to fall before the rest of the building was affected.
+
+It is not likely that the main building originally stood alone as at present. On the contrary
+there is every reason to suppose that it was connected with other buildings about 75 feet east
+of it, now marked by a bit of standing wall shown on the map (plate LI), and probably also
+with a small structure about 170 feet south of it, shown in plate LIV. These connections seem
+to have been by open courts inclosed by walls and not by continuous buildings. The court east
+of the ruin is well marked by the contours and seems to have been entered by a gateway or opening
+at its southeastern corner.
+
+Dimensions.
+
+It is probable that the area immediately adjacent to the ruin, and now covered by mounds, carried
+buildings of the same time with the main structure and was occupied contemporaneously with
+it or nearly so. This area, well marked on the map, measures about 400 feet north and south,
+and 240 feet east and west. It is not rectangular, although the eastern and western sides,
+now marked by long ridges, are roughly parallel. The northeastern corner does not conform to
+a rectangular plan, and the southern side is not more than half closed by the low ridge which
+extends partly across it. This area is doubtless the one measured in 1776, by Padre Font, whose
+description, was copied by later writers, and whose measurements were applied by Humboldt and
+others to the ruin itself. Font gave his measurements as those of a circumscribing wall, and
+his inference has been adopted by many, in fact most, later writers. A circumscribing wall
+is an anomalous feature, in the experience of the writer, and a close inspection of the general
+map will show that Font's inference is hardly justified by the condition of the remains today.
+It seems more likely that the area in question was covered by groups of buildings and rows
+of rooms, connected by open courts, and forming an outline sometimes regular for a considerable
+distance, but more often irregular, after the manner of pueblo structures today. The long north
+and south ridge which forms the southeastern corner of the area, with other ridges extending
+westward, is quite wide on top, wide enough to accommodate a single row of rooms of the same
+width as those of the ruin, and it is hardly reasonable to suppose that a wall would be built
+10 or 12 feet wide when one of 4 feet would serve every purpose to which it could possibly
+be put. Furthermore, the supposition of an inclosing wall does not leave any reasonable explanation
+of the transverse ridges above mentioned, nor of the long ridge which runs southward from the
+southeastern corner of the ruin.
+
+The exterior walls rise to a height of from 20 to 25 feet above the ground. This height accommodated
+two stories, but the top of the wall is now 1 to 2 feet higher than the roof level of the second
+story. The middle room or space was built up three stories high and the walls are now 28 to
+30 feet above the ground level. The tops of the walls, while rough and much eroded, are approximately
+level. The exterior surface of the walls is rough, as shown in the illustrations, but the interior
+walls of the rooms are finished with a remarkable degree of smoothness, so much so as to attract
+the attention of everyone who has visited the ruin. Mange, who saw the ruin with Padre Font
+in 1697, says the walls shine like Puebla pottery, and they still retain this finish wherever
+the surface has not cracked off. This fine finish is shown in a number of illustrations herewith.
+The walls are not of even thickness. At the ground level the exterior wall is from 3½ to 4½
+feet thick, and in one place at the southern end of the eastern wall, is a trifle over 5 feet
+thick. The interior walls are from 3 to 4 feet thick at base. At the top the walls are reduced
+to about 2 feet thick, partly by setbacks or steps at the floor levels, partly by exterior
+batter, the interior wall surface being approximately vertical. Some writers, noting the inclination
+of the outer wall surface, and not seeing the interior, have inferred that the walls leaned
+considerably away from the perpendicular. This inference has been strengthened, in some cases,
+by an examination of the interior, for the inner wall surface, while finely finished, is not
+by any means a plane surface, being generally concave in each room; yet a line drawn from floor
+level to floor level would be very nearly vertical. The building was constructed by crude methods,
+thoroughly aboriginal in character, and there is no uniformity in its measurements. The walls,
+even in the same room, are not of even thickness, the floor joists were seldom on a straight
+line, and measurements made at similar places, e.g., the two ends of a room, seldom agree.
+
+A series of precise measurements gives the following results: Outside eastern wall, at level
+3 feet above center of depressed area adjoining the ruin on the east, 59 feet; western wall
+at same level, 59 feet 1 inch; northern and southern walls, at same level, 42 and 43 feet respectively.
+These measurements are between points formed by the intersection of the wall lines; the northeastern
+and southeastern corners having fallen, the actual length of standing wall is less. At the
+level stated the northern wall measures but 34 feet 4 inches, and the southern wall 36 feet
+10 inches. A similar irregularity is found in the interior measurements of rooms. The middle
+room is marked by an exceptional departure from regularity in shape and dimensions. Both the
+east and west walls are bowed eastward, making the western wall convex and the eastern wall
+concave in reference to the room.
+
+Precise measurements of the middle room at the second floor level, 8 feet above the base previously
+stated, are as follows: Eastern side, 24 feet 8½ inches; western side, 24 feet 2 inches; northern
+side, 9 feet 3½ inches; southern side, 9 feet 1 inch. The eastern room is a little more regular,
+but there is a difference of 11 inches between the measurements of the northern and southern
+ends. A similar difference is found in the western room, amounting there to 6 inches. The northern
+and southern rooms do not afford as good bases for comparison, as a corner is missing in each;
+but measurements to a point where the interior wall surfaces would intersect if prolonged,
+show variations of from 6 inches to a foot. The statement that the ruin exhibits exceptional
+skill in construction on the part of the builders, is not, therefore, supported by facts.
+
+Detailed Description.
+
+The Casa Grande ruin is often referred to as an adobe structure. Adobe construction, if we
+limit the word to its proper meaning, consists of the use of molded brick, dried in the sun
+but not baked. Adobe, as thus defined, is very largely used throughout the southwest, more
+than nine out of ten houses erected by the Mexican population and many of those erected by
+the Pueblo Indians being so constructed; but, in the experience of the writer, it is never
+found in the older ruins, although seen to a limited extent in ruins known to belong to a period
+subsequent to the Spanish conquest. Its discovery, therefore, in the Casa Grande would be important;
+but no trace of it can be found. The walls are composed of huge blocks of earth, 3 to 5 feet
+long, 2 feet high, and 3 to 4 feet thick. These blocks were not molded and placed in situ,
+but were manufactured in place. The method adopted was probably the erection of a framework
+of canes or light poles, woven with reeds or grass, forming two parallel surfaces or planes,
+some 3 or 4 feet apart and about 5 feet long. Into this open box or trough was rammed clayey
+earth obtained from the immediate vicinity and mixed with water to a heavy paste. When the
+mass was sufficiently dry, the framework was moved along the wall and the operation repeated.
+This is the typical pisé or rammed-earth construction, and in the hands of skilled workmen
+it suffices for the construction of quite elaborate buildings. As here used, however, the appliances
+were rude and the workmen unskilled. An inspection of the illustrations herewith, especially
+of plate LV, showing the western wall of the ruin, will indicate clearly how this work was
+done. The horizontal lines, marking what may be called courses, are very well defined, and,
+while the vertical joints are not apparent in the illustration, a close inspection of the wall
+itself shows them. It will be noticed that the builders were unable to keep straight courses,
+and that occasional thin courses were put in to bring the wall up to a general level. This
+is even more noticeable in other parts of the ruin. It is probable that as the walls rose the
+exterior surface was smoothed with the hand or with some suitable implement, but it was not
+carefully finished like the interior, nor was it treated like the latter with a specially prepared
+material. The material employed for the walls was admirably suited for the purpose, being when
+dry almost as hard as sandstone and practically indestructible. The manner in which such walls
+disintegrate under atmospheric influences has already been set forth in detail in this report.
+An inhabited structure with walls like these would last indefinitely, provided occupancy continued
+and a few slight repairs, which would accompany occupancy, were made at the conclusion of each
+rainy season. When abandoned, however, sapping at the ground level would commence, and would
+in time level all the walls; yet in the two centuries which have elapsed since Padre Kino's
+visit--and the Casa Grande was then a ruin--there has been but little destruction, the damage
+done by relic hunters in the last twenty years being in fact much greater than that wrought
+by the elements in the preceding two centuries. The relic hunters seem to have had a craze
+for wood, as the lintels of openings and even the stumps of floor joists have been torn out
+and carried away. The writer has been reliably informed that as late as twenty years ago a
+portion of the floor or roof in one of the rooms was still in place, but at the present day
+nothing is left of the floors except marks on the vertical walls, and a few stumps of floor
+joists, deeply imbedded in the walls, and so high that they can not be seen from the ground.
+
+The floors of the rooms, which were also the roofs of the rooms below, were of the ordinary
+pueblo type, employed also today by the American and Mexican population of this region. In
+the Casa Grande ruin a series of light joists or heavy poles was laid across the shorter axis
+of the room at the time the walls were erected; these poles were 3 to 6 inches in diameter,
+not selected or laid with unusual care, as the holes in the side walls which mark the places
+they occupied are seldom in a straight line, and their shape often indicates that the poles
+were quite crooked. Better executed examples of the same construction are often found in northern
+ruins. Over the primary series of joists was placed a layer of light poles, 1½ to 2 inches
+in diameter, and over these reeds and coarse grass were spread. The prints of the light poles
+can still be seen on the walls. The floor or roof was then finished with a heavy coating of
+clay, trodden down solid and smoothed to a level. A number of blocks of this final floor finish,
+bearing the impress of the grass and reeds, were found in the middle room. There is usually
+a setback in the wall at the floor level, but this practice was not followed in all the rooms.
+
+The position of the floor is well marked in all cases by holes in the wall, into which beams
+projected sometimes to a depth of 3 feet, and by a peculiar roughness of the wall. Plate LVI
+shows two floor levels, both set back slightly and the upper one strongly marked by the roughness
+mentioned. This roughness apparently marks the thickness of the floor in some cases, yet in
+others it is much too thick for a floor and must have had some other purpose. The relation
+of these marks to the beam holes suggests that in some cases there was a low and probably narrow
+bench around two or more sides of the room; such benches are often found in the present Pueblo
+villages.
+
+The walls of the northern room are fairly well preserved, except in the northeastern corner,
+which has fallen. The principal floor beams were of necessity laid north and south, across
+the shorter axis of the room, while the secondary series of poles, 1½ inches in diameter, have
+left their impression in the eastern and western walls. There is no setback in the northern
+wall at the first floor level, though there is a very slight one in the southern wall; none
+appears in the eastern and western walls. Yet in the second roof level there is a double setback
+of 9 and 5 inches in the western wall, and the northern wall has a setback of 9 inches, and
+the top of the wall still shows the position of nearly all the roof timbers. This suggests--and
+the suggestion is supported by other facts to be mentioned later--that the northern room was
+added after the completion of the rest of the edifice.
+
+The second roof or third floor level, the present top of the wall, has a decided pitch outward,
+amounting to nearly 5 inches. Furthermore, the outside of the northern wall of the middle room,
+above the second roof level of the northern room, is very much eroded. This indicates that
+the northern room never had a greater height than two stories, but probably the walls were
+crowned with low parapets. In this connection it may be stated that a calculation of the amount
+of débris within the building and for a distance of 10 feet about it in every direction, the
+interior floor level being determined by excavation, showed an amount of material which, added
+to the walls, would raise them less than 3 feet; in other words, the present height of the
+walls is very nearly the maximum height.
+
+Subsequent to this examination the ruin was cleared out by contractors for the Government in
+carrying out a plan for the repair and preservation of the ruin, and it was reported that in
+one of the rooms a floor level below that previously determined was found, making an underground
+story or cellar. This would but slightly modify the foregoing conclusion, as the additional
+débris would raise the walls less than a foot, and in the calculation no account was taken
+of material removed from the surface of the walls.
+
+In support of the hypothesis that the second roof level of the northern room was the top roof,
+it may be stated that there is no trace of an opening in the walls above that level, except
+on the western side. There was a narrow opening in the western corner, but so well filled that
+it is hardly perceptible. Doubtless it formed a niche or opening in the parapet.
+
+The southern wall on the first roof level still preserves very clear and distinct impressions
+of the rushes which were used in the construction of the roof. In some cases these impressions
+occur 3 inches above the top of the floor beams, in others directly above them, showing that
+the secondary series of poles was very irregularly placed. In the eastern and western walls
+the impressions of rushes are also clear, but there they are parallel with the wall surface.
+The rushes were about the thickness of a pencil.
+
+The floor joists were 3 to 4 inches in diameter, and as a rule projected into the wall but
+5 to 8 inches. In some places in the northern wall, however, they extended into the masonry
+as much as 3 feet 3 inches. The beams were doubtless cut by guess, at the place where trees
+of the requisite size were found, according to the method employed by the Pueblo Indians today,
+and if, as supposed, the northern room was built after the rest of the structure, the excess
+in length would necessarily be found in the northern wall.
+
+In the roof construction previously described rushes or canes formed the third member, and
+in the northern room the wall is rough immediately above the impressions of rushes, and projects
+8 to 12 inches. This feature is well marked; it may be a remnant of the clay covering of floor
+or roof, but it is almost too thick for that and possibly marks the position of a low bench,
+as previously suggested. The bottoms of the openings come just to or a trifle above the top
+of this marking.
+
+The walls of the western room were smoothly finished and the finish is well preserved, but
+here, as in the northern room, the exterior wall of the middle room was not finished above
+the second roof level, and there is no doubt that two stories above the ground were the maximum
+height of the western rooms, excluding the parapet. The eastern wall presents a marked double
+convexity while the western wall is comparatively straight in a horizontal line, but markedly
+concave vertically above the first roof level. Below this level it is straight. The floor beams
+were from 3 to 6 inches in diameter. The marks in the eastern wall show that the beams projected
+into it to a nearly uniform depth of 1 foot 4 inches. In the western wall, however, the depth
+varies from 1 to 3 feet. The beams which entered the eastern wall were very irregularly placed,
+the line rising in the center some 3 or 4 inches. The beams of the second roof level show the
+same irregularity and in the same place; possibly this was done to correct a level, for the
+same feature is repeated in the eastern room.
+
+The walls of the southern room are perhaps better finished and less well constructed than any
+others in the building. The beam holes in the southern wall are regular, those in the northern
+wall less so. The beams used averaged a little smaller than those in the other rooms, and there
+is no trace whatever in the overhanging wall of the use of rushes or canes in the construction
+of the roof above. The walls depart considerably from vertical plane surfaces; the southern
+wall inclines fully 12 inches inward, while in the northeastern corner the side of a doorway
+projects fully 3 inches into the room. The broken condition of the southern wall indicates
+carelessness in construction. The weakest point in pisé construction is of course the framing
+around openings. In the southern wall the openings, being doubtless the first to give way,
+are now almost completely obliterated. In the center of the wall there were two openings, one
+above the other, but not a trace of lintels now remains, and the eastern half of the wall now
+stands clear from other walls. Probably there was also an opening near the southwestern corner
+of the room, but the lintels giving way the wall above fell down and, as shown on the ground
+plan (plate LII), filled up the opening. This could happen only with exceptionally light lintels
+and exceptionally bad construction of walls; one of the large blocks, before described as composing
+the wall, must have rested directly above the opening, which was practically the same size
+as the block.
+
+The walls of the eastern room were well finished, and, except the western wall, in fairly good
+preservation. The floor beams were not placed in a straight line, but rise slightly near the
+middle, as noted above. The finish of some of the openings suggests that the floor was but
+3 or 4 inches above the beams, and that the roughened surface, already mentioned, was not part
+of it. The northern wall of this room seems to have run through to the outside, on the east,
+as though at one time it formed the exterior wall of the structure; and the eastern wall of
+the building north of this room is separated from the rest of the wall by a wide crack, as
+though it had been built against a smooth surface. The western wall of this room shows clearly
+that in the construction of the building the floor beams were laid on the tops of the walls,
+and that the intervening spaces were filled with small lumps of material up to a level with
+or a little above the upper surface of the beams, the regular construction with large blocks
+being then resumed.
+
+In the middle room many blocks bearing the imprint of grass and rushes were found, and the
+rough marking of the walls just above the floor beams is covered in places in this room with
+masonry composed of these grass marked blocks projecting some distance into the room, indicating
+that in this room at least they mark the position of a bench. These blocks occupy the whole
+thickness of the setback at the second roof level--perhaps an indication that the upper story
+was added after the building was occupied.
+
+Openings.
+
+The Casa Grande was well provided with doorways and other openings arranged in pairs one above
+the other. There were doorways from each room into each adjoining room, except that the middle
+room was entered only from the east. Some of the openings were not used and were closed with
+blocks of solid masonry built into them long prior to the final abandonment of the ruin.
+
+The middle room had three doorways, one above the other, all opening eastward. The lowest doorway
+opened directly on the floor level, and was 2 feet wide, with vertical sides. Its height could
+not be determined, as the top was completely broken away and merged with the opening above,
+but the bottom, which is also the floor level, is 6 feet 9 inches below the level of the first
+roof beams. The doorway of the second story is preserved only on the northern side. Its bottom,
+still easily distinguishable, is 1 foot 6 inches above the bottom of the floor beams. It was
+not over 2 feet wide and was about 4 feet high. The upper doorway is still well preserved,
+except that the lintels are gone. It is about three inches narrower at the top than at the
+bottom and about 4 feet high.
+
+In addition to its three doorways, all in the eastern wall, the middle tier of rooms was well
+provided with niches and holes in the walls, some of them doubtless utilized as outlooks. On
+the left of the upper doorway are two holes, a foot apart, about 4 inches in diameter, and
+smoothly finished. Almost directly above these some 3 feet, and about 2 feet higher than the
+top of the door, there are two similar holes. Near the southern end of the room in the same
+wall there is another round opening a trifle larger and about 4½ feet above the floor level.
+In the western wall there are two similar openings, and there is one each in the northern and
+southern walls. All these openings are circular, of small diameter, and are in the upper or
+third story, as shown on the elevations herewith, figure 330. The frequency of openings in
+the upper or third story and their absence on lower levels, except the specially arranged openings
+described later, supports the hypothesis that none of the rooms except the middle one were
+ever more than two stories high and that the wall remains above the second roof level represent
+a low parapet.
+
+In the second story, or middle room of the middle tier, there were no openings except the doorway
+in the eastern wall and two small orifices in the western wall. In the middle of this wall
+there is a niche about 18 inches below the roof, and a foot below this is a round-cornered
+opening measuring about 7 by 8 inches extending through the wall. This opening was on a level
+with another in the western wall of the western room, and commanded a far-reaching though contracted
+view toward the west. Below and a little northward is a similar though somewhat larger opening
+corresponding to an opening in the western wall of the western room.
+
+The upper doorway in the western wall of the western room is much broken out, but the top can
+still be traced. It was 4 feet 5½ inches in height and 1 foot 11 inches wide at top. The opening
+was blocked by solid masonry built into it and completely filling it up to within 10 inches
+of the top. This upper space, which is on a level with the upper hole in the middle room, seems
+to have been purposely left to allow an outlook from that room. The filling block is level
+on top and flush with the wall inside and out. At a height of 12 inches above the lower edge
+of the floor beams below it, and perhaps 3 inches above the floor, is the lower edge of a roughly
+square opening a foot across, cut out from the block itself and inclined slightly downward
+toward the exterior. It was plastered and smoothly finished. This opening corresponds to the
+one in the middle room already described. This filling block, with the orifice under discussion,
+is shown in figure 330, and in detail in plate LVII.
+
+The lower doorway, shown in figure 330, is much broken out, and although now but 2 feet 1½
+inches wide at its narrowest part, no trace of the original surface remains on the northern
+side. The opening was 4 feet 6½ inches high and probably less than 2 feet wide, with vertical
+sides.
+
+In the western wall of the southern room there was but one opening. This is about 9 inches
+square, finished smoothly, and occurs in the upper room, about 6 feet 5 inches above the floor.
+It is shown in plate LVIII. The doorway between this room and the western room was smoothly
+finished and is in good order except the top, which is entirely gone. It was covered with double
+lintels made of poles 2 to 4 inches in diameter, the lower series about 3 inches above the
+top of the door. The opening was originally filled in like that described above, leaving only
+8 or 10 inches of the upper part open. The lower part of the block was pierced by a square
+hole, like that in the western room, but this has weathered or been broken out and the block
+has slipped down, so that now its top is 1 foot 5½ inches below what was formerly the top of
+the opening. The top of the filling block is still smooth and finished and shows across its
+entire width a series of prints probably of flat sticks about an inch and a half wide, though,
+possibly these are marks of some finishing tool. The marks run north and south.
+
+The opening below the one just described was so much filled up at the time of examination that
+none of its features could be determined, except that it was bridged by two tiers of sticks
+of the usual size as lintels. The subsequent excavation before referred to, however, apparently
+disclosed an opening similar to the one described, and, like it, filled nearly to the top with
+a large block.
+
+A little west of the middle of the northern wall there are three niches, arranged side by side
+and about 6½ feet above the first roof beams. The niches are 10 inches high, a foot wide, and
+about a foot deep, and are about 8 inches apart. They are smoothly finished and plastered,
+but were roughly made.
+
+The eastern opening in the northern wall, opening into the east room, is well preserved except
+the top, which is missing. It measured 4 feet 2½ inches in height and 1 foot 11 inches wide
+at the bottom, the top being nearly an inch narrower. It carried two tiers of lintels of medium
+size.
+
+The gap in the southern wall of the southern room, shown in the plan, though now open from
+the ground up, represents the location of two doorways, one above the other. Remains of both
+of these can still be seen on the ends of the walls. No measurements can be obtained. The large
+fallen block near the southwestern corner of the room, which undoubtedly slipped down from
+above, shows a finished surface at the ground level inside, but above it no trace of an opening
+can be seen, possibly because the ends of the walls above are much eroded.
+
+The upper opening in the eastern wall of the eastern room was apparently capped with a single
+lintel composed of five sticks 4 to 6 inches in diameter laid level on the top of a course
+of masonry. The bottom of the opening is filled either with washed-down material or with the
+remains of a block such as that previously described. This opening is the most irregular one
+in the building, the top being nearly 4 inches narrower than the bottom, but the northern side
+of the opening is vertical, the southern side only being inclined inward. The opening was 4
+feet 11 inches high and 1 foot 8½ inches wide at the bottom. The opening immediately below
+that described, which was the ground floor entrance from the east, is so much broken out that
+no evidence remains of its size and character. There appears to have been only one row of lintel
+poles.
+
+The eastern opening in the southern wall of the northern room is well preserved, the lintels
+having been torn out by relic hunters without much destruction of the surrounding masonry.
+It was neatly finished, and its bottom, was probably a little above the first roof level. The
+edges of the openings were made straight with flat sticks, either used as implements or incorporated
+into the structure, and forming almost perfectly straight edges. Marks of the same method of
+construction or finish are apparent in all the other openings, but the remains are not so well
+preserved as in this instance. Possibly the immediate lintels of openings were formed of thin
+flat sticks, as the lintel poles are often some inches above the top of the opening. In this
+opening the supporting lintel was formed of a number of poles 2 to 4 inches in diameter, irregularly
+placed, sometimes two or three in vertical series with very little filling between them. This
+construction has been characterized as a Norman arch. The opening was originally 1 foot 11
+inches at the top and 4 feet 6 inches high. The bottom is 1½ inches wider than the top.
+
+The upper opening in the western end of the southern wall is much like that just described.
+A small fragment of masonry above the lintel remains, and this is within a quarter of an inch
+of the top of the opening. Above the opening there was a series of rough lintel poles, 3 to
+5 inches in diameter, arranged in three tiers with 4 to 6 inches of filling between them. Prints
+of these sticks are left in the wall and show that some of them were quite crooked. Probably
+they were of mesquite, obtained from the immediate vicinity. The edges of the openings were
+finished with flat sticks, like those described, and its bottom was 6 inches to a foot above
+the floor. The height of the opening was 4 feet 3 inches and its width at the top 2 feet, at
+the bottom 2 feet 1½ inches.
+
+The opening immediately below the last described is filled with débris to the level of the
+lintel. Above this, however, there is a series of three tiers of sticks with 6 to 8 inches
+of masonry between them vertically, sometimes laid side by side, sometimes separated by a foot
+of masonry. Some of these lintel poles, as well as those of the opening above it, extend 3
+feet into the wall, others only a few inches. The lower sides or bottoms of the holes are washed
+with pink clay, the same material used for surfacing the interior walls. Perhaps this was merely
+the wetting used to make succeeding courses of clay stick better. This opening is shown in
+plate LIX.
+
+Near the middle of the northern wall there are two openings, one above the other. The upper
+opening was finished in the same manner as those already described. But two tiers of poles
+show above it, though the top is well preserved, and another tier may be buried in the wall.
+There are indications that the opening was closed by a block about 2 feet thick and flush with
+the outside. The height of the opening was 4 feet 5 inches, width at top 1 foot 4½ inches,
+and at the bottom 1 foot 10 inches. It narrows a little from north to south.
+
+The lower opening is so much broken out that little remains to show its character. There is
+a suggestion that the opening was only 2 feet high, and there were probably three tiers of
+lintels above the opening, the top of which was 2½ feet below the roof beams, but the evidence
+is not so clear as in the other instances.
+
+In the middle of the western wall, at a height of 5 feet 8 inches above the first roof level,
+there is a large, roughly circular opening or window, 14 inches in diameter. This is shown
+in plate LX. It is smoothly finished, and enlarges, slightly, outward.
+
+CONCLUSIONS.
+
+As before stated, any conclusions drawn from a study of the Casa Grande itself, and not checked
+by examination of other similar or analogous ruins, can not be considered as firmly established,
+yet they have a suggestive value.
+
+From the character of the remains it seems probable that the site of the ruins here designated
+as the Casa Grande group was occupied a long time, not as a whole, but piecemeal as it were,
+one part being occupied and abandoned while some other part was being built up, and that this
+ebb and flow of population through many generations reached its final period in the occupation
+of the structure here termed the Casa Grande ruin. It is probable that this structure did not
+exist at the time the site was first occupied, and still more probable that all or nearly all
+the other sites were abandoned for some time before the structure now called the Casa Grande
+was erected. It is also probable that after the abandonment of the Casa Grande the ground about
+it was still worked by its former population, who temporarily occupied, during the horticultural
+season, farming outlooks located near it.
+
+The methods employed in the construction of the buildings of the Casa Grande were thoroughly
+aboriginal and characteristically rude in application. A fair degree of adaptability to purpose
+and environment is seen, indicating that the Casa Grande was one, and not the first, building
+of a series constructed by the people who erected it and by their ancestors, but the degree
+of skill exhibited and amount of ingenuity shown in overcoming difficulties do not compare
+with that found in many northern ruins. As architects, the inhabitants of the Casa Grande did
+not occupy the first rank among pueblo-builders.
+
+It is probable that the Casa Grande ruin as we see it today shows very nearly the full height
+of the structure as it stood when it was abandoned. The middle tier of rooms rose to a height
+of three stories; the others were but two stories high. It is also probable that the building
+was enlarged after being once completed and occupied. At one time it probably consisted of
+four rooms on the ground plan, each two stories high. The northern tier, of rooms was added
+afterward, and probably also the third room in the central tier.
+
+The Casa Grande was undoubtedly built and occupied by a branch of the Pueblo race, or by an
+allied people. Who these people were it is impossible to determine finally from the examination
+of one ruin, but all the evidence at hand suggests that they were the ancestors of the present
+Pima Indians, now found in the vicinity and known to have formerly been a pueblo-building tribe.
+This conclusion is supported by the Pima traditions, as collected by Mr. Bandelier, who is
+intimately acquainted with the documentary history of the southwest, and whose knowledge of
+the Pima traditions is perhaps greater than that of anyone else now living. In his various
+writings he hints at this connection, and in one place he declares explicitly that the Casa
+Grande is a Pima structure. None of the internal evidence of the ruin is at variance with this
+conclusion. On the contrary, the scanty evidence is in accord with the hypothesis that the
+Casa Grande was erected and occupied by the ancestors of the Pima Indians.
+
+INDEX
+
+Adobe defined                                            309 Age of Casa Grande           
+299, 318
+
+Bandelier, A. F., Description of Casa Grande by          297
+  Pima Casa-Grande tradition by                          319
+Bartlett, J. R., cited                              296, 297
+
+Casa Grande, Masonry of                                  306
+Chichilticale, Description of                            295
+Cushing, F. H., Allusion by, to Casa Grande              297
+  southwestern sun-temples                               305
+
+Defensive motive of Casa Grande                          307 Depressions, Artificial, at Casa
+Grande                  303 Dimensions of Casa Grande                                307 Doorways
+in Casa Grande                                  314
+
+Emory, W. H., Visit of, to Casa Grande                   297
+
+Fewkes, J. W., Description of Casa Grande by             298
+Floors of Casa Grande                                    311
+Font, Pedro, Account of Casa Grande by                   296
+  on dimensions of Casa Grande                           307
+
+Humboldt, A. von, on dimensions of Casa Grande           308
+
+Johnston, Capt., Visit of to Casa Grande                 297
+
+Kino, Eusebio, Visit of, to Casa Grande                  296
+
+Lintels in Casa Grande                                   317
+
+Mange, Juan M., on Casa Grande                           296 Masonry of Casa Grande       
+309 Mindeleff, V., on pueblo farming outlooks                303 Mound surrounding Casa Grande
+300
+
+Photographs of Casa Grande compared                      300
+Pima, Casa Grande built by the                           319
+Population
+  of pueblos                                             300
+  Casa Grande                                            300
+
+Rooms of Casa Grande, Dimensions of                      307
+
+Site of Casa Grande, Character of                        306
+
+Ternaux-Compans, Translation of Castaneda by             296 Thrashing Floors in Verde valley
+305 Tradition of Pima, of Casa Grande                        319
+
+Walls of Casa Grande                           308, 300, 313 Window-Openings in Casa Grande
+314 Woodwork of Casa Grande                        310, 312, 313
+
+       *       *       *       *       *
+
+[Errata:
+
+...no English translation has yet been published.)
+  closing parenthesis missing in original
+
+Bancroft gives a partial translation in op. cit., p. 623, note,
+  original reads p. 623, note),
+
+thrashing floors
+  spelling as in original (text and Index)
+
+(Index)
+Casa Grande / Masonry of        306
+  text reads 360]
+

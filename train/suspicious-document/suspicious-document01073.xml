@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01073.txt">
+  <feature name="about" authors="Rhodes, Kathlyn" title="Afterwards" lang="en" />
+  <feature name="md5Hash" value="6ca51958c01c4ee3c80d2f95aa3604f0" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="115117" this_length="6218" source_reference="source-document09447.txt" source_language="en" source_offset="0" source_length="13617" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="274492" this_length="10702" source_reference="source-document03923.txt" source_language="en" source_offset="56562" source_length="21368" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="451342" this_length="16889" source_reference="source-document03923.txt" source_language="en" source_offset="171941" source_length="17482" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="524048" this_length="1471" source_reference="source-document03923.txt" source_language="en" source_offset="329179" source_length="1451" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="555898" this_length="3770" source_reference="source-document03923.txt" source_language="en" source_offset="93441" source_length="3910" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="590427" this_length="1807" source_reference="source-document03923.txt" source_language="en" source_offset="26209" source_length="1720" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="599881" this_length="1761" source_reference="source-document03923.txt" source_language="en" source_offset="294689" source_length="1721" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="616696" this_length="697" source_reference="source-document03923.txt" source_language="en" source_offset="157338" source_length="777" />
+</document>
+

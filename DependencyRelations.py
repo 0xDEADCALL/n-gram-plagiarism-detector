@@ -9,7 +9,7 @@ from os import strerror
 # TODO:
 #   - Add proper documentation to methods
 
-def _dep_rel_as_list(self, text, nlp):
+def _dep_rel_as_list(text, nlp):
     dependencies = []
     doc = nlp(text)
 

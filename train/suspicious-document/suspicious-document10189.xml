@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10189.txt">
+  <feature name="about" authors="Hutton, Laurence" title="A Boy I Knew and Four Dogs" lang="en" />
+  <feature name="md5Hash" value="e99224a1245bd9d6fa5af0320d0bc99c" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="472" source_reference="source-document01002.txt" source_language="en" source_offset="880" source_length="451" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2965" this_length="11833" source_reference="source-document10043.txt" source_language="en" source_offset="369022" source_length="22032" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="15484" this_length="10065" source_reference="source-document03492.txt" source_language="en" source_offset="1172" source_length="14215" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26609" this_length="17196" source_reference="source-document10997.txt" source_language="en" source_offset="1991" source_length="18749" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="45724" this_length="765" source_reference="source-document01400.txt" source_language="en" source_offset="1230" source_length="726" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="47075" this_length="20262" source_reference="source-document10043.txt" source_language="en" source_offset="342186" source_length="20677" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="69983" this_length="13537" source_reference="source-document01719.txt" source_language="en" source_offset="38687" source_length="22203" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="85425" this_length="2682" source_reference="source-document10043.txt" source_language="en" source_offset="404672" source_length="3282" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88323" this_length="239" source_reference="source-document10997.txt" source_language="en" source_offset="21204" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="88834" this_length="1441" source_reference="source-document10043.txt" source_language="en" source_offset="37476" source_length="1425" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90276" this_length="224" source_reference="source-document10043.txt" source_language="en" source_offset="76659" source_length="231" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10068.txt">
+  <feature name="about" authors="Woodworth, Robert S." title="Psychology A Study Of Mental Life" lang="en" />
+  <feature name="md5Hash" value="7cf2da93c9c570e2b0dc7fbc1bb21b" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="78240" this_length="22809" source_reference="source-document07564.txt" source_language="en" source_offset="6338" source_length="25122" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="142071" this_length="3911" source_reference="source-document05270.txt" source_language="en" source_offset="41741" source_length="4788" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="155893" this_length="1700" source_reference="source-document05270.txt" source_language="en" source_offset="5702" source_length="2431" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="171889" this_length="4398" source_reference="source-document05270.txt" source_language="en" source_offset="23779" source_length="4752" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="187892" this_length="4281" source_reference="source-document07564.txt" source_language="en" source_offset="33782" source_length="4317" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="205510" this_length="419" source_reference="source-document07564.txt" source_language="en" source_offset="1180" source_length="467" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="209629" this_length="1487" source_reference="source-document05270.txt" source_language="en" source_offset="16889" source_length="1495" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="215517" this_length="531" source_reference="source-document05270.txt" source_language="en" source_offset="8572" source_length="493" />
+</document>
+

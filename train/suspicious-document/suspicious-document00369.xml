@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00369.txt">
+  <feature name="about" authors="Spargo, John" title="Bolshevism The Enemy of Political and Industrial Democracy" lang="en" />
+  <feature name="md5Hash" value="48ed270b332960fef8d74e4509116241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1126" this_length="1440" source_reference="source-document01569.txt" source_language="en" source_offset="2419" source_length="1401" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7785" this_length="4759" source_reference="source-document01569.txt" source_language="en" source_offset="5841" source_length="4686" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18439" this_length="252" source_reference="source-document10685.txt" source_language="en" source_offset="10386" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19308" this_length="503" source_reference="source-document10685.txt" source_language="en" source_offset="268725" source_length="470" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21218" this_length="254" source_reference="source-document10685.txt" source_language="en" source_offset="235131" source_length="251" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21911" this_length="250" source_reference="source-document10685.txt" source_language="en" source_offset="190014" source_length="254" />
+</document>
+

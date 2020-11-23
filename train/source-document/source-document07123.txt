@@ -1,0 +1,332 @@
+﻿These laws have a long history. From Aristotle, the ancient Greek who first wrote books on
+psychology, there came down to modern times four laws of association. Facts become associated,
+according to Aristotle, when they are {395} contiguous (or close together) in space, or when
+they are contiguous in time, or when they resemble each other, or when they contrast with each
+other. The psychologists of the earlier modern period, in the eighteenth and first part of
+the nineteenth centuries, labored with very good success to reduce these four laws to one comprehensive
+law of association. Contiguity in space and in time were combined into a law of association
+by contiguity in experience, since evidently mere physical contiguity between two objects could
+establish no association between them in any one's mind except as he experienced them together.
+
+Association by Similarity
+
+Continuing their simplification of the laws of association, these older psychologists showed
+that resemblance and contrast belonged together, since to be similar things must have something
+in common, and to be contrasted also two things must have something in common. You contrast
+north with south, a circle and a square, an automobile and a wheelbarrow; but no one thinks
+of contrasting north with a circle, south with an automobile, or a square and a wheelbarrow,
+though these pairs are more incongruous than the others. Things that are actually associated
+as contrasting with each other have something in common; and therefore association by contrast
+could be included under association by similarity. Thus the four laws had been reduced to two,
+association by contiguity and association by similarity.
+
+The final step in this reduction was to show that association by similarity was a special case
+of association by contiguity. To be similar, two things must have something in common, and
+this common part, being contiguous with the remainder of each of the two things, establishes
+an indirect contiguity between the two things, a {396} sort of contiguity bridge between them.
+One thing has the parts or characteristics, A B X Y, and the similar thing has the parts or
+characteristics, C D X Y; and thus X Y, when seen in the second thing, call up A B, with which
+they are contiguous in the first thing.
+
+A stranger reminds me of my friend because something in the stranger's face or manner has been
+met with before in my friend; it has been contiguous with my friend, and recalls him by virtue
+of this contiguity. The stranger, as a whole individual, has never been contiguous with my
+friend, but some characteristic of the stranger has been thus contiguous. In association by
+similarity, it is not the whole present object that arouses recall of the similar object, but
+some part of the present object. This kind of association is important in thinking, since it
+brings together facts from different past experiences, and thus assembles data that may be
+applied to a new problem. If every new object or situation could only be taken as a whole,
+it could not remind me of anything previously met; and I should be like an inexperienced child
+in the presence of each new problem; but, taken part by part, the novel situation has been
+met with before, and can be handled in the light of past experience.
+
+Exactly what there is in common between two similar faces or other objects cannot always be
+clearly made out; but the common characteristic is there, even if not consciously isolated,
+and acts as an effective stimulus to recall.
+
+Association by Contiguity
+
+This reduction of all the laws of association to one great law was no mean achievement; and
+the law of association by contiguity in experience holds good. If one thing recalls another
+to your mind, you can be sure that the two {397} have been contiguous in your experience, either
+as wholes or piecemeal. For two things to become associated, they must be experienced together.
+
+Yes, the law holds good, when thus stated--but notice that the statement is virtually negative.
+It says, in effect, that two things do not become associated unless they are contiguous in
+experience. If it were turned about to read that two things do become associated if they are
+contiguous in experience, it would no longer be a true law, for the exceptions would then be
+extremely numerous.
+
+The memory and testimony experiments have brought many exceptions to light. Show a person twenty
+pictures in a row, and let him examine each one in turn so closely that he can later recognize
+every one of them; and still he will not have the adjacent pictures so associated that each
+one can call up the next in order. To accomplish his last task, he has to observe the order
+specifically; it is not enough that he simply experiences pictures together. Or, again, read
+to a person twenty pairs of words, asking him to notice the pairs so that later he can respond
+by the second word of any pair when the first word is given him; and read the list through
+three or four times, so that he shall be able to make almost a perfect score in the expected
+test; still he will have formed few associations between the contiguous pairs, and will make
+a very low score if you ask him to recite the pairs in order. Many similar experiments have
+yielded the same general result--contiguity in experience and still no association.
+
+The law of association by contiguity is unsatisfactory from a modern standpoint because it
+treats only of the stimulus, and says nothing about the response. It states, quite truly, that
+stimuli must be contiguous in order that an association between them may be formed, but it
+neglects to state that the association, being something in us, must {398} be formed by our
+reaction to the stimuli. It is especially necessary to consider the response because, as we
+have just seen, the response is not always made and the association, therefore, not always
+formed. Only if the stimuli are contiguous, can the associating response be aroused, but they
+do not infallibly arouse it even if they are contiguous.
+
+The law of contiguity is incomplete, also, because it is not applicable to the association
+of two motor acts into a coördinated higher unit, or of the combination of two primary emotions
+into a higher emotional unit.
+
+In a word, the time-honored law of association is no longer satisfactory because it does not
+fit into a stimulus-response psychology. It comes down from a time when the motor side of mental
+performances was largely overlooked by psychology, and when the individual was pictured as
+being passively "impressed" with the combinations of facts that were presented to his senses.
+
+The Law of Combination
+
+What we need, then, as an improvement on the old law of association by contiguity, and as a
+supplement to the law of exercise, is some law governing the response to two or more contiguous
+stimuli. Now we already have such a law, which we put to some use in studying attention, [Footnote:
+See pp. 268-264.] and called the law of "combination", or of "unitary response to a plurality
+of stimuli". We had better fetch that law out again and put it in good repair, and see whether
+it is adequate for the job that we now have on hand. In a very general, abstract form, the
+law of combination read that "two or more stimuli may arouse a single joint response". Let
+us add a single word, which had not risen above the horizon when we formulated the law before,
+and say that {399} two or more contiguous stimuli may arouse a single joint response.
+
+That seems very little to say; can we possibly go far with so simple a statement? Well, let
+us see. In saying that two or more stimuli arouse a single response, we imply that there is
+already some rudimentary linkage between each stimulus and their common response, and that
+this linkage is used in arousing the response. Now bring in our trusty law of exercise, and
+we see that the use, or exercise, of such a linkage may strengthen it to such an extent that,
+later, a single one of the stimuli may arouse the response which was originally aroused by
+the whole collection of stimuli.
+
+Does that promise any better? Probably it requires further discussion and exemplification before
+its value can be appreciated. Let us, then, first discuss it a bit, and then apply it to the
+explanation of the chief varieties of learned reaction that have come to our attention.
+
+The law of combination attempts to show how it comes about that a stimulus, originally unable
+to arouse a certain response, acquires the power of arousing it; and the law states that this
+occurs only when the originally ineffective stimulus is combined with others which can and
+do arouse the response. The ineffective stimulus, being one of a combination of stimuli which
+collectively arouse the response, participates to some slight degree in arousing that response
+and may thus become effectively linked with the response.
+
+Notice an assumption underlying the law of combination. Evidently a stimulus could not take
+part in arousing a response unless there were some pre-existing linkage between it and the
+response. This linkage may however be extremely loose and feeble, and wholly incapable by itself
+of arousing the response. The assumption of pre-existing loose linkage between almost any stimulus
+and almost any response is justified by the facts of playful behavior and trial and error {400}
+behavior. In addition to the close reflex connections provided in the native constitution,
+and in addition also to the close connections formed in previous training, there are at any
+time, and especially in childhood and youth, a vast number of loose connections. These are
+too weak to operate singly, until they have coöperated in producing a response, and thus been
+individually strengthened, after which they may be able singly to produce the response.
+
+The law of combination, then, as applied to learning, includes four points:
+
+  (a) A collection of stimuli may work together and arouse a single
+      response.
+
+  (b) This is possible because of pre-existing loose linkage between
+      the separate stimuli and the response.
+
+  (c) When any stimulus, working together with others, helps to arouse
+      a response, its linkage with that response is strengthened by
+      exercise.
+
+  (d) The linkage may be sufficiently strengthened so that a single
+      stimulus can arouse the response without help from the other
+      stimuli that were originally necessary.
+
+Having now abundantly stated and reiterated the law of combination in the abstract, let us
+turn to concrete instances of learned reactions, and see how the law takes care of them. We
+have already classified a large share of all the concrete instances under a few main heads,
+as substitute stimulus, substitute response, combination (or association) of stimuli, and combination
+of responses. We shall presently find it possible to reduce these four classes to two, since
+the association of two objects, by virtue of which one of them later recalls the other, is
+a rather complicated case of substitute stimulus, while the combination of movements into a
+higher unit is a complicated case of substitute response.
+
+  [Footnote: To distinguish between "substitute stimulus" and
+  "substitute response" is, in strict logic, like distinguishing
+  between "inside out" and "outside in." Whenever there is a
+  substitute stimulus there is also a substitute response, of course,
+  since this stimulus, in being substituted for another, gets that
+  other's response in place of its own original response; and in the
+  same way, you can always find substitute stimulus in any instance of
+  substitute response; for, in being substituted for another, a
+  response gets that other's stimulus in place of its own original
+  stimulus. For all that, the distinction between the two main cases
+  of learning is of some importance, since sometimes the changed
+  stimulus, and sometimes the changed response, is the interesting
+  fact.]
+
+{401}
+
+I. SUBSTITUTE STIMULUS EXPLAINED BY THE LAW OF COMBINATION
+
+Here the response, without being itself essentially changed, becomes attached to a new stimulus.
+We distinguish two cases under the general head of substitute stimulus. In the one case, the
+substitute stimulus was originally extraneous, and unnecessary for arousing the response, while
+in the other case it was originally necessary as part of a team of stimuli that aroused the
+response.
+
+A. Substitute Stimulus Originally Unnecessary for Arousing the Response
+
+1. Conditioned reflex.
+
+This is the very simplest case belonging under the law of combination. The dog that responded
+to the bell by a flow of saliva, after the bell plus a tasting substance had acted together
+on him time after time, is the typical instance; and another good instance is that of the little
+child who was "taught" to shrink from a rabbit by the sounding of a harsh noise along with
+the showing of the rabbit. [Footnote: See p. 303.] The explanation of all instances of conditioned
+reflex is the same. We have an effective stimulus acting, i.e., a stimulus strongly linked
+with the response; and we also have acting an ineffective stimulus, which gets drawn into the
+same reaction. The effective stimulus determines what response shall be made, and the other
+stimulus finds an outlet {402} into that response, being, as it seems, attracted towards the
+activated response, sucked into it. The weak linkage from the ineffective stimulus to the response,
+being thus used and strengthened, later enables this stimulus to arouse the response single-handed.
+
+This sort of thing is best presented in a diagram. A full line in the diagram denotes a linkage
+strong enough to work alone, while a dotted line denotes a weak linkage. Letters stand for
+stimuli and responses. In the diagram for conditioned reflex, A is the original effective stimulus
+(the rasping noise in the instance of the child and the rabbit), and B is the ineffective stimulus
+(the sight of the rabbit). R is the shrinking response, linked strongly to the stimulus A and
+only weakly to the stimulus B, which has several other linkages fully as good as the linkage
+B-R. But A arouses the response R; and R, being thus activated, draws on B and brings the linkage
+B-R into use. After this has occurred a number of times, the linkage B-R has been so strengthened
+by repeated exercise that it can operate alone, so that the rabbit brings the shrinking response
+even in the absence of A, the noise.
+
+At first, the child shrinks from the noise, but, the rabbit being before his eyes, he incidentally
+shrinks from the rabbit as well. He really shrinks in response to all the stimuli acting on
+him at that moment. He shrinks from the whole situation. He makes a unitary response to the
+whole collection of contiguous stimuli, and thus exercises the linkage between each stimulus
+and their joint response. The {403} linkage between rabbit and shrinking is later strong enough
+to work alone. It is a clear case of the law of combination.
+
+2. Learning the names of things.
+
+A child who can imitate simple words that he hears is shown a penny and the word "penny" is
+spoken to him. To this combination of stimuli he responds by saying the word. This is primarily
+a response to the auditory stimulus, since the sight of the penny, though it might probably
+have aroused some response, and even some vocal response from the child, had no strong linkage
+with this particular vocal response. But the auditory stimulus determined the response, and
+attracted the visual stimulus into this particular channel of saying "penny". The linkage from
+the sight of the penny to the saying of this word being thus strengthened by exercise, the
+seen penny later gives the right vocal response, without any auditory stimulus to assist.
+
+{404}
+
+B. Substitute Stimulus Originally an Essential Member Of A Team of Stimuli That Aroused the
+Response
+
+1. Observed grouping or relationship.
+
+"Learning by observation" is a very important human accomplishment, and we found many evidences
+of its importance in our study of the process of memorizing. The facts observed, which assist
+memory so greatly, are usually relations or groups.
+
+Evidently the observation of a group of things is a response to a collection of stimuli, and
+could not originally be aroused by any one of the stimuli alone. The same is true of observing
+a relationship; the observation is a response to two things taken together, and not, originally,
+to either of the two things taken alone. In spite of this, a single one of the things may later
+call to mind the relationship, or the group; that is, it arouses the response originally made
+to the pair or group of stimuli. The single stimulus has been substituted for the team that
+originally aroused the response. Its linkage with the response has been so strengthened by
+exercise as to operate effectively without assistance.
+
+For example, in learning pairs of words in a "paired {405} associates experiment", [Footnote:
+See p. 336.] the subject is apt to find some relation between the words forming a pair, even
+though they are supposed to be "unrelated words". When he has thus learned the pair, either
+of the words in it will recall the observed relation and the other word of the pair. Sometimes,
+after a long interval especially, the relation is recalled without the other word. One subject
+fixed the pair, "windy--occupy", by thinking of a sailor occupying a windy perch up in the
+ropes. Some weeks later, on being given the word "windy", he recalled the sailor on the perch,
+but could not get the word "occupy". That is, he made the same response to "windy" that he
+had originally made to "windy--occupy", but did not get the response completely enough to give
+the second word.
+
+In the typical cases of association by contiguity when one object reminds us of another that
+was formerly experienced together with it, the law of combination comes in as just described.
+The two objects were observed to be grouped or related in some way, or some such unitary response
+was made to the two objects taken together, and this response became so linked to each of the
+objects that later a single one of them arouses this unitary response and recalls the other
+object. In the free association test, [Footnote: See p. 380.] the stimulus word "dimple" calls
+up the previously made response of seeing a dimple in a cheek, and so leads to the word "cheek".
+In a controlled association test, where opposites are required, the stimulus word "mythical"
+arouses the previously made observation of the antithesis of mythical and historical, and so
+leads to the motor response of saying the latter word.
+
+  [Footnote: When, however, this indirect linkage between stimulus and
+  motor response is frequently exercised, short-circuiting takes place
+  (see p. 338), and the stimulus word arouses the motor response
+  directly. Short-circuiting follows the law of combination very
+  nicely. Let a stimulus S arouse an idea I and this in turn a motor
+  act M. S--I--M represents the linkages used. But undoubtedly there
+  is a weak pre-existing linkage directly across from S to M, and this
+  gets used to a slight degree, strictly according to the conditioned
+  reflex diagram, with I playing the part of the effective stimulus in
+  arousing M, and S the part of the originally ineffective stimulus.
+  By dint of being exercised in this way, the linkage S--M becomes
+  strong enough to arouse the motor response directly, and I is then
+  very likely to be left out altogether.]
+
+{406}
+
+2. Response by analogy and association by similarity.
+
+When an object reminds me of a similar object, that is association by similarity. But suppose
+I actually take the object to be the similar object, and behave towards it accordingly; then
+my reaction is called "response by analogy". Once, when far from home, I saw a man whom I took
+to be an acquaintance from my home town, and stepped up to him, extending my hand. He did not
+appear very enthusiastic, and informed me that, in his opinion, I had made a mistake. This
+was response by analogy, but if I had simply said to myself that that man looked like my acquaintance,
+that would have been association by similarity. Really, association by similarity is the more
+complex response, for it involves response to the points of newness in the present object,
+as well as to the points of resemblance to the familiar object, whereas response by analogy
+consists simply in responding to the points of resemblance.
+
+Response by analogy often appears in little children, as when they call all men "papa"' or
+as when they call the squirrel a "kitty" when first seen. If they call it a "funny kitty",
+that is practically association by similarity, since the word "funny" is a response to the
+points in which a squirrel is different from a cat, while the word "kitty" is a response to
+the points of resemblance.
+
+But response by analogy is not always so childish or comic as the above examples might seem
+to imply. When we respond to a picture by recognizing the objects depicted, that is response
+by analogy, since the pictured object is only {407} partially like the real object; a bare
+outline drawing may be enough to arouse the response of "seeing" the object. Other instances
+of response by analogy will come to light when, in the next chapter, we come to the study of
+perception.
+
+The machinery of response by analogy is easily understood by aid of the law of combination.
+A complex object, presenting a number of parts and characteristics, arouses the response of
+seeing and perhaps naming the object. This is a unitary response to a collection of stimuli,
+and each of the parts or characteristics of the object participates in arousing the response,
+and the linkage of each part with the response is thus strengthened. Later, therefore, the
+whole identical object is not required to arouse this same {408} response, but some of its
+parts or characteristics will give the response, and they may do this even when they are present
+in an object that has other and unfamiliar parts and characteristics.
+
+The machinery of association by similarity is the same, with the addition of a second response,
+called out by the new characteristics of the present object.
+
+II. SUBSTITUTE RESPONSE EXPLAINED BY THE LAW OF COMBINATION
+
+The substitute response machinery is more complicated than that of the substitute stimulus,
+as it includes the latter and something more. What that something more is will be clear if
+we ask ourselves why a substitute response should ever be made. Evidently because there is
+something wrong with the original response; if that were entirely satisfactory, it would continue
+to be made, and there would be no room for a substitute. The original response being unsatisfactory
+to the individual, how is he to find a substitute? Only by finding some stimulus that will
+arouse it. This is where trial and error come in, consisting in a search for some extra stimulus
+that shall give a satisfactory response.
+

@@ -7,6 +7,7 @@ from errors import *
 from NGram import *
 from DependencyRelations import *
 from random import sample
+from multiprocessing import cpu_count
 
 from istarmap import *
 import xml.etree.ElementTree as ET
@@ -19,20 +20,13 @@ import stanza
 #   - Add proper documentation
 
 # Worker functions, needs to be at the top to be pickled
-def save_ngram_protected(path: pathlib.PurePath, output: pathlib.PurePath, order: int, force_rewrite=True):
-    if path.exists():
-        if force_rewrite:
-            NGram.from_txt_file(path, order).save(output / (path.stem + ".NGram"))
-    else:
-        NGram.from_txt_file(path, order).save(output / (path.stem + ".NGram"))
+def save_ngram_protected(path: pathlib.PurePath, output: pathlib.PurePath, order: int,
+                         transformations: list = ["tok"]):
+    NGram.from_txt_file(path, order, transformations).save(output / (path.stem + ".NGram"))
 
 
-def save_dep_protected(path: pathlib.PurePath, output: pathlib.PurePath, nlp, force_rewrite=True):
-    if path.exists():
-        if force_rewrite:
-            DependencyRelations.from_txt_file(path, nlp).save(output / (path.stem + ".dep"))
-    else:
-        DependencyRelations.from_txt_file(path, nlp).save(output / (path.stem + ".dep"))
+def save_dep_protected(path: pathlib.PurePath, output: pathlib.PurePath, nlp):
+    DependencyRelations.from_txt_file(path, nlp).save(output / (path.stem + ".dep"))
 
 
 class PlagiarismFile:
@@ -143,19 +137,18 @@ class PlagiarismDataHandler:
 
         for f in tqdm.tqdm(source, desc="Copying source files..."):
             shutil.copy(f, source_path / f.name)
-            shutil.copy(f.with_suffix(".xml"), source_path / (f.name + ".xml"))
+            shutil.copy(f.with_suffix(".xml"), source_path / (f.stem + ".xml"))
 
         for f in tqdm.tqdm(plagiarized, desc="Copying suspicious files..."):
             shutil.copy(f, suspicious_path / f.name)
-            shutil.copy(f.with_suffix(".xml"), suspicious_path / (f.name + ".xml"))
+            shutil.copy(f.with_suffix(".xml"), suspicious_path / (f.stem + ".xml"))
 
         if make_zip:
-            print("Compresing files...")
-            shutil.make_archive("subset", "zip", "subset")
-            shutil.rmtree(Path("subset"))
+            print("Compressing files...")
+            shutil.make_archive(output.stem, "zip", output)
+            shutil.rmtree(Path(output))
 
-    def gen_ngram_files(self, order: int, output: pathlib.PurePath, threads: int = 1, force_rewrite=True,
-                        verbose=True, max_source=None, max_suspicious=None):
+    def gen_ngram_files(self, order: int, output: pathlib.PurePath, transformations: list = ["tok"]):
 
         if not isinstance(output, PurePath):
             raise NotPurePathError("output arg is not PurePath object")
@@ -164,39 +157,36 @@ class PlagiarismDataHandler:
             raise FileNotFoundError(ENOENT, strerror(ENOENT), output)
 
         # Make output dirs
-        out_source = output / f"source-{order}-ngram"
-        out_suspicious = output / f"suspicious-{order}-ngram"
+        out_source = output / f"source-{order}-{'-'.join(transformations)}-ngram"
+        out_suspicious = output / f"suspicious-{order}-{'-'.join(transformations)}-ngram"
 
         out_source.mkdir(parents=True, exist_ok=True)
         out_suspicious.mkdir(parents=True, exist_ok=True)
 
-        source_files = self.txt_source_paths[:max_source]
-        suspicious_files = self.txt_suspicious_paths[:max_suspicious]
+        source_files = self.txt_source_paths
+        suspicious_files = self.txt_suspicious_paths
 
         args_source = list(zip(source_files,
                                [out_source] * len(source_files),
                                [order] * len(source_files),
-                               [force_rewrite] * len(source_files)))
+                               [transformations] * len(source_files)))
 
         args_suspicious = list(zip(suspicious_files,
                                    [out_suspicious] * len(suspicious_files),
                                    [order] * len(suspicious_files),
-                                   [force_rewrite] * len(suspicious_files)))
+                                   [transformations] * len(suspicious_files)))
 
-        with mpp.Pool(threads) as p:
+        with mpp.Pool(cpu_count() + 2) as p:
             r = list(tqdm.tqdm(p.istarmap(save_ngram_protected, args_source),
                                total=len(args_source),
-                               disable=not verbose,
                                desc="Writing source .NGram files"))
 
-        with mpp.Pool(threads) as p:
+        with mpp.Pool(cpu_count() + 2) as p:
             r = list(tqdm.tqdm(p.istarmap(save_ngram_protected, args_suspicious),
                                total=len(args_suspicious),
-                               disable=not verbose,
                                desc="Writing suspicious .NGram files"))
 
-    def gen_dep_files(self, output: pathlib.PurePath, force_rewrite=True,
-                      verbose=True, max_source=None, max_suspicious=None):
+    def gen_dep_files(self, output: pathlib.PurePath):
 
         if not isinstance(output, PurePath):
             raise NotPurePathError("output arg is not PurePath object")
@@ -211,8 +201,8 @@ class PlagiarismDataHandler:
         out_source.mkdir(parents=True, exist_ok=True)
         out_suspicious.mkdir(parents=True, exist_ok=True)
 
-        source_files = self.txt_source_paths[:max_source]
-        suspicious_files = self.txt_suspicious_paths[:max_suspicious]
+        source_files = self.txt_source_paths
+        suspicious_files = self.txt_suspicious_paths
 
         nlp = stanza.Pipeline(lang='en', processors='tokenize,pos,lemma,depparse', use_gpu=False)
 

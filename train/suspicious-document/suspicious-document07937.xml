@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07937.txt">
+  <feature name="about" authors="Victoria, Queen of Great Britain" title="The Letters of Queen Victoria : A Selection from Her Majesty's Correspondence between the Years 1837 and 1861 Volume 1, 1837-1843" lang="en" />
+  <feature name="md5Hash" value="453b3885b7b347ef411b69a952df4b89" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1" this_length="273" source_reference="source-document10065.txt" source_language="en" source_offset="0" source_length="270" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3311" this_length="250" source_reference="source-document10065.txt" source_language="en" source_offset="731" source_length="245" />
+</document>
+

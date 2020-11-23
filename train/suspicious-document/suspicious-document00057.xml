@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00057.txt">
+  <feature name="about" authors="Ballantyne, Robert Michael" title="Chasing the Sun" lang="en" />
+  <feature name="md5Hash" value="e3904e0d6ad26b301818aab6b696bca5" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1006" this_length="3384" source_reference="source-document07064.txt" source_language="en" source_offset="7164" source_length="3415" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4871" this_length="4151" source_reference="source-document07064.txt" source_language="en" source_offset="2540" source_length="4020" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10688" this_length="8673" source_reference="source-document00155.txt" source_language="en" source_offset="0" source_length="23657" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="27991" this_length="8080" source_reference="source-document02081.txt" source_language="en" source_offset="139963" source_length="24990" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="46921" this_length="14851" source_reference="source-document07064.txt" source_language="en" source_offset="12579" source_length="14419" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="63816" this_length="20301" source_reference="source-document09184.txt" source_language="en" source_offset="190996" source_length="21998" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="92385" this_length="3137" source_reference="source-document10809.txt" source_language="en" source_offset="260" source_length="3228" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="96127" this_length="3625" source_reference="source-document02081.txt" source_language="en" source_offset="45959" source_length="3718" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="100766" this_length="1915" source_reference="source-document03456.txt" source_language="en" source_offset="2035" source_length="4888" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104230" this_length="480" source_reference="source-document02081.txt" source_language="en" source_offset="177000" source_length="488" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="104711" this_length="231" source_reference="source-document10809.txt" source_language="en" source_offset="3488" source_length="226" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105298" this_length="518" source_reference="source-document02081.txt" source_language="en" source_offset="186404" source_length="534" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="105817" this_length="279" source_reference="source-document04022.txt" source_language="en" source_offset="27644" source_length="266" />
+</document>
+

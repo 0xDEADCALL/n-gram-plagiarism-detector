@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08207.txt">
+  <feature name="about" authors="Ellicott, Charles John" title="Addresses on the Revised Version of Holy Scripture" lang="en" />
+  <feature name="md5Hash" value="906ba8e494f3ce99b5ec907fd2d9b31a" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="41315" this_length="12727" source_reference="source-document01024.txt" source_language="en" source_offset="46654" source_length="24006" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="111399" this_length="3408" source_reference="source-document04560.txt" source_language="en" source_offset="32568" source_length="4298" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="135356" this_length="1375" source_reference="source-document01024.txt" source_language="en" source_offset="115696" source_length="2490" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="141769" this_length="236" source_reference="source-document04560.txt" source_language="en" source_offset="108578" source_length="231" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="144949" this_length="710" source_reference="source-document04560.txt" source_language="en" source_offset="77128" source_length="734" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="147180" this_length="239" source_reference="source-document01024.txt" source_language="en" source_offset="258960" source_length="255" />
+</document>
+

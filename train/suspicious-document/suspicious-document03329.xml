@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03329.txt">
+  <feature name="about" authors="Breuer, Miles John" title="The Einstein See-Saw" lang="en" />
+  <feature name="md5Hash" value="b298ad19b84e9f05bb371497c219862e" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="24527" this_length="203" source_reference="source-document00800.txt" source_language="en" source_offset="4692" source_length="260" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="35583" this_length="741" source_reference="source-document05304.txt" source_language="en" source_offset="386866" source_length="752" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="38594" this_length="3467" source_reference="source-document09449.txt" source_language="en" source_offset="78681" source_length="4225" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="43933" this_length="5466" source_reference="source-document10496.txt" source_language="en" source_offset="36667" source_length="4148" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="49620" this_length="2495" source_reference="source-document01791.txt" source_language="en" source_offset="196054" source_length="2222" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="52230" this_length="252" source_reference="source-document00213.txt" source_language="en" source_offset="39303" source_length="240" />
+  <feature name="plagiarism" type="simulated" this_language="en" this_offset="52520" this_length="251" source_reference="source-document09662.txt" source_language="en" source_offset="124614" source_length="241" />
+</document>
+

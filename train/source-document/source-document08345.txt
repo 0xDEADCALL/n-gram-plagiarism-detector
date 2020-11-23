@@ -1,0 +1,436 @@
+﻿The Italian instruments were of simpler construction than those built by the North Europeans,
+and they lacked the familiar second manual and array of stops.
+
+In this paper, typical examples of Italian harpsichords from the Hugo Worch Collection in the
+United States National Museum are described in detail and illustrated. Also, the author offers
+an explanation for certain puzzling variations in keyboard ranges and vibrating lengths of
+strings of the Italian harpsichords.
+
+THE AUTHOR: John D. Shortridge is associate curator of cultural history in the United States
+National Museum, Smithsonian Institution.
+
+Perhaps the modern tendency to idealize progress has been responsible for the neglect of Italian
+harpsichords and virginals during the present day revival of interest in old musical instruments.
+Whatever laudable traits the Italian builders may have had, they cannot be considered to have
+been progressive. Their instruments of the mid-16th century hardly can be distinguished from
+those made around 1700. During this 150 years the pioneering Flemish makers added the four-foot
+register, a second keyboard, and lute and buff stops to their instruments. However, the very
+fact that the Italian builders were unwilling to change their models suggests that their instruments
+were good enough to demand no further improvements. Anyone who has heard a properly restored
+Italian harpsichord or an accurately made reproduction will agree that the tone of such instruments
+is of exceptional beauty.
+
+This paper consists of a description of the structural features of two typical Italian instruments
+and a general discussion of the stringing and tuning of Italian harpsichords and virginals
+that is based on certain measurements of 33 instruments housed in various museums in the United
+States. To the curators and other staff members of these institutions I express my sincere
+gratitude for making it possible for me to measure valuable instruments entrusted to their
+care or for supplying similar information by mail.
+
+The first type of instrument described below usually has been designated in modern books about
+musical instruments and in catalogs of instrument collections as a spinet, the term virginal
+being applied to the rectangular instruments having the keyboard along the long side. Since
+both of these types have basically the same arrangement of keyboard, wrest plank, hitch pins,
+strings and jacks, and since both types were known as virginals in 17th-century England, it
+is logical to reserve the term spinet for another kind of instrument, namely the one with the
+wrest plank and tuning pins in front over the keyboard, and with the strings stretched diagonally.
+Such instruments were popular in England in the late 17th and early 18th centuries and were
+known in English as spinets during the period of their popularity. By using the term polygonal
+virginal we can distinguish, when necessary, the five-sided Italian model from the rectangular
+instruments usually produced in northern Europe. Some rectangular virginals were made in Italy;
+one Flemish polygonal virginal, made by the elder Hans Ruckers in 1591, survives. Long instruments,
+resembling the grand piano in shape, are called harpsichords. Of course it is understood that
+both types of virginals as well as the spinet and the harpsichord were keyed chordophones employing
+the plucking action of jacks and plectra.
+
+Throughout this paper the different octaves are indicated according to the following system:
+
+The Typical Italian Polygonal Virginal
+
+To give a clear idea of the construction of the Italian polygonal virginal, a detailed description
+of one particular example is presented here. This virginal is included in the Hugo Worch collection
+at the U.S. National Museum. The maker's name is not known, but the instrument is believed
+to have been built around 1600.
+
+As is true of the great majority of Italian virginals and harpsichords of the 16th and 17th
+centuries, the instrument proper is removable from its outer case. The outer case (fig. 2),
+of sturdier construction than the virginal which it was designed to protect, is made of wood
+about 1/2" thick and is decorated with paintings of female figures and garlands. The original
+legs are missing.
+
+Our main interest is in the virginal proper (fig. 3), the construction of which is comparable
+in some ways to that of the violin. The very thin sides of the virginal are held together at
+the corners by blocks, and the soundboard is supported by a lining.
+
+The cross section drawing (fig. 4) shows the 9/16" thick bottom and the sides which are 1/8"
+thick. The lining, 1/2" by 1-1/3", runs around four sides of the instrument, the wrest plank
+replacing it on the fifth side. The soundboard thickness, measured inside the holes through
+which the jacks pass, varies from 1/16" in the bass to 1/8" in the treble. The manner in which
+variations in thickness are distributed over the entire soundboard has not been determined.
+The cross section drawing also shows the beautifully executed mouldings that make the sides
+appear to be thicker than they really are.
+
+The positions of the knee braces, the shape of which can be seen in figure 4, are shown along
+either side of the keyboard in figure 5. These braces are 3/4" thick. The positions of the
+blocks, small pieces with the grain running perpendicular to the bottom, and the wrest plank,
+which is 1-1/4" thick, are also shown. The two ribs are attached to the underside of the soundboard
+in the positions indicated. The jack guide, built up of separate pieces held together by long
+strips down either side, is glued to the underside of the soundboard and extends as far as
+the lining in the treble but stops a little short of it in the bass (fig. 5). The jack guide
+is 15/16" thick.
+
+The layout of the soundboard in figure 6 gives the relative positions of the bridges, tuning
+pins, hitch pins, strings, jacks, and jack rail. There is, of course, one jack and one string
+per key. The jacks presently in this virginal, not being original, will not be described. Typical
+Italian jacks will be described later. The bridges are 5/16" wide and vary in height from 7/16"
+in the bass to 3/8" in the treble. A cross section of one of the bridges appears in figure
+4. The jack rail, also shown in figure 4, extends over the jacks 1-1/8" above the soundboard.
+It serves not only to prevent the jacks from flying out during play but also to terminate the
+downward fall of the fronts of the keys. The keys do not drop far enough to touch the key frame,
+but instead are stopped by the jacks striking the jack rail.
+
+The keyboard has an apparent compass of four octaves and one note from E to f´´´. Short octave
+tuning would have extended the compass down a major third to C in the bass, with the E key
+sounding C, the F# key sounding D, the G# key sounding E, and the remaining keys sounding their
+proper pitches. These three keys will hereafter be referred to as C/E, D/F# and E/G#.
+
+The lowest eight keys have small wire eyes attached to their undersides near the front. A corresponding
+slot is cut through the inner and outer cases, allowing the eyes to be connected to a short
+pedal keyboard which has not survived.
+
+The keys themselves vary in length from 10" in the bass to 18-1/2" in the treble; they are
+mounted on a trapezoidal key frame which is removable from the instrument. The balance rail
+and balance rail pins are on a diagonal, resulting in a gradual but noticeable change in the
+touch from one end of the keyboard to the other. The rack, 1/2" thick and 1-3/4" high, is fastened
+along the back of the key frame and has one vertical saw cut for each key. Projecting from
+the back of each key is a small sliver of wood which rides in its proper saw cut and serves
+to guide the key. The natural keys are veneered with boxwood and have arcaded boxwood fronts.
+The sharps are small blocks of hardwood stained black.
+
+The sides, soundboard, ribs, jacks, guide, jackrail, and mouldings are made of cypress, the
+wrest plank and bridges are of walnut, and the framework, bottom, keys, and key frame are of pine.
+
+The photographs (figs. 2, 3) show the decorative use of ivory studs. On the soundboard appears
+the Latin inscription Vita brevis, ars longa. A laminated parchment rose, 3-3/16" in diameter,
+is placed in the soundboard in the position indicated in figure 6. A typical example of this
+decorative device is shown in figure 12.
+
+The above-described virginal is typical of Italian practice. Other examples studied generally
+have differed from it only in small details, except in the case of compass and vibrating lengths
+of strings. These factors will be discussed in detail in a following section.
+
+The Typical Italian Harpsichord
+
+The instrument chosen to illustrate the stylistic features of the Italian harpsichord is also
+in the collection of the U.S. National Museum. This harpsichord, purchased for the Museum in
+1892 by Dr. G. Brown Goode, was made in 1665 by Giacomo Ridolfi, who claimed Girolamo Zenti
+as his teacher. The inscription on the nameboard reads "Jacobus Rodolphus Hieronymi de Zentis
+Discipulus MDCLXV Facieba."
+
+Like the virginal described above, this harpsichord is separable from its outer case. The outer
+case rests on a separate stand consisting of three gilt cupids and a floral garland. Since
+the painted decoration of this case is not original, another outer case, belonging to a harpsichord
+made by Horatius Albana in 1633, was selected for the illustration (fig. 1).
+
+Two unison strings per key and two registers of jacks are provided. The apparent compass of
+the keyboard is from C/E to c´´´. The remains of pedal connections can be seen on the lowest
+eight keys.
+
+The sides of the harpsichord are 5/32" thick; the bottom is 9/16" thick. The sides and lining
+are supported by knees that do not extend clear across the bottom of the instrument as they
+do in the virginal.
+
+The knees are small triangular pieces, as shown in figure 8. Since the added tension of the
+second set of strings demands a somewhat more substantial framework than that employed in the
+virginal, a series of braces are attached to the floor. These are connected to the lining by
+several diagonal braces (fig. 9). This produces a remarkably strong but very light structure.
+The keys (not shown) are of more constant length than those of the virginal; therefore, the
+touch is much more uniform.
+
+The wrest plank is supported by two end blocks, against which the partition behind the action
+(called the belly rail) is also placed. The soundboard is glued to the top of the belly rail.
+The wrest plank is veneered with cypress, giving the appearance that the soundboard extends
+over it. The jack guides also rest on the end blocks in the space between the wrest plank and
+the belly rail. Figures 8 and 11 clarify the arrangement of these structural features.
+
+Figure 10 shows the layout of ribs, bridges, and strings on the soundboard. The soundboard
+is about 1/8" thick. The bridge on the wrest plank tapers in height from 3/8" in the treble
+to 7/16" in the bass and in width from 5/16" to 7/16". The soundboard bridge measures about
+3/8" by 1/4" and has virtually no taper. The soundboard does not have a rose, although that
+decorative device is fairly common on Italian harpsichords.
+
+The jack guides are built up of spacer blocks held together by thin strips along the sides.
+There is now no provision for moving the guides, although plugged-up holes visible in the right
+end of each guide suggest that they originally could be disengaged. In Italian harpsichords
+generally, the jack guides were controlled by knobs projecting through the sides of the case.
+Sometimes these harpsichords had levers pivoted on the wrest plank and attached to the guides.
+The Ridolfi case has not been patched and there are no holes in the wrest plank where levers
+could have been attached; so, the guides probably were not intended to be movable.
+
+The jacks are simple slips of walnut measuring about 3/16" by 7/16" by 3-1/8". The arrangement
+of the tongue, spring, plectrum, and damper are shown in figure 11. The dampers are small pieces
+of buckskin held in slots at the tops of the jacks. The plectra, perhaps not original, are
+of leather. Of course, there are no adjusting screws or capstans of any variety.
+
+The direction in which the plectra of each row of jacks should be pointing is not known. Two
+clavicytheria having two registers of strings and a single row of double tongue jacks have
+been examined by the author. Each of these jacks has two plectra, one pointing to the right
+and one to the left. Turning these jacks around does not alter the order of direction. The
+plectra nearest the keyboard points the same way whether the jack is upside down or not. In
+the clavicytherium at the Smithsonian Institution the plectra nearest the keyboard points to
+the player's left. In a clavicytherium at the Boston Museum of Fine Arts the opposite is true.
+Probably both arrangements were used in harpsichords also.
+
+String Lengths and Pitch Standards
+
+The vibrating lengths of the strings of the polygonal virginal and of the Ridolfi harpsichord
+can be roughly determined from the drawings. For purposes of comparison, a tabulation of the
+vibrating lengths (in inches) of the C strings on both instruments follows:
+
+                    Polygonal    Harpsichord
+                      virginal
+  c´´´                 6-5/8          5-1/16
+  c´´ (pitch C)       12-15/16       10
+  c´ (middle C)       25-9/16        20-1/2
+  c                   43-5/16        42-1/16
+  C/E                 50-5/6         61-1/4
+
+The lengths shown for the harpsichord represent the shorter of the two strings with which each
+key is provided.
+
+In order to produce a uniform tone color throughout the compass of a stringed instrument, it
+is necessary, among other things, to have the tension of all the strings reasonably uniform.
+In the treble this is accomplished by varying the string lengths. Since the length of a vibrating
+string is inversely proportional to its frequency, each string is made about half as long as
+the string an octave below, two thirds as long as the string a fifth below, etc. This principle
+cannot be carried all the way into the bass since the lowest strings would be inconveniently
+long, so somewhere below middle C the strings are gradually shortened and the diameters of
+the wires are increased in compensation.
+
+As the above comparison shows, the string lengths are approximately doubled at each descending
+octave down to c´ on the virginal and c on the harpsichord. The shape of the case allows the
+harpsichord to have longer bass strings than the virginal; between c´ and c the string length
+is doubled in the harpsichord. However, in the virginal the c string is considerably less than
+twice as long as the string an octave above. In fact, the bass strings of the virginal are
+shortened to such an extent that the lowest string of the harpsichord is much longer than the
+lowest string of the virginal, although in the treble the virginal has longer strings than
+the harpsichord.
+
+If the length of one treble string of an instrument of this sort is known, the lengths of all
+but the bass strings can be readily inferred; we can approximately describe the lengths of
+two-thirds to three-fourths of the strings of either of the above instruments by giving the
+length of one string. It has become customary to use c´´ for this purpose, and to refer to
+it in such cases as pitch C.
+
+In examining a number of Italian harpsichords and virginals dating from 1540 to 1694, lengths
+for pitch C ranging from 8" to 13-3/4" have been found. This seems to be a great discrepancy
+for instruments that are otherwise so standardized. Since a uniform standard of pitch did not
+yet exist in the 16th and 17th centuries, we would expect the string lengths employed to be
+varied somewhat in order to accommodate the instruments to higher or lower tunings. Also, a
+preference for the sound of thinner, longer wires or shorter, thicker ones may have caused
+some builders to increase or decrease the string lengths on their instruments in proportion
+to the string diameters chosen. We have no precise evidence concerning the original wire gauges
+of the strings of Italian harpsichords and virginals. Although the variety of pitch C lengths
+encountered on the instruments studied can partially be accounted for by these two factors,
+a third and more important cause existed.
+
+Among the 33 instruments about which information has been secured, a correlation is discernible
+between the apparent manual compass and the pitch C string lengths. Sixteen of the instruments
+ascend to f´´´. For these, the length of the pitch C string varies from 10-1/4" to 13-3/4".
+The remaining instruments, with either a´´ or c´´´ as the highest notes, have pitch C strings
+ranging from 8" to 11-3/8" in length. If the average tension and wire diameter of the two groups
+are assumed to have been about equal, the difference in string lengths would suggest a corresponding
+difference in pitch, the instruments having the compass extended to f´´´ sounding somewhat
+lower than the others.
+
+There is some historical evidence that this actually was the case. In his Theatrum Instrumentorum
+Michael Praetorius[1] pictures a polygonal virginal, which appears to be very much like the
+many Italian examples that survive today, and a rectangular virginal that seems to be Flemish.
+He specifies that both are so recht Chor-Thon (at regular choir pitch). Praetorius also shows
+a harpsichord[2] that looks like a typical Italian instrument except for the presence of a
+set of strings tuned an octave above unison pitch, a rare feature on Italian harpsichords.
+This harpsichord is described as so eine Quart tieffer alss Chor-Thon (a fourth lower than
+choir pitch), clearly indicating that single manual keyboard instruments a fourth apart in
+pitch were in existence. Since no reason is given for the harpsichord being tuned a fourth
+lower than the two virginals, we may assume that the author considered the matter commonplace
+enough as to demand no further elaboration and that instruments a fourth apart in pitch were
+not rare.
+
+Praetorius does not state that the harpsichord in his illustration was tuned to a low pitch
+standard, which was actually used for certain purposes or in particular localities. He discussed
+the numerous pitches in use before and during his time, but the only one that he mentioned
+as being a fourth below choir pitch he considered obsolete and suitable only for plainsong.
+If the harpsichord was not intended to be tuned to this standard and used for this purpose,
+it must have been tuned to choir pitch and treated as a transposing instrument.
+
+Querinus van Blankenburg,[3] writing in 1739, states:
+
+     At that time [the beginning of the 17th century], men had so little
+     experience in transposition that in order to be able to transpose a
+     piece a fourth downwards they made a special second keyboard in the
+     harpsichord for this purpose. This seems incredible, but the very
+     remarkable proof is the fact that the famous Ruckers from the
+     beginning of the last century for a period of more than thirty
+     years made harpsichords only in this way.[4]
+
+That the second manual of the two-manual harpsichord originated as a device for transposition
+is well known. In an article titled "Transposing Keyboards on Extant Flemish Harpsichords,"
+Sibyl Marcuse[5] discusses surviving examples that show how the second keyboard was arranged.
+The upper keyboard was the principal one, with the lower keyboard sounding a fourth below.
+The strings acted upon by a c key on the upper manual were sounded by an f key on the lower;
+so, in changing from the upper manual to the lower, the player would have to move his hands
+to the left the distance of a perfect fourth in order to strike the same keys, thus producing
+the downward transposition. The compass of the upper manual was E/C to c´´´. Since the lower
+keyboard was shifted to the left, space was provided for five additional keys at its treble
+end. The apparent treble range of the lower keyboard was therefore extended to f´´´, although
+the lower f´´´ and upper c´´´ keys worked on the same strings and produced the same pitch.
+Room was also made for five extra bass keys at the lower end of the upper manual. However,
+since short octave tuning was employed and it was desirable to be able to use the same fingering
+in the bass on both manuals, the tails of the C/E, D/F# and E/G# keys of the upper manual had
+to be bent to the left in order to work on the strings played by the F, G, and A keys respectively
+of the lower manual. The vacant space to the left of the upper manual C/E was filled by a block
+of wood. Hence the five extra bass strings not used by the upper manual were those played by
+the C/E, D/F#, E/G#, B, and c# keys of the lower keyboard.
+
+Of the 16 Italian harpsichords and virginals studied that ascend in the treble to f´´´, 13
+range to C/E in the bass, thus having exactly the same compass as the lower (transposing) keyboard
+of the Flemish two-manual instruments. Twelve of the 14 Italian examples having c´´´ as the
+highest key stop on C/E in the bass and are identical in apparent compass to the Ruckers upper
+manual.
+
+The correlation of compass and string length of the Italian instruments, the statements of
+Praetorius, and the similarity of the Italian keyboard ranges to those of the Ruckers transposing
+harpsichords have been considered. A plausible conclusion is that the Italian instruments extending
+to f´´´ were transposing instruments sounding a perfect fourth lower than the prevailing pitch
+standard. Adopting the terminology used for orchestral wind instruments, these could be referred
+to as harpsichords in G.
+
+The evidence of the correlation between string length and compass becomes much more convincing
+if we assume that the Italian builders abandoned the practice of making transposing harpsichords
+about the same time that the Ruckers family stopped employing the transposing lower manual.
+In the quotation previously given, Querinus van Blankenburg tells us that the Ruckers did not
+make transposing instruments later than the 1630's. Of the 10 dated Italian instruments with
+the keyboard extended to f´´´, only three were made after the third decade of the 17th century.
+Each of these has a shorter pitch C string than any of the seven earlier instruments. These
+three harpsichords, dated 1654, 1658, and 1666, are accordingly considered nontransposing instruments,
+with the extra treble keys representing an actual extension of the upward range. The six undated
+instruments with f´´´ in the treble are classified as transposing instruments because of their
+pitch C lengths and are accordingly believed to have been made before about 1635.
+
+The 33 instruments on which this study is based are classified in the list on page 107. They
+are grouped according to whether the highest key is f´´´ or c´´´, with the exceptions of the
+three harpsichords mentioned in the preceding paragraph and three instruments that go only
+to a´´. That the three instruments ending on a´´ belong with the nontransposing group is indicated
+by their string lengths.
+
+The listing gives additional information about each example. String lengths of instruments
+having two registers are for the shorter of the two pitch C strings.
+
+Information has been secured on two Italian virginals which were not included in the tabulation.
+Their measurements are completely at variance with the pattern consistently set by the other
+33 examples studied. One, made by Giovanni Domenico in 1556, is in the Skinner collection;
+it has a pitch C string 14-1/16" in length and an apparent compass of C/E to c´´´. The other,
+with the same apparent compass and a 7-1/2" pitch C string, is at Yale University. Whether
+these instruments are exceptional in terms of the pitch to which they were tuned, the tension
+which was applied to the strings, or the thickness and weight of the strings themselves, has
+not been determined.
+
+The average of the pitch C lengths of the transposing instruments in the list is 12.78"; that
+of the nontransposing group is 10.45". This suggests a separation between the two groups of
+about a major third since the first average is roughly 5/4 of the second. However, the fact
+that the separation of the two averages is not great enough to positively indicate a perfect
+fourth--the first average would have to be 4/3 of the second to do so--does not disprove the
+theory of transposition by a fourth. In the first place, a considerable variety of pitches
+is no doubt represented in both groups since a universal pitch standard did not exist in the
+16th and 17th centuries. Also, a margin of error of only a semitone is as good as could be
+expected considering the small number of examples on which the averages are based.
+
+A further possible justification for the relationship of the two averages is found in Praetorius'
+discussion of the pitch standards with which he was familiar.[6] He states that choir pitch
+was a major second lower than chamber pitch and that tertiam minorem was a minor third lower
+than chamber pitch. Praetorius says of tertiam minorem:[7]
+
+     But in Italy and in various Catholic choirs in Germany, the said
+     lower pitch is much in use. For some Italians, not unjustly, take
+     no pleasure in high singing, and maintain it is not beautiful, and
+     the words cannot be properly understood, and it sounds like
+     crowing, yelling, singing at the top of one's voice....
+
+Possibly some of the nontransposing instruments were tuned to choir pitch and others to tertiam
+minorem, while the transposing instruments were set a fourth lower than choir pitch.
+
+Three of the instruments listed are ottavinas, small instruments tuned an octave higher than
+usual. Ottavinas correspond to a four-foot register. Mersenne[8] mentions that they existed
+in two sizes, one a fifth above the usual pitch and the other an octave above. The three ottavinas
+included in the table are considered to be of the size sounding an octave above the usual pitch
+because they have C/E to c´´´ ranges and pitch C string lengths about half the average length
+of the other instruments in the nontransposing group. Although no examples were found for inclusion
+in this study, it is probable that some ottavinas a fifth above the usual pitch--and therefore
+an octave higher than the transposing instruments in our listing--survive. Such instruments
+would be expected to have apparent ranges of C/E to f´´´ and pitch C strings between 5-3/4"
+and 6-3/4" in length.
+
+DATA ON THE 33 INSTRUMENTS STUDIED
+
+KEY:
+
+A.: Date B.: Pitch C length (in inches) C.: Apparent compass D.: Type E.: Registers F.: Maker
+G.: Present location
+
+ A.    B.         C.           D.           E.      F.            G.
+
+TRANSPOSING INSTRUMENTS
+
+1540  11-11/16   C/E-f´´´   Polygonal     8´     Vi ... ies   Metropolitan
+                            virginal                          Museum of
+                                                              Art
+1569  13-1/4     C/E-f´´´   Polygonal     8´     Annibale     Juilliard
+                            virginal             Rossi        School
+                                                              of Music
+1602  13-1/4     C/E-f´´´   Rectangular   8´     Ioannes      Smithsonian
+                            virginal             Baptista     Institution
+                                                  Bononien
+1610  13-1/2     C/E-f´´´´  Polygonal     8´     Pasquino     Harding
+                            virginal             Querci       Museum,
+                                                              Chicago
+1613  11-1/2     C/E-f´´´   Harpsichord   8´8´   Pasquino     Smithsonian
+                                                  Querci       Institution
+1617  13-3/4     C/E-f´´´   Polygonal     8´     Giovanni     Yale
+                            virginal             Battista     University,
+                                                  Boni        New Haven,
+                                                              Conn.
+1620  13-9/16    C/E-f´´´   Polygonal     8´     Francesco    Rhode Island
+                            virginal             Poggio       School of
+                                                              Design,
+                                                              Providence
+      11-15/16   C/E-f´´´   Polygonal     8´     Anonymous    Skinner
+                            virginal                          Collection,
+                                                              Holyoke,
+                                                              Mass.
+      12-15/16   C/E-f´´´   Polygonal     8´     Anonymous    Smithsonian
+                            virginal                           Institution
+      13" It is double the length of the shortest
+string on the instrument.
+
+[b] In order to arrive at a meaningful average value for the string lengths of the nontransposing
+group, it was necessary to double the measured lengths of the pitch C strings of the three
+instruments tuned an octave higher.
+
+[2] Ibid., pl. 6.
+
+[3] Querinus van Blankenburg, Elementa Musica, The Hague, 1739.
+
+[4] Translation by Arthur Mendel in "Devices for Transposition in the Organ before 1600," Acta
+Musicologica, 1949, p. 33.
+
+[5] Sibyl Marcuse, "Transposing Keyboards on Extant Flemish Harpsichords," Musical Quarterly,
+July 1952.
+
+[6] Michael Praetorius, Syntagma Musicum, Wolfenbüttel, 1614-1620, vol. 2 (Organographia),
+chapter 2.
+
+[7] Translation by Arthur Mendel in "Pitch in the 16th and early 17th Centuries, Part II,"
+Musical Quarterly, April 1948.
+
+[8] Marin Mersenne, Harmonie Universelle, Paris, 1636, p. 101.
+

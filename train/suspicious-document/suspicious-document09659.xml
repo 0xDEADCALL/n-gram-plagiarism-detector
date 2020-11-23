@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09659.txt">
+  <feature name="about" authors="Bain, Francis William" title="Bubbles of the Foam" lang="en" />
+  <feature name="md5Hash" value="7ed05623675e13993113b2dff5b76e0a" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="29645" this_length="12877" source_reference="source-document00684.txt" source_language="en" source_offset="19771" source_length="15862" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="82525" this_length="4383" source_reference="source-document00684.txt" source_language="en" source_offset="7028" source_length="4402" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="99137" this_length="468" source_reference="source-document10175.txt" source_language="en" source_offset="157012" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="100928" this_length="245" source_reference="source-document00684.txt" source_language="en" source_offset="13496" source_length="254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="106002" this_length="1801" source_reference="source-document10175.txt" source_language="en" source_offset="351763" source_length="1808" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115686" this_length="3150" source_reference="source-document00684.txt" source_language="en" source_offset="15400" source_length="3123" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="126200" this_length="2907" source_reference="source-document10175.txt" source_language="en" source_offset="62376" source_length="2975" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="142988" this_length="1596" source_reference="source-document10175.txt" source_language="en" source_offset="558558" source_length="1603" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="151134" this_length="465" source_reference="source-document00684.txt" source_language="en" source_offset="14214" source_length="476" />
+</document>
+

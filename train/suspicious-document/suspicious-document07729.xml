@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07729.txt">
+  <feature name="about" authors="Luther, Martin" title="Selections from the Table Talk of Martin Luther" lang="en" />
+  <feature name="md5Hash" value="3df189fc4ebc34d13592ab5f28dd987f" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="61672" this_length="3420" source_reference="source-document09750.txt" source_language="de" source_offset="271166" source_length="3633" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="79800" this_length="427" source_reference="source-document09807.txt" source_language="de" source_offset="30429" source_length="469" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="140855" this_length="2962" source_reference="source-document09750.txt" source_language="de" source_offset="78645" source_length="3202" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="155519" this_length="481" source_reference="source-document08924.txt" source_language="de" source_offset="15836" source_length="526" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="166442" this_length="424" source_reference="source-document03876.txt" source_language="de" source_offset="83964" source_length="504" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="173407" this_length="192" source_reference="source-document09807.txt" source_language="de" source_offset="19115" source_length="235" />
+</document>
+

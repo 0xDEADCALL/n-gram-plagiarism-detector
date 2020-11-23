@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05822.txt">
+  <feature name="about" authors="Trollope, Anthony" title="The American Senator" lang="en" />
+  <feature name="md5Hash" value="b1af270f805435a3ce5e83ac62043e51" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1145" this_length="517" source_reference="source-document10683.txt" source_language="en" source_offset="1398" source_length="524" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="21697" this_length="4427" source_reference="source-document02713.txt" source_language="en" source_offset="26755" source_length="4248" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="35034" this_length="3382" source_reference="source-document05321.txt" source_language="en" source_offset="74070" source_length="4760" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="67999" this_length="1443" source_reference="source-document05321.txt" source_language="en" source_offset="115191" source_length="1490" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="73458" this_length="500" source_reference="source-document02713.txt" source_language="en" source_offset="16681" source_length="473" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="83175" this_length="1526" source_reference="source-document02713.txt" source_language="en" source_offset="18001" source_length="1543" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="90663" this_length="2202" source_reference="source-document05321.txt" source_language="en" source_offset="127778" source_length="2090" />
+</document>
+

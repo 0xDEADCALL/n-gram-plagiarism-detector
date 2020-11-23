@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05595.txt">
+  <feature name="about" authors="Colum, Padraic" title="The Boy Who Knew What The Birds Said" lang="en" />
+  <feature name="md5Hash" value="99ad3223c292acf193658df0f50e3893" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3517" this_length="3431" source_reference="source-document03278.txt" source_language="en" source_offset="192569" source_length="3635" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18706" this_length="18563" source_reference="source-document05199.txt" source_language="en" source_offset="79227" source_length="19499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="75883" this_length="14753" source_reference="source-document05199.txt" source_language="en" source_offset="18972" source_length="15125" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="96228" this_length="2234" source_reference="source-document05199.txt" source_language="en" source_offset="237768" source_length="2235" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101331" this_length="2671" source_reference="source-document05199.txt" source_language="en" source_offset="74739" source_length="2689" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="108619" this_length="2467" source_reference="source-document05199.txt" source_language="en" source_offset="147064" source_length="2453" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="114170" this_length="836" source_reference="source-document05199.txt" source_language="en" source_offset="121895" source_length="822" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="115879" this_length="241" source_reference="source-document03278.txt" source_language="en" source_offset="154150" source_length="232" />
+</document>
+

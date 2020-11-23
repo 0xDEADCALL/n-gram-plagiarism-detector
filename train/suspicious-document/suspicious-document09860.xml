@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09860.txt">
+  <feature name="about" authors="Saltus, Edgar" title="Imperial Purple" lang="en" />
+  <feature name="md5Hash" value="60610cd27ad2cc1db2209ca457a96815" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1487" this_length="747" source_reference="source-document06665.txt" source_language="en" source_offset="5628" source_length="729" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2922" this_length="271" source_reference="source-document06665.txt" source_language="en" source_offset="3814" source_length="274" />
+</document>
+

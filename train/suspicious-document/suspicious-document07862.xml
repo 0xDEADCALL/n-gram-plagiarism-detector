@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07862.txt">
+  <feature name="about" authors="Dickens, Charles" title="Mugby Junction" lang="en" />
+  <feature name="md5Hash" value="a26cd9cd1cdd6103ebddab893740ba61" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="22453" this_length="20911" source_reference="source-document03650.txt" source_language="de" source_offset="31728" source_length="24326" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="57746" this_length="19490" source_reference="source-document03650.txt" source_language="de" source_offset="168190" source_length="21497" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="98793" this_length="2134" source_reference="source-document03650.txt" source_language="de" source_offset="139043" source_length="2446" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="105804" this_length="3237" source_reference="source-document03650.txt" source_language="de" source_offset="88815" source_length="3633" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="120923" this_length="19947" source_reference="source-document03650.txt" source_language="de" source_offset="93639" source_length="22522" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="168847" this_length="20530" source_reference="source-document10039.txt" source_language="de" source_offset="4260" source_length="23012" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="218728" this_length="13635" source_reference="source-document03650.txt" source_language="de" source_offset="123070" source_length="15512" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="239374" this_length="2495" source_reference="source-document03650.txt" source_language="de" source_offset="1283" source_length="2915" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="244697" this_length="3387" source_reference="source-document10039.txt" source_language="de" source_offset="29114" source_length="3777" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="252969" this_length="1928" source_reference="source-document10039.txt" source_language="de" source_offset="1911" source_length="2164" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="257028" this_length="219" source_reference="source-document03650.txt" source_language="de" source_offset="80687" source_length="245" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="257672" this_length="433" source_reference="source-document10039.txt" source_language="de" source_offset="27867" source_length="486" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="258412" this_length="231" source_reference="source-document03650.txt" source_language="de" source_offset="791" source_length="259" />
+  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="258946" this_length="246" source_reference="source-document10039.txt" source_language="de" source_offset="27469" source_length="267" />
+</document>
+
