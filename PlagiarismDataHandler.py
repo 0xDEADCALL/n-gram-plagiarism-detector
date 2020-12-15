@@ -5,7 +5,6 @@ from errno import ENOENT
 from os import strerror
 from errors import *
 from NGram import *
-from DependencyRelations import *
 from random import sample
 from multiprocessing import cpu_count
 
@@ -23,10 +22,6 @@ import stanza
 def save_ngram_protected(path: pathlib.PurePath, output: pathlib.PurePath, order: int,
                          transformations: list = ["tok"]):
     NGram.from_txt_file(path, order, transformations).save(output / (path.stem + ".NGram"))
-
-
-def save_dep_protected(path: pathlib.PurePath, output: pathlib.PurePath, nlp):
-    DependencyRelations.from_txt_file(path, nlp).save(output / (path.stem + ".dep"))
 
 
 class PlagiarismFile:
@@ -185,31 +180,3 @@ class PlagiarismDataHandler:
             r = list(tqdm.tqdm(p.istarmap(save_ngram_protected, args_suspicious),
                                total=len(args_suspicious),
                                desc="Writing suspicious .NGram files"))
-
-    def gen_dep_files(self, output: pathlib.PurePath):
-
-        if not isinstance(output, PurePath):
-            raise NotPurePathError("output arg is not PurePath object")
-
-        if not (output.exists()):
-            raise FileNotFoundError(ENOENT, strerror(ENOENT), output)
-
-        # Make output dirs
-        out_source = output / f"source-dep"
-        out_suspicious = output / f"suspicious-dep"
-
-        out_source.mkdir(parents=True, exist_ok=True)
-        out_suspicious.mkdir(parents=True, exist_ok=True)
-
-        source_files = self.txt_source_paths
-        suspicious_files = self.txt_suspicious_paths
-
-        nlp = stanza.Pipeline(lang='en', processors='tokenize,pos,lemma,depparse', use_gpu=False)
-
-        for file in tqdm.tqdm(source_files,
-                              desc="Generating source .dep files"):
-            save_dep_protected(file, out_source, nlp)
-
-        for file in tqdm.tqdm(suspicious_files,
-                              desc="Generating suspicious .dep files"):
-            save_dep_protected(file, out_suspicious, nlp)

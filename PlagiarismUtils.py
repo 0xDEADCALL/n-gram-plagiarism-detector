@@ -77,30 +77,25 @@ class PlagiarismUtils:
     def preprocess(self):
         parser = argparse.ArgumentParser(
             description="Generate preprocessed features (ngrams and syntactic dependency relations) used to detection",
-            usage="""preprocess [src_files] [sus_files] [output_folder] [type (ngram, dep)] [--order] [opts (tok, lem, 
-                  lower, alpha)]"""
+            usage="""preprocess [src_files] [sus_files] [output_folder] [order] [opts (tok, lem, lower, alpha)]"""
         )
 
         # Add args
         parser.add_argument("src_files", type=dir_path)
         parser.add_argument("sus_files", type=dir_path)
         parser.add_argument("output", type=dir_path)
-        parser.add_argument("type", choices=["dep", "ngram"], type=str)
-        parser.add_argument("--order", type=int, default=3)
+        parser.add_argument("order", type=int, default=3)
         parser.add_argument("opts", nargs="*")
 
         # Parse args
         args = parser.parse_args(sys.argv[2:])
 
         handler = PlagiarismDataHandler(args.src_files, args.sus_files)
-        if args.type == "dep":
-            handler.gen_dep_files(args.output, )
+        
+        if args.opts:
+            handler.gen_ngram_files(args.order, args.output, args.opts)
         else:
-            # Check if opts is specified
-            if args.opts:
-                handler.gen_ngram_files(args.order, args.output, args.opts)
-            else:
-                raise argparse.ArgumentParser(f"A set of transformations need to be specified")
+            raise argparse.ArgumentParser(f"A set of transformations need to be specified")
 
     def scores(self):
         parser = argparse.ArgumentParser(
@@ -143,13 +138,6 @@ class PlagiarismUtils:
             tree = pickle.load(f)
         data = pd.read_csv(args.scores, header=0)
 
-        ##################################################################################
-        # Purge dataframe from errors introduced when writing the csv
-        # For debugging purposes, if all goes ok its not needed
-        data = data[~data.isin([np.nan, np.inf, -np.inf]).any(1)]
-        #################################################################################
-
-        data.reset_index(inplace=True, drop=True)
         X = data.drop(["src", "sus", "plagiarized"], axis=1, errors="ignore")
 
         if len(tree.feature_importances_) != len(X.columns):

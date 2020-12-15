@@ -23,8 +23,6 @@ def __get_tmp_folders(tmp_folder):
     # They must have the same order
     src_ngrams = list(tmp_folder.glob("source-*-ngram"))
     sus_ngrams = list(tmp_folder.glob("suspicious-*-ngram"))
-    src_dep = list(tmp_folder.glob("source-dep"))
-    sus_dep = list(tmp_folder.glob("suspicious-dep"))
 
     if len(src_ngrams) != len(sus_ngrams):
         raise TmpDirectoryError
@@ -33,9 +31,6 @@ def __get_tmp_folders(tmp_folder):
     processed = {}
     for src_ngram, sus_ngram in zip(src_ngrams, sus_ngrams):
         processed[src_ngram.stem.replace("source-", "")] = (src_ngram, sus_ngram)
-
-    if src_dep and sus_dep:
-        processed["dep"] = (src_dep[0], sus_dep[0])
 
     return processed
 
@@ -80,16 +75,11 @@ def __calc_distance(q, pair, is_training=False):
         src = value[0]
         sus = value[1]
 
-        if key == "dep":
-            src_dep = DependencyRelations.from_dep_file(src)
-            sus_dep = DependencyRelations.from_dep_file(sus)
-            distances[key] = sus_dep.similarity(src_dep)
-
-        else:
-            src_ngram = NGram.from_ngram_file(src)
-            sus_ngram = NGram.from_ngram_file(sus)
-            distances[key + "-jaccard"] = sus_ngram.similarity(src_ngram)
-            #distances[key + "-containment"] = sus_ngram.similarity(src_ngram, "containment")
+        src_ngram = NGram.from_ngram_file(src)
+        sus_ngram = NGram.from_ngram_file(sus)
+        distances[key + "-jaccard"] = sus_ngram.similarity(src_ngram)
+        # Not much use in computing the containment as well
+        # distances[key + "-containment"] = sus_ngram.similarity(src_ngram, "containment")
 
     if is_training:
         src_refs = [xml["source_file"] for xml in PlagiarismFile(pair["sus"].with_suffix(".xml")).plagiarized_refs]
@@ -122,7 +112,7 @@ def writeCSV(tmp_folder, src_files, sus_files, output, is_training=False):
         for src in src_files:
             pairs.append({"sus": sus, "src": src})
             for key, value in folders.items():
-                suffix = ".dep" if key == "dep" else ".NGram"
+                suffix = ".NGram"
                 pairs[-1][key] = (value[0] / (src.stem + suffix),
                                   value[1] / (sus.stem + suffix))
 
