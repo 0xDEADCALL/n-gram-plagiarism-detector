@@ -88,7 +88,8 @@ def __calc_distance(q, pair, is_training=False):
         else:
             src_ngram = NGram.from_ngram_file(src)
             sus_ngram = NGram.from_ngram_file(sus)
-            distances[key] = sus_ngram.similarity(src_ngram)
+            distances[key + "-jaccard"] = sus_ngram.similarity(src_ngram)
+            #distances[key + "-containment"] = sus_ngram.similarity(src_ngram, "containment")
 
     if is_training:
         src_refs = [xml["source_file"] for xml in PlagiarismFile(pair["sus"].with_suffix(".xml")).plagiarized_refs]
@@ -127,6 +128,14 @@ def writeCSV(tmp_folder, src_files, sus_files, output, is_training=False):
 
     # Def header to identify scores
     header = ["src", "sus"] + list(folders.keys())
+
+    """
+    for i in range(len(header) - 1, 0, -1):
+        if "ngram" in header[i]:
+            header.insert(i, header[i] + "-containment")
+            header[i + 1] += "-jaccard"
+    """
+
     if is_training:
         header += ["plagiarized"]
 

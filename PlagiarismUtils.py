@@ -144,7 +144,7 @@ class PlagiarismUtils:
         data = pd.read_csv(args.scores, header=0)
 
         ##################################################################################
-        # Purge dataframe from erros introduced when writing the csv
+        # Purge dataframe from errors introduced when writing the csv
         # For debugging purposes, if all goes ok its not needed
         data = data[~data.isin([np.nan, np.inf, -np.inf]).any(1)]
         #################################################################################
