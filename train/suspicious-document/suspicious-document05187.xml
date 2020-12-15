@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document05187.txt">
-  <feature name="about" authors="Sinclair, Bertrand W." title="North of Fifty-Three" lang="en" />
-  <feature name="md5Hash" value="4879ce46dc963ff25aa3f75c70b9ddf9" />
-  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="6609" this_length="670" source_reference="source-document03742.txt" source_language="en" source_offset="418649" source_length="680" />
-  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="17257" this_length="229" source_reference="source-document03742.txt" source_language="en" source_offset="658548" source_length="245" />
-  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="26488" this_length="243" source_reference="source-document03742.txt" source_language="en" source_offset="329856" source_length="245" />
-</document>
-

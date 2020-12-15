@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00421.txt">
-  <feature name="about" authors="James, Henry" title="The Beldonald Holbein" lang="en" />
-  <feature name="md5Hash" value="a4392021f74752b253ac5f02d8164abb" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2144" this_length="259" source_reference="source-document04123.txt" source_language="en" source_offset="16653" source_length="266" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="23647" this_length="1415" source_reference="source-document06971.txt" source_language="en" source_offset="59140" source_length="1402" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="41952" this_length="252" source_reference="source-document08954.txt" source_language="en" source_offset="7890" source_length="248" />
-</document>
-

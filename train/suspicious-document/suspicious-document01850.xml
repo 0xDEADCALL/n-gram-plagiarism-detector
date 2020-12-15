@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01850.txt">
-  <feature name="about" authors="Troward, Thomas" title="The Doré Lectures being Sunday addresses at the Doré Gallery, London, given in connection with the Higher Thought Centre" lang="en" />
-  <feature name="md5Hash" value="b9e5abfc31ea65fcd4ef425200aac51a" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2038" this_length="769" source_reference="source-document09765.txt" source_language="en" source_offset="4944" source_length="784" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4414" this_length="713" source_reference="source-document09765.txt" source_language="en" source_offset="0" source_length="704" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7414" this_length="235" source_reference="source-document09765.txt" source_language="en" source_offset="9971" source_length="233" />
-</document>
-

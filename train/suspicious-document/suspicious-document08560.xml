@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document08560.txt">
-  <feature name="about" authors="Warner, Charles Dudley" title="The Relation of Literature to Life" lang="en" />
-  <feature name="md5Hash" value="40a9514e07291a97fd78471ee17cf286" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3473" this_length="455" source_reference="source-document02253.txt" source_language="en" source_offset="912282" source_length="469" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12999" this_length="226" source_reference="source-document02253.txt" source_language="en" source_offset="703452" source_length="271" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20111" this_length="259" source_reference="source-document02253.txt" source_language="en" source_offset="429208" source_length="269" />
-</document>
-

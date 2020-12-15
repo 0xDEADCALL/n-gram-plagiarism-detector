@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document05915.txt">
-  <feature name="about" authors="Porter, Eleanor Hodgman" title="Mary Marie" lang="en" />
-  <feature name="md5Hash" value="e0f8401acfbe5da3d1825bb8c05cc71d" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="76325" this_length="21841" source_reference="source-document07870.txt" source_language="en" source_offset="466660" source_length="21753" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="238261" this_length="15022" source_reference="source-document07870.txt" source_language="en" source_offset="383567" source_length="14959" />
-</document>
-

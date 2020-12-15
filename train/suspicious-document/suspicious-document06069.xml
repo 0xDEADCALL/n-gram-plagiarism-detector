@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document06069.txt">
-  <feature name="about" authors="Twain, Mark" title="The Adventures of Tom Sawyer, Part 4." lang="en" />
-  <feature name="md5Hash" value="9a4d972e1485d4c188f3bc9ae692d620" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95" this_length="11688" source_reference="source-document00873.txt" source_language="en" source_offset="11291" source_length="17351" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12844" this_length="550" source_reference="source-document00873.txt" source_language="en" source_offset="32024" source_length="546" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13395" this_length="539" source_reference="source-document00873.txt" source_language="en" source_offset="9382" source_length="545" />
-</document>
-

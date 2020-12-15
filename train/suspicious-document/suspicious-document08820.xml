@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document08820.txt">
-  <feature name="about" authors="Seton-Thompson, Grace Gallatin" title="A Woman Tenderfoot" lang="en" />
-  <feature name="md5Hash" value="b5d597d4995f87e2a1e5b3cf20deebaf" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="6915" this_length="673" source_reference="source-document05121.txt" source_language="de" source_offset="7204" source_length="770" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="20084" this_length="263" source_reference="source-document05121.txt" source_language="de" source_offset="269" source_length="526" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="false" this_language="en" this_offset="29327" this_length="218" source_reference="source-document05121.txt" source_language="de" source_offset="13323" source_length="249" />
-</document>
-

@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document00749.txt">
-  <feature name="about" authors="Snell, Frederick John" title="The Customs of Old England" lang="en" />
-  <feature name="md5Hash" value="cb2a5e05abd3f5eec986b090c7791b29" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="5237" source_reference="source-document06329.txt" source_language="en" source_offset="167612" source_length="4990" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5239" this_length="528" source_reference="source-document09302.txt" source_language="en" source_offset="1210" source_length="528" />
-</document>
-

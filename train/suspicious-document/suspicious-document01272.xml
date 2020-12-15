@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01272.txt">
-  <feature name="about" authors="Barham, George Basil" title="Legend Land, Vol. 1 Being a collection of some of the Old Tales told in those Western Parts of Britain served by The Great Western Railway." lang="en" />
-  <feature name="md5Hash" value="4e6df44d4dd34667bcc24b4b273c269e" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="572" this_length="748" source_reference="source-document05768.txt" source_language="en" source_offset="10464" source_length="750" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="25799" this_length="1679" source_reference="source-document00635.txt" source_language="en" source_offset="461968" source_length="1661" />
-</document>
-

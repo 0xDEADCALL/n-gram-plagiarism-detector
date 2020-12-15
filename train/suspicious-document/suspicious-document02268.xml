@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02268.txt">
-  <feature name="about" authors="United States. Executive Office of the President" title="National Strategy for Combating Terrorism February 2003" lang="en" />
-  <feature name="md5Hash" value="3e289ce2c8c874678c2eae2ca5daeb6c" />
-  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="4826" this_length="505" source_reference="source-document01025.txt" source_language="en" source_offset="185728" source_length="525" />
-</document>
-

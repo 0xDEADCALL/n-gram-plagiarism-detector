@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document01860.txt">
-  <feature name="about" authors="Swain, George Fillmore" title="How to Study" lang="en" />
-  <feature name="md5Hash" value="77cc3ad883ac3b5914da99a2760743f7" />
-  <feature name="plagiarism" type="simulated" this_language="en" this_offset="2999" this_length="403" source_reference="source-document01502.txt" source_language="en" source_offset="61047" source_length="473" />
-</document>
-

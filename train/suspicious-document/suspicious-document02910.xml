@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document02910.txt">
-  <feature name="about" authors="Seltzer, Charles Alden" title="The Trail Horde" lang="en" />
-  <feature name="md5Hash" value="a03dfb7347b73bf82de248d5c12e9fb9" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="1058" this_length="1826" source_reference="source-document02825.txt" source_language="es" source_offset="69493" source_length="1938" />
-  <feature name="plagiarism" type="translation" manual_obfuscation="true" this_language="en" this_offset="2975" this_length="329" source_reference="source-document02825.txt" source_language="es" source_offset="19926" source_length="485" />
-</document>
-

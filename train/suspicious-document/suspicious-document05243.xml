@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document05243.txt">
-  <feature name="about" authors="Thomson, J. Arthur" title="The Outline of Science, Vol. 1 (of 4) A Plain Story Simply Told" lang="en" />
-  <feature name="md5Hash" value="95e79514bcddb9c7b80d016920fc75f2" />
-  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="325" this_length="8201" source_reference="source-document00652.txt" source_language="en" source_offset="5734" source_length="14845" />
-  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="13989" this_length="1880" source_reference="source-document00652.txt" source_language="en" source_offset="40671" source_length="1889" />
-</document>
-

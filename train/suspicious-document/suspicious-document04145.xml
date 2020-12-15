@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document04145.txt">
-  <feature name="about" authors="Verne, Jules" title="Celebrated Travels and Travellers Part 2. The Great Navigators of the Eighteenth Century" lang="en" />
-  <feature name="md5Hash" value="f181015f8750acb5e54fb0a7d7559a23" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2251" this_length="2458" source_reference="source-document04528.txt" source_language="en" source_offset="686" source_length="2830" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="20698" this_length="250" source_reference="source-document05493.txt" source_language="en" source_offset="147841" source_length="243" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22359" this_length="252" source_reference="source-document04528.txt" source_language="en" source_offset="4134" source_length="268" />
-</document>
-

@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document03700.txt">
-  <feature name="about" authors="Wolf, C. W." title="Apis Mellifica or, The Poison of the Honey-Bee, Considered as a Therapeutic Agent" lang="en" />
-  <feature name="md5Hash" value="c6513f39f6882127bba3024a03ae60b1" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="214" this_length="468" source_reference="source-document00029.txt" source_language="en" source_offset="9879" source_length="467" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6302" this_length="219" source_reference="source-document00029.txt" source_language="en" source_offset="4928" source_length="233" />
-</document>
-

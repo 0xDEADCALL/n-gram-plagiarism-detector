@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document07029.txt">
-  <feature name="about" authors="Yonge, Charlotte Mary" title="Little Lucy's Wonderful Globe" lang="en" />
-  <feature name="md5Hash" value="6dc86b2aee0430b5d6daf90dade9c4b2" />
-  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="745" this_length="4073" source_reference="source-document08417.txt" source_language="en" source_offset="17926" source_length="4230" />
-  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8489" this_length="1781" source_reference="source-document08417.txt" source_language="en" source_offset="1782" source_length="3511" />
-  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="11604" this_length="437" source_reference="source-document09066.txt" source_language="en" source_offset="21658" source_length="474" />
-</document>
-

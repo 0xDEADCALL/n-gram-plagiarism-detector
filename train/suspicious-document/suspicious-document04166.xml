@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document04166.txt">
-  <feature name="about" authors="Van Dyke, Henry" title="Joy &amp; Power" lang="en" />
-  <feature name="md5Hash" value="f664e3a952e0874adc53ab63315996e8" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="1923" this_length="755" source_reference="source-document03416.txt" source_language="en" source_offset="400584" source_length="755" />
-  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="6878" this_length="251" source_reference="source-document03416.txt" source_language="en" source_offset="236754" source_length="253" />
-</document>
-

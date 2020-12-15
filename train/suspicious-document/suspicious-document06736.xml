@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document reference="suspicious-document06736.txt">
-  <feature name="about" authors="Virgil" title="The Aeneid of Virgil" lang="en" />
-  <feature name="md5Hash" value="ebc37eec4373716601c004f466be04b2" />
-  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4303" this_length="1712" source_reference="source-document02379.txt" source_language="en" source_offset="134665" source_length="1755" />
-</document>
-
