@@ -2,3 +2,4 @@ data/corpus/
 train/
 __pycache__/
 .idea/
+subset/

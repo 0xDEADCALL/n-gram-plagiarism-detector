@@ -12,7 +12,6 @@ from istarmap import *
 import xml.etree.ElementTree as ET
 import tqdm
 import shutil
-import stanza
 
 
 # TODO:
